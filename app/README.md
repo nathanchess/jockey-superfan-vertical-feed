@@ -2,6 +2,8 @@
 
 Next.js 16 app for the Fox Superfan vertical feed demo. This is the **Vercel-deployable** package — set it as the project root directory when importing to Vercel.
 
+System architecture: [architecture.png](../architecture.png) (repo root).
+
 ## Setup
 
 ```bash

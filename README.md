@@ -14,6 +14,13 @@ A production-style demo that turns long-form reality TV episodes into a personal
 | `scripts/check_ks_items.mjs` | Debug: list Jockey knowledge-store items |
 | `strand/` | TwelveLabs Strand design tokens |
 | `PRD-Superfan-Vertical-Feed.md` | Product spec |
+| `architecture.png` | System architecture diagram |
+
+## Architecture
+
+![Superfan Vertical Feed Engine architecture](architecture.png)
+
+Offline pre-processing (Pegasus segmentation, Jockey enrichment) runs locally and produces `feed_manifest_v2.json`. The Next.js app on Vercel serves persona-ranked feeds, Marengo search, and runtime Jockey Spotlight against live TwelveLabs APIs.
 
 ## Quick start (local)
 
@@ -51,25 +58,9 @@ python scripts/sync_manifest.py
 
 Offline scripts transform TwelveLabs assets into the bundled manifest the Next.js app serves. Nothing in this section runs on Vercel — run locally, commit the updated JSON, then redeploy.
 
-### Pipeline overview
+See the [architecture diagram](#architecture) above for the full system layout.
 
-```
-TwelveLabs Assets (episodes)
-        │
-        ├─► pre-processing/knowledge_store.py   Create KS + add episodes (one-time / per season)
-        │
-        ├─► ranking.py segment                  Pegasus 1.5 time-based segmentation
-        │         └─► data/feed_manifest.json
-        │
-        ├─► ranking.py jockey                   Jockey 1.0 cross-episode top moments
-        │         └─► merges jockey_boost onto segments in same manifest
-        │
-        ├─► ranking.py                          (optional) Print persona ranking preview
-        │
-        └─► scripts/sync_manifest.py            Copy slim manifest → app/data/feed_manifest_v2.json
-```
-
-### Prerequisites
+### Pipeline steps
 
 From the **repo root**:
 
@@ -208,12 +199,12 @@ When adding a new episode to an existing season:
 
 1. Transcode if needed (`assets/transcode_under_4gb.ps1`) and upload to TwelveLabs (`python scripts/upload_assets.py`).
 2. Add to Marengo index (`TL_INDEX_ID`).
-2. `python pre-processing/knowledge_store.py` — add asset to KS.
-3. Append asset ID to `DEFAULT_ASSET_IDS` in `ranking.py`.
-4. `python ranking.py segment`
-5. `python ranking.py jockey`
-6. `python scripts/sync_manifest.py`
-7. Commit `app/data/feed_manifest_v2.json` and redeploy.
+3. `python pre-processing/knowledge_store.py` — add asset to KS.
+4. Append asset ID to `DEFAULT_ASSET_IDS` in `ranking.py`.
+5. `python ranking.py segment`
+6. `python ranking.py jockey`
+7. `python scripts/sync_manifest.py`
+8. Commit `app/data/feed_manifest_v2.json` and redeploy.
 
 ## Deploy to Vercel
 
