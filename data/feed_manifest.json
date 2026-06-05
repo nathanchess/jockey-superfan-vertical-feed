@@ -1,0 +1,3534 @@
+{
+  "generated_at": "2026-05-27T16:20:26.651847+00:00",
+  "asset_ids": [
+    "6a14ddbaddce351fa0ae8952",
+    "6a14ddba163adca316ecc289",
+    "6a14ddba853a852798e911d5",
+    "6a14ddba15649e226a0448c8",
+    "6a14ddbbbe7b2161f2b604f0"
+  ],
+  "by_asset_id": {
+    "6a14ddbaddce351fa0ae8952": {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "task_id": "6a17154aa35bbfb00c5cea12",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a14ddba_seg_0000",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 195,
+          "end_sec": 225,
+          "duration_sec": 30,
+          "description": "The housewives arrive at the ultra-pink Trixie Motel in Palm Springs. Drag queen Trixie Mattel greets them in a fluffy mint-green outfit, and the group marvels at the drag-themed decor.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights the glamorous arrival at the Trixie Motel and the housewives' first encounter with Trixie Mattel, which is why it makes for a great clip for fashion and parties fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Trixie Mattel Welcomes Housewives to Pink Paradise",
+          "key_participants": [
+            "Trixie Mattel",
+            "Lisa Barlow",
+            "Heather Gay",
+            "Meredith Marks",
+            "Whitney Rose",
+            "Angie Smibert"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion_beat",
+            "parties_nightlife"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0001",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 255,
+          "end_sec": 285,
+          "duration_sec": 30,
+          "description": "Monica Garcia and Mary Billingsley arrive unexpectedly at the Trixie Motel, surprising the hostess Meredith Marks. Meredith is visibly upset and unresponsive to the surprise guests.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the tense arrival of Monica and Mary, which hijacks Meredith's planned trip, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith's Trip Gets Hijacked by Surprise Guests",
+          "key_participants": [
+            "Meredith Marks",
+            "Monica Garcia",
+            "Mary Billingsley",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0002",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 495,
+          "end_sec": 525,
+          "duration_sec": 30,
+          "description": "By the pool, Monica Garcia confronts Meredith Marks about her behavior, calling it 'childish.' Meredith refuses to engage, and the tension between the two is palpable.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights a direct confrontation between Monica and Meredith by the pool, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Monica Calls Out Meredith's 'Childish' Behavior",
+          "key_participants": [
+            "Monica Garcia",
+            "Meredith Marks",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0003",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 730,
+          "end_sec": 765,
+          "duration_sec": 35,
+          "description": "In a motel room, Monica Garcia defends Meredith Marks against Lisa Barlow's comments, telling Lisa she was rude to the hostess. Lisa retorts that Monica should check in with her first.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a heated argument between Monica and Lisa, with Monica defending Meredith, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Monica Defends Meredith Against Lisa's Shade",
+          "key_participants": [
+            "Monica Garcia",
+            "Lisa Barlow",
+            "Meredith Marks"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0004",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 958,
+          "end_sec": 990,
+          "duration_sec": 32,
+          "description": "The housewives try on eclectic outfits at a vintage store. Meredith Marks picks out a sheer top and coin skirt for Lisa Barlow, who is shocked by the choice.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the chaotic fashion choices during the shopping challenge, which is why it makes for a great clip for fashion and humor fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Picks a Shocking Outfit for Lisa",
+          "key_participants": [
+            "Meredith Marks",
+            "Lisa Barlow",
+            "Heather Gay",
+            "Whitney Rose"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion_beat",
+            "humor_awkward"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0005",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1018,
+          "end_sec": 1050,
+          "duration_sec": 32,
+          "description": "Heather Gay tries on a sheer coat and large hat chosen by Meredith Marks. Heather jokes that she looks like 'Kate Middleton on top and a lab tech on the bottom.'",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights Heather's hilarious reaction to her mismatched outfit, which is why it makes for a great clip for fashion and humor fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Heather Looks Like Kate Middleton Meets Lab Tech",
+          "key_participants": [
+            "Heather Gay",
+            "Meredith Marks",
+            "Lisa Barlow"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion_beat",
+            "humor_awkward"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0006",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1145,
+          "end_sec": 1175,
+          "duration_sec": 30,
+          "description": "In the van on the way to dinner, Meredith Marks complains about her outfit, calling it a 'knockoff Givenchy top' and a 'stolen' skirt. She compares the trip to 'The Shining.'",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights Meredith's dramatic meltdown over her outfit, which is why it makes for a great clip for drama and humor fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Compares Trip to The Shining",
+          "key_participants": [
+            "Meredith Marks",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "humor_awkward"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0007",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1445,
+          "end_sec": 1475,
+          "duration_sec": 30,
+          "description": "At dinner, Monica Garcia reveals she slept with her brother-in-law for 18 months. The table reacts with shock, and Meredith Marks demands to know the context.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Monica's shocking revelation at dinner, which is why it makes for a great clip for drama and gossip fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Monica Reveals She Slept With Her Brother-in-Law",
+          "key_participants": [
+            "Monica Garcia",
+            "Meredith Marks",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0008",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1540,
+          "end_sec": 1575,
+          "duration_sec": 35,
+          "description": "During a 'warm and fuzzy, cold and prickly' game, Heather Gay tells Angie Smibert she doesn't trust her because she feels Angie is 'all over' everyone.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Heather's direct confrontation with Angie about trust issues, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Heather Tells Angie She Doesn't Trust Her",
+          "key_participants": [
+            "Heather Gay",
+            "Angie Smibert",
+            "Lisa Barlow",
+            "Meredith Marks"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0009",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1765,
+          "end_sec": 1800,
+          "duration_sec": 35,
+          "description": "Monica Garcia tells Meredith Marks that it was hard to listen to her complain about losing a $60,000 ring while she is dealing with her own struggles.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Monica's call-out of Meredith's privilege regarding her lost ring, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Monica Calls Out Meredith's Ring Drama",
+          "key_participants": [
+            "Monica Garcia",
+            "Meredith Marks",
+            "Lisa Barlow"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0010",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 1930,
+          "end_sec": 1965,
+          "duration_sec": 35,
+          "description": "Meredith Marks gives a toast using the Greek word for 'fake' and accuses Angie Smibert of saying they would never be friends. Angie denies it, and Meredith becomes increasingly agitated.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Meredith's explosive toast and accusation against Angie, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith's 'Fake' Toast Sparks a Fight",
+          "key_participants": [
+            "Meredith Marks",
+            "Angie Smibert",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0011",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2040,
+          "end_sec": 2075,
+          "duration_sec": 35,
+          "description": "The argument escalates as Meredith calls Angie a 'fake bitch' and tells her to get out. Angie refuses to leave, and Meredith calls for security.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the peak of the dinner fight, with Meredith calling Angie a fake bitch and demanding she leave, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Calls Angie a 'Fake Bitch' and Calls Security",
+          "key_participants": [
+            "Meredith Marks",
+            "Angie Smibert",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0012",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2120,
+          "end_sec": 2155,
+          "duration_sec": 35,
+          "description": "Meredith Marks continues to yell at Angie, calling her an 'ugly human being' and bringing up her sick child. Angie is visibly hurt and Meredith eventually storms out.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights Meredith's most hurtful comments about Angie's child, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Brings Up Angie's Sick Child in Fight",
+          "key_participants": [
+            "Meredith Marks",
+            "Angie Smibert",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0013",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2215,
+          "end_sec": 2250,
+          "duration_sec": 35,
+          "description": "Outside the restaurant, Meredith Marks and Angie Smibert have a final confrontation. Meredith threatens to reveal rumors about Angie's husband, and Angie tells her to 'f*** off.'",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the final explosive confrontation between Meredith and Angie outside the restaurant, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Angie Tells Meredith to 'F*** Off' Outside Restaurant",
+          "key_participants": [
+            "Meredith Marks",
+            "Angie Smibert"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0014",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2330,
+          "end_sec": 2365,
+          "duration_sec": 35,
+          "description": "Meredith Marks returns to the table in tears. Angie Smibert tries to apologize, but Meredith is still upset and tells everyone to leave.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Meredith's emotional breakdown upon returning to the table, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Returns to Table in Tears",
+          "key_participants": [
+            "Meredith Marks",
+            "Angie Smibert",
+            "Lisa Barlow",
+            "Heather Gay"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fights_confrontation"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0015",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2435,
+          "end_sec": 2470,
+          "duration_sec": 35,
+          "description": "In the van, Heather Gay accuses Meredith Marks of using her personal struggles as a convenient excuse to avoid accountability. Meredith gets upset and leaves the van.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Heather's call-out of Meredith's behavior in the van, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Heather Calls Out Meredith's 'Convenient' Excuses",
+          "key_participants": [
+            "Heather Gay",
+            "Meredith Marks",
+            "Lisa Barlow"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "shade_gossip"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0016",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2550,
+          "end_sec": 2580,
+          "duration_sec": 30,
+          "description": "Heather Gay and Lisa Barlow argue in the van. Heather accuses Lisa of calling her a porn star, and Lisa denies it. Heather is visibly upset and leaves the van.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the argument between Heather and Lisa about the 'porn star' comment, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Heather and Lisa Argue Over 'Porn Star' Comment",
+          "key_participants": [
+            "Heather Gay",
+            "Lisa Barlow",
+            "Meredith Marks"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0017",
+          "asset_id": "6a14ddbaddce351fa0ae8952",
+          "start_sec": 2655,
+          "end_sec": 2685,
+          "duration_sec": 30,
+          "description": "In a final confrontation, Meredith Marks accuses Lisa Barlow of weaponizing her sick child against her. Meredith is furious and tells Lisa not to dare do it again.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights Meredith's final furious confrontation with Lisa about her sick child, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Accuses Lisa of Weaponizing Her Sick Child",
+          "key_participants": [
+            "Meredith Marks",
+            "Lisa Barlow"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "emotional_moments"
+          ]
+        }
+      ],
+      "raw_segment_count": 18,
+      "usage": {
+        "output_tokens": 4423,
+        "input_tokens": null
+      }
+    },
+    "6a14ddba163adca316ecc289": {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "task_id": "6a17167c0a422a3e5db7d285",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a14ddba_seg_0000",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 165,
+          "end_sec": 197,
+          "duration_sec": 32,
+          "description": "A rapid-fire montage of past arguments and confrontations between the housewives, featuring shouting, accusations of lying, and emotional outbursts. The segment captures the high-stakes drama and fractured friendships of the group.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the intense history of conflict and betrayal among the cast, showcasing their most heated arguments. It is a perfect clip for drama fans of The Real Housewives of Salt Lake City who love to see the group's volatile dynamics.",
+          "feed_headline": "The Housewives' Most Explosive Arguments",
+          "key_participants": [
+            "Lisa Barlow",
+            "Whitney Rose",
+            "Angie Smiley",
+            "Meredith Marks",
+            "Brittany Cartwright"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "betrayal",
+            "arguments"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0001",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 540,
+          "end_sec": 567,
+          "duration_sec": 27,
+          "description": "Brittany Cartwright makes a grand entrance at Lisa's party wearing a massive, heart-shaped red fur coat. The other housewives react with shock and admiration as she walks through the snowy venue.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights Brittany's iconic and over-the-top fashion choice, which becomes a major talking point at the party. It is a must-see for fashion fans of The Real Housewives of Salt Lake City who appreciate bold style statements.",
+          "feed_headline": "Brittany's Heart-Shaped Fur Coat Entrance",
+          "key_participants": [
+            "Brittany Cartwright",
+            "Lisa Barlow",
+            "Angie Smiley"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "style",
+            "parties"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0002",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 970,
+          "end_sec": 1004,
+          "duration_sec": 34,
+          "description": "Mary Cosby and Brittany Cartwright sit together and discuss Brittany's heart-shaped coat. Mary calls it a 'costume,' which immediately offends Brittany, who defends her Saint Laurent purchase.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights the immediate clash between Mary's blunt fashion critique and Brittany's defensive reaction. It is a great clip for gossip and fashion fans of The Real Housewives of Salt Lake City who enjoy seeing the cast's differing style philosophies.",
+          "feed_headline": "Mary Calls Brittany's Coat a 'Costume'",
+          "key_participants": [
+            "Mary Cosby",
+            "Brittany Cartwright"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "gossip",
+            "shade"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0003",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 1349,
+          "end_sec": 1387,
+          "duration_sec": 38,
+          "description": "Meredith Marks confronts Whitney Rose about launching a bath bomb line after Meredith announced her own plans. The argument escalates as Meredith accuses Whitney of intentionally stepping on her toes.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a direct confrontation over business competition and perceived betrayal. It is a key moment for drama fans of The Real Housewives of Salt Lake City who follow the ongoing feud between Meredith and Whitney.",
+          "feed_headline": "Meredith Confronts Whitney Over Bath Bombs",
+          "key_participants": [
+            "Meredith Marks",
+            "Whitney Rose"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "business"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0004",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 1532,
+          "end_sec": 1562,
+          "duration_sec": 30,
+          "description": "Angie Smiley presents Meredith Marks with a scroll listing grievances she wants an apology for, including accusations of encouraging lawsuits and making threats. Meredith is visibly shocked and denies the claims.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a dramatic public confrontation where Angie uses a scroll to air her grievances against Meredith. It is a high-stakes moment for drama fans of The Real Housewives of Salt Lake City who love to see long-simmering tensions boil over.",
+          "feed_headline": "Angie's Scroll of Grievances Against Meredith",
+          "key_participants": [
+            "Angie Smiley",
+            "Meredith Marks",
+            "Lisa Barlow"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "betrayal"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0005",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 2023,
+          "end_sec": 2053,
+          "duration_sec": 30,
+          "description": "Lisa Barlow confronts Whitney Rose about her podcast comments, accusing her of lying and disparaging her character. Whitney defends herself, stating that her experience isn't a lie, leading to a heated exchange.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the explosive dinner table argument between Lisa and Whitney regarding the podcast. It is a must-watch for drama fans of The Real Housewives of Salt Lake City who are invested in their ongoing feud.",
+          "feed_headline": "Lisa Calls Whitney a Liar Over Podcast",
+          "key_participants": [
+            "Lisa Barlow",
+            "Whitney Rose"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "podcasts"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0006",
+          "asset_id": "6a14ddba163adca316ecc289",
+          "start_sec": 2489,
+          "end_sec": 2522,
+          "duration_sec": 33,
+          "description": "The argument reaches its peak as Lisa accuses Whitney of weaponizing her trauma. Whitney storms out of the party, declaring she is done, while Lisa tells her to leave.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the dramatic climax of the dinner party argument, resulting in Whitney's exit. It is a peak intensity moment for drama fans of The Real Housewives of Salt Lake City who want to see the ultimate fallout.",
+          "feed_headline": "Whitney Storms Out of Lisa's Party",
+          "key_participants": [
+            "Whitney Rose",
+            "Lisa Barlow",
+            "Angie Smiley"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "trauma"
+          ]
+        }
+      ],
+      "raw_segment_count": 7,
+      "usage": {
+        "output_tokens": 1808,
+        "input_tokens": null
+      }
+    },
+    "6a14ddba853a852798e911d5": {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "task_id": "6a17171803e06b40c6ce5a43",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a14ddba_seg_0000",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 454,
+          "end_sec": 484,
+          "duration_sec": 30,
+          "description": "Inside a moving van, Lisa Barlow confronts the group about a private conversation they had about her marriage. The tension is palpable as she demands to know what was said, and Bronwyn begins to recount the events, leading to immediate defensiveness and overlapping arguments.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the explosive confrontation in the van where Lisa Barlow demands answers about a private conversation the group had about her marriage. This is a pivotal moment of group drama, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Van Confrontation: Lisa Demands Answers",
+          "key_participants": [
+            "Lisa Barlow",
+            "Bronwyn Newport",
+            "Angie Katsanevas",
+            "Whitney Rose",
+            "Meredith Marks",
+            "Brittany Cartwright"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "group_dynamics"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0001",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 550,
+          "end_sec": 580,
+          "duration_sec": 30,
+          "description": "The van argument reaches its peak as Lisa Barlow accuses Brittany Cartwright of secretly recording the group. The women erupt into chaos, shouting insults and demanding Brittany turn off her phone, marking a complete breakdown of trust.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the moment trust completely shatters when Lisa Barlow accuses Brittany Cartwright of secretly recording the group. The resulting chaos and shouting match make it a must-see clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Brittany Accused of Secretly Recording",
+          "key_participants": [
+            "Lisa Barlow",
+            "Brittany Cartwright",
+            "Angie Katsanevas",
+            "Whitney Rose",
+            "Meredith Marks"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "betrayal"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0002",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 858,
+          "end_sec": 892,
+          "duration_sec": 34,
+          "description": "After being kicked out of the van, Brittany Cartwright is seen crying alone by a stone wall. Whitney Rose approaches to comfort her, but the tension remains high as Brittany expresses her shock and hurt over the group's reaction.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional aftermath of the van fight, showing Brittany Cartwright crying alone after being kicked out. This raw moment of vulnerability makes it a great clip for emotional fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Brittany Cries After Being Kicked Out",
+          "key_participants": [
+            "Brittany Cartwright",
+            "Whitney Rose"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "aftermath"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0003",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 1417,
+          "end_sec": 1454,
+          "duration_sec": 37,
+          "description": "During a lunch by the pool, Brittany Cartwright tearfully confesses to the group that she and her husband Jared are still having a physical relationship, despite their separation. The revelation leaves the other women stunned and silent.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Brittany Cartwright's shocking and tearful confession that she is still physically involved with her separated husband. This major revelation makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Brittany's Shocking Confession About Jared",
+          "key_participants": [
+            "Brittany Cartwright",
+            "Lisa Barlow",
+            "Angie Katsanevas",
+            "Whitney Rose",
+            "Meredith Marks"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "confession"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0004",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 1566,
+          "end_sec": 1608,
+          "duration_sec": 42,
+          "description": "Whitney Rose opens up to the group about the shame she felt leaving the Mormon church and having an affair. She shares her personal story of being shamed by her community and family, drawing a parallel to Brittany's situation.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Whitney Rose's vulnerable confession about the shame she faced after leaving the Mormon church. Her personal story adds depth to the group's drama, making it a great clip for emotional fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Whitney Opens Up About Leaving the Church",
+          "key_participants": [
+            "Whitney Rose",
+            "Brittany Cartwright",
+            "Lisa Barlow",
+            "Angie Katsanevas",
+            "Meredith Marks"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "vulnerability"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0005",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 2235,
+          "end_sec": 2274,
+          "duration_sec": 39,
+          "description": "At a fancy dinner, Meredith Marks confronts Brittany Cartwright, accusing her of planting a recording device in her room. Meredith questions why she heard nothing from Brittany's room but everything from others, leading to a heated denial.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Meredith Marks' intense accusation that Brittany Cartwright planted a bug in her room. The high-stakes confrontation at dinner makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Meredith Accuses Brittany of Planting a Bug",
+          "key_participants": [
+            "Meredith Marks",
+            "Brittany Cartwright",
+            "Lisa Barlow",
+            "Angie Katsanevas",
+            "Whitney Rose"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "accusations"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0006",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 2471,
+          "end_sec": 2506,
+          "duration_sec": 35,
+          "description": "As the group walks down a hotel hallway, the argument continues. Meredith insists on an 'audio test' to prove her room is bugged, while Lisa Barlow tries to de-escalate the situation, but the women are too heated to listen.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the chaotic hallway argument where Meredith Marks demands an audio test to prove her room is bugged. The escalating tension makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Hallway Chaos: Meredith Demands an Audio Test",
+          "key_participants": [
+            "Meredith Marks",
+            "Lisa Barlow",
+            "Angie Katsanevas",
+            "Whitney Rose",
+            "Brittany Cartwright"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "chaos"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0007",
+          "asset_id": "6a14ddba853a852798e911d5",
+          "start_sec": 2562,
+          "end_sec": 2611,
+          "duration_sec": 49,
+          "description": "Lisa Barlow confronts the group in a hotel room, declaring she is done with the lies and rumors. She tells them she won't let them defame her anymore and storms out, ending the night on a high note of conflict.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Lisa Barlow's final confrontation where she tells the group she is done with their lies and rumors. Her dramatic exit makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+          "feed_headline": "Lisa Barlow: I'm Done With the Lies",
+          "key_participants": [
+            "Lisa Barlow",
+            "Angie Katsanevas",
+            "Whitney Rose",
+            "Meredith Marks",
+            "Brittany Cartwright"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "final_words"
+          ]
+        }
+      ],
+      "raw_segment_count": 8,
+      "usage": {
+        "output_tokens": 2250,
+        "input_tokens": null
+      }
+    },
+    "6a14ddba15649e226a0448c8": {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "task_id": "6a1717bb0a422a3e5db7d3b7",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a14ddba_seg_0000",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 114,
+          "end_sec": 145,
+          "duration_sec": 31,
+          "description": "A heated argument erupts between Meredith and Monica at a dinner table. Meredith accuses Monica of being fake, and Monica retaliates by threatening to discuss Meredith's husband. The tension is palpable as they exchange insults.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a major confrontation between Meredith and Monica, escalating from a lost ring to personal attacks. It's a classic Housewives fight that drama fans love to see.",
+          "feed_headline": "Meredith and Monica's Dinner Table Explosion",
+          "key_participants": [
+            "Meredith",
+            "Monica"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0001",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 225,
+          "end_sec": 255,
+          "duration_sec": 30,
+          "description": "Meredith designs and writes on custom t-shirts for the group. She creates a 'No Tricks, All Trust' shirt, while another woman shows off a 'No Trust' shirt, highlighting the group's internal conflict through fashion.",
+          "emotional_intensity": 3,
+          "explanation": "This segment highlights Meredith's creative response to the group's drama through custom t-shirt designs. Fashion fans will appreciate the witty and thematic apparel.",
+          "feed_headline": "Meredith's Custom 'No Trust' T-Shirt Design",
+          "key_participants": [
+            "Meredith",
+            "Lisa",
+            "Angie"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "humor",
+            "design"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0002",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 295,
+          "end_sec": 332,
+          "duration_sec": 37,
+          "description": "Meredith calls Monica an 'ugly human being' and brings up a sick child to defend herself. The argument is intense and personal, with both women refusing to back down.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the peak of the Meredith and Monica feud, with shocking insults and personal attacks. It's a must-watch for drama fans.",
+          "feed_headline": "Meredith Calls Monica an 'Ugly Human Being'",
+          "key_participants": [
+            "Meredith",
+            "Monica"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0003",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 477,
+          "end_sec": 502,
+          "duration_sec": 25,
+          "description": "Whitney apologizes for vomiting on Lisa's leg the previous night. The group laughs awkwardly as they prepare for their trust exercises, with Lisa joking about the 'sight to see.'",
+          "emotional_intensity": 5,
+          "explanation": "This segment highlights the awkward aftermath of Whitney's drunken mishap. It's a funny and relatable moment for fans who enjoy the show's lighter, more awkward side.",
+          "feed_headline": "Whitney Apologizes for Vomiting on Lisa's Leg",
+          "key_participants": [
+            "Whitney",
+            "Lisa",
+            "Meredith",
+            "Angie"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "humor",
+            "awkward",
+            "drama"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0004",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 638,
+          "end_sec": 672,
+          "duration_sec": 34,
+          "description": "During a trust exercise, Heather brings up a past comment about Lisa's book, leading to a heated argument with Monica. Meredith tries to de-escalate, but the tension remains high.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the group's inability to move past old grievances, even during a team-building exercise. Drama fans will enjoy the escalating conflict.",
+          "feed_headline": "Heather and Monica's Book Argument",
+          "key_participants": [
+            "Heather",
+            "Monica",
+            "Meredith"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0005",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 726,
+          "end_sec": 765,
+          "duration_sec": 39,
+          "description": "The group participates in a blindfolded 'minefield' trust exercise. The women struggle to navigate the obstacles, leading to funny and awkward moments as they step on balls and hoops.",
+          "emotional_intensity": 4,
+          "explanation": "This segment highlights the group's clumsy attempts at a trust exercise. It's a lighthearted and entertaining moment for fans who enjoy the show's more humorous side.",
+          "feed_headline": "The Housewives' Clumsy Trust Exercise",
+          "key_participants": [
+            "Whitney",
+            "Meredith",
+            "Lisa",
+            "Angie",
+            "Heather"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "humor",
+            "awkward",
+            "activities"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0006",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 1035,
+          "end_sec": 1074,
+          "duration_sec": 39,
+          "description": "Whitney announces a surprise drag-inspired makeup competition with Trixie Mattel as the judge. Meredith is visibly upset, as she had planned a different activity and flew in her own glam team.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the clash between Whitney's fun-loving approach and Meredith's desire for control. Fashion and drama fans will enjoy the tension and the promise of a drag competition.",
+          "feed_headline": "Whitney's Surprise Drag Competition Announcement",
+          "key_participants": [
+            "Whitney",
+            "Meredith",
+            "Lisa",
+            "Angie"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "drama",
+            "activities"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0007",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 1126,
+          "end_sec": 1168,
+          "duration_sec": 42,
+          "description": "Meredith throws a tantrum in her room, refusing to participate in the drag competition. She expresses her frustration and annoyance, emphasizing her desire for her own glam team.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights Meredith's emotional breakdown over the drag competition. It's a raw and relatable moment for fans who enjoy the show's more dramatic and emotional side.",
+          "feed_headline": "Meredith's Tantrum Over the Drag Competition",
+          "key_participants": [
+            "Meredith"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "tension",
+            "emotional"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0008",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 1405,
+          "end_sec": 1445,
+          "duration_sec": 40,
+          "description": "The housewives present their drag looks to Trixie Mattel. Whitney, Monica, and Angie all come out in full drag, while Meredith and Lisa are noticeably absent or underdressed.",
+          "emotional_intensity": 5,
+          "explanation": "This segment highlights the fashion-forward drag competition. Fashion fans will enjoy the creative looks and the group's varied levels of commitment.",
+          "feed_headline": "The Housewives' Drag Looks Reveal",
+          "key_participants": [
+            "Whitney",
+            "Monica",
+            "Angie",
+            "Trixie Mattel"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "activities",
+            "humor"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0009",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 1618,
+          "end_sec": 1640,
+          "duration_sec": 22,
+          "description": "Trixie Mattel announces Monica as the winner of the drag competition. Monica is surprised and happy, while the other housewives pretend to be happy for her.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the conclusion of the drag competition. Fashion and drama fans will enjoy the winner's reveal and the group's mixed reactions.",
+          "feed_headline": "Monica Wins the Drag Competition!",
+          "key_participants": [
+            "Monica",
+            "Trixie Mattel",
+            "Whitney",
+            "Angie"
+          ],
+          "primary_category": "luxury_fashion",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "fashion",
+            "activities",
+            "celebration"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0010",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 1903,
+          "end_sec": 1956,
+          "duration_sec": 53,
+          "description": "In the van, Monica confronts Lisa about her tone-deafness regarding her lost ring. The argument escalates, with Monica accusing Lisa of being out of touch with middle-class America.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a major confrontation between Monica and Lisa. It's a classic Housewives fight that drama fans love to see.",
+          "feed_headline": "Monica and Lisa's Van Argument",
+          "key_participants": [
+            "Monica",
+            "Lisa"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0011",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 2117,
+          "end_sec": 2156,
+          "duration_sec": 39,
+          "description": "At a bar, Meredith confronts Monica about her behavior. The argument is intense and personal, with both women refusing to back down. Meredith accuses Monica of being materialistic.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a major confrontation between Meredith and Monica. It's a classic Housewives fight that drama fans love to see.",
+          "feed_headline": "Meredith and Monica's Bar Fight",
+          "key_participants": [
+            "Meredith",
+            "Monica"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0012",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 2281,
+          "end_sec": 2325,
+          "duration_sec": 44,
+          "description": "The argument between Meredith and Monica reaches its peak. Meredith accuses Monica of weaponizing a sick child, and Monica retaliates with insults. The fight is intense and personal.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the peak of the Meredith and Monica feud. It's a must-watch for drama fans who enjoy the show's most intense moments.",
+          "feed_headline": "Meredith and Monica's Final Explosion",
+          "key_participants": [
+            "Meredith",
+            "Monica"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddba_seg_0013",
+          "asset_id": "6a14ddba15649e226a0448c8",
+          "start_sec": 2499,
+          "end_sec": 2553,
+          "duration_sec": 54,
+          "description": "Monica confronts Angie about her past as Jen Shah's assistant. The argument is intense and personal, with Monica accusing Angie of being a 'lap dog.'",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a major confrontation between Monica and Angie. It's a classic Housewives fight that drama fans love to see.",
+          "feed_headline": "Monica Calls Angie a 'Lap Dog'",
+          "key_participants": [
+            "Monica",
+            "Angie"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Real Housewives of Salt Lake City",
+          "subtags": [
+            "drama",
+            "arguments",
+            "tension"
+          ]
+        }
+      ],
+      "raw_segment_count": 14,
+      "usage": {
+        "output_tokens": 3307,
+        "input_tokens": null
+      }
+    },
+    "6a14ddbbbe7b2161f2b604f0": {
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "task_id": "6a1718cd7ed1dfb42a9a0331",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a14ddbb_seg_0000",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 198,
+          "end_sec": 229,
+          "duration_sec": 31,
+          "description": "A pizza in the oven catches fire, filling the galley with smoke and flames. Rocky and Kate panic as they try to contain the blaze, waking up the rest of the crew in a chaotic scene.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a high-stakes kitchen disaster where a pizza causes a real fire on the yacht, which is why it makes for a great clip for drama fans watching Below Deck.",
+          "feed_headline": "Pizza Fire Panic on the Yacht!",
+          "key_participants": [
+            "Rocky",
+            "Kate",
+            "Eddie"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Below Deck",
+          "subtags": [
+            "chaos",
+            "disaster"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0001",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 1090,
+          "end_sec": 1118,
+          "duration_sec": 28,
+          "description": "Captain Lee confronts Chef Leon in the wheelhouse, telling him that this will be his last charter due to his inability to work with the crew. Leon is visibly shocked and upset by the decision.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the dramatic moment a chef is fired mid-charter for poor teamwork, which is why it makes for a great clip for drama fans watching Below Deck.",
+          "feed_headline": "Chef Leon Gets Fired Mid-Charter!",
+          "key_participants": [
+            "Captain Lee",
+            "Leon"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Below Deck",
+          "subtags": [
+            "firing",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0002",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 1338,
+          "end_sec": 1364,
+          "duration_sec": 26,
+          "description": "After an argument with Eddie, Rocky storms out of the galley, removes her shirt, and dramatically jumps off the yacht into the ocean. The crew panics as they realize she is in the water.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights a shocking man-overboard moment after a crew argument, which is why it makes for a great clip for drama fans watching Below Deck.",
+          "feed_headline": "Rocky Jumps Overboard in a Fit of Rage!",
+          "key_participants": [
+            "Rocky",
+            "Eddie",
+            "Kate"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Below Deck",
+          "subtags": [
+            "chaos",
+            "drama"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0003",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 2135,
+          "end_sec": 2165,
+          "duration_sec": 30,
+          "description": "Rocky, now acting as chef, serves oysters with a sweet lemon vinaigrette containing grenadine. The guests are confused and disgusted by the strange flavor combination.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights a culinary disaster where a guest is served sweet oysters, which is why it makes for a great clip for humor fans watching Below Deck.",
+          "feed_headline": "Grenadine Oysters: A Culinary Disaster!",
+          "key_participants": [
+            "Rocky",
+            "Kate",
+            "Guests"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "Below Deck",
+          "subtags": [
+            "disaster",
+            "chaos"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0004",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 2436,
+          "end_sec": 2476,
+          "duration_sec": 40,
+          "description": "The crew scrambles to fix a ruined birthday cake with whipped cream and candles. They bring the makeshift cake to the guests, who are delighted and celebrate with a toast.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the crew's frantic effort to save a birthday celebration, which is why it makes for a great clip for party fans watching Below Deck.",
+          "feed_headline": "Crew Saves the Birthday Cake Disaster!",
+          "key_participants": [
+            "Kate",
+            "Amy",
+            "Guests"
+          ],
+          "primary_category": "parties_nightlife",
+          "show_name": "Below Deck",
+          "subtags": [
+            "celebration",
+            "birthday"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0005",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 2490,
+          "end_sec": 2517,
+          "duration_sec": 27,
+          "description": "The guests are treated to a spectacular fireworks display on the yacht's deck. They cheer and celebrate as the fireworks light up the night sky over the marina.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a grand finale fireworks show for the guests, which is why it makes for a great clip for party fans watching Below Deck.",
+          "feed_headline": "Epic Fireworks Finale for the Guests!",
+          "key_participants": [
+            "Guests",
+            "Crew"
+          ],
+          "primary_category": "parties_nightlife",
+          "show_name": "Below Deck",
+          "subtags": [
+            "celebration",
+            "fireworks"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0006",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 2670,
+          "end_sec": 2706,
+          "duration_sec": 36,
+          "description": "Rocky and Kate have a heated argument in the galley. Rocky accuses Kate of being a 'jabber' and showing no respect, while Kate defends her leadership and tells Rocky she is useless.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a raw, emotional confrontation between two crew members, which is why it makes for a great clip for drama fans watching Below Deck.",
+          "feed_headline": "Rocky and Kate's Explosive Galley Fight!",
+          "key_participants": [
+            "Rocky",
+            "Kate"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Below Deck",
+          "subtags": [
+            "argument",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0007",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 2922,
+          "end_sec": 2964,
+          "duration_sec": 42,
+          "description": "New chef Ben arrives on the yacht and is warmly greeted by the crew. He shares a hug with Captain Lee and has a friendly, flirtatious interaction with Kate.",
+          "emotional_intensity": 5,
+          "explanation": "This segment highlights the arrival of a new chef and his immediate chemistry with the crew, which is why it makes for a great clip for romance fans watching Below Deck.",
+          "feed_headline": "New Chef Ben Arrives and Flirts with Kate!",
+          "key_participants": [
+            "Ben",
+            "Kate",
+            "Captain Lee"
+          ],
+          "primary_category": "romance_relationships",
+          "show_name": "Below Deck",
+          "subtags": [
+            "new_crew",
+            "romance"
+          ]
+        },
+        {
+          "segment_id": "6a14ddbb_seg_0008",
+          "asset_id": "6a14ddbbbe7b2161f2b604f0",
+          "start_sec": 3171,
+          "end_sec": 3200,
+          "duration_sec": 29,
+          "description": "Ben and Kate sit together at the dining table, laughing and flirting. They joke about their past interactions and share a warm, friendly moment.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights a sweet, flirtatious moment between Ben and Kate, which is why it makes for a great clip for romance fans watching Below Deck.",
+          "feed_headline": "Ben and Kate's Flirty Dinner Date!",
+          "key_participants": [
+            "Ben",
+            "Kate"
+          ],
+          "primary_category": "romance_relationships",
+          "show_name": "Below Deck",
+          "subtags": [
+            "flirting",
+            "romance"
+          ]
+        }
+      ],
+      "raw_segment_count": 9,
+      "usage": {
+        "output_tokens": 2002,
+        "input_tokens": null
+      }
+    }
+  },
+  "segments": [
+    {
+      "segment_id": "6a14ddba_seg_0000",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 195,
+      "end_sec": 225,
+      "duration_sec": 30,
+      "description": "The housewives arrive at the ultra-pink Trixie Motel in Palm Springs. Drag queen Trixie Mattel greets them in a fluffy mint-green outfit, and the group marvels at the drag-themed decor.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights the glamorous arrival at the Trixie Motel and the housewives' first encounter with Trixie Mattel, which is why it makes for a great clip for fashion and parties fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Trixie Mattel Welcomes Housewives to Pink Paradise",
+      "key_participants": [
+        "Trixie Mattel",
+        "Lisa Barlow",
+        "Heather Gay",
+        "Meredith Marks",
+        "Whitney Rose",
+        "Angie Smibert"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion_beat",
+        "parties_nightlife"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Trixie Mattel\u2019s arrival matters in The Real Housewives of Salt Lake City because this trip arc leans hard into camp while the cast relationships are fracturing underneath. For full-series viewers, it\u2019s a rare crossover moment where the show\u2019s taste for spectacle amplifies \u2014 rather than softens \u2014 the social tension already brewing.",
+      "jockey_reasoning": "This segment highlights the franchise\u2019s ability to make celebrity-host camp feel like part of the drama machine. It\u2019s a great clip for luxury, humor, and Bravo-crossover superfans who live for surreal Housewives hosting moments. Jockey elevated it because across The Real Housewives of Salt Lake City here, the Trixie Motel episodes are the most distinctive blend of spectacle and impending chaos."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0001",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 255,
+      "end_sec": 285,
+      "duration_sec": 30,
+      "description": "Monica Garcia and Mary Billingsley arrive unexpectedly at the Trixie Motel, surprising the hostess Meredith Marks. Meredith is visibly upset and unresponsive to the surprise guests.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the tense arrival of Monica and Mary, which hijacks Meredith's planned trip, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith's Trip Gets Hijacked by Surprise Guests",
+      "key_participants": [
+        "Meredith Marks",
+        "Monica Garcia",
+        "Mary Billingsley",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip",
+        "emotional_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Whitney and Angie\u2019s arrival is a major cross-episode pivot in The Real Housewives of Salt Lake City because it turns Meredith\u2019s hosted getaway into a battleground over exclusion and control. The fallout from who was invited, who was added, and who feels disrespected runs through the larger Meredith-Angie-Whitney triangle across the show.",
+      "jockey_reasoning": "This segment highlights the perfect Housewives ambush: a glamorous surprise that instantly reads as a social offense. It\u2019s a killer clip for drama addicts and etiquette-war superfans who know invitations are never just invitations. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, host power and passive-aggressive exclusion are recurring feud drivers, and this is the cleanest trip-arc eruption."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0002",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 495,
+      "end_sec": 525,
+      "duration_sec": 30,
+      "description": "By the pool, Monica Garcia confronts Meredith Marks about her behavior, calling it 'childish.' Meredith refuses to engage, and the tension between the two is palpable.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights a direct confrontation between Monica and Meredith by the pool, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Monica Calls Out Meredith's 'Childish' Behavior",
+      "key_participants": [
+        "Monica Garcia",
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Mary refusing to join the women is small in plot but huge in character on The Real Housewives of Salt Lake City. Across the series, Mary\u2019s refusal to perform normal group-bonding keeps reinforcing her detached role as both cast member and anti-cast member, which is exactly why fans keep clipping her.",
+      "jockey_reasoning": "This segment highlights Mary Cosby rejecting group norms with zero cushioning. It\u2019s premium feed material for awkward-comedy fans and longtime RHOSLC watchers who know her disengagement is practically its own storyline. Jockey elevated it because throughout The Real Housewives of Salt Lake City here, Mary\u2019s nonparticipation is as memorable as anyone else\u2019s confrontation."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0003",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 730,
+      "end_sec": 765,
+      "duration_sec": 35,
+      "description": "In a motel room, Monica Garcia defends Meredith Marks against Lisa Barlow's comments, telling Lisa she was rude to the hostess. Lisa retorts that Monica should check in with her first.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a heated argument between Monica and Lisa, with Monica defending Meredith, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Monica Defends Meredith Against Lisa's Shade",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow",
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0004",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 958,
+      "end_sec": 990,
+      "duration_sec": 32,
+      "description": "The housewives try on eclectic outfits at a vintage store. Meredith Marks picks out a sheer top and coin skirt for Lisa Barlow, who is shocked by the choice.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the chaotic fashion choices during the shopping challenge, which is why it makes for a great clip for fashion and humor fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Picks a Shocking Outfit for Lisa",
+      "key_participants": [
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Heather Gay",
+        "Whitney Rose"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion_beat",
+        "humor_awkward"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0005",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1018,
+      "end_sec": 1050,
+      "duration_sec": 32,
+      "description": "Heather Gay tries on a sheer coat and large hat chosen by Meredith Marks. Heather jokes that she looks like 'Kate Middleton on top and a lab tech on the bottom.'",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights Heather's hilarious reaction to her mismatched outfit, which is why it makes for a great clip for fashion and humor fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Heather Looks Like Kate Middleton Meets Lab Tech",
+      "key_participants": [
+        "Heather Gay",
+        "Meredith Marks",
+        "Lisa Barlow"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion_beat",
+        "humor_awkward"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0006",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1145,
+      "end_sec": 1175,
+      "duration_sec": 30,
+      "description": "In the van on the way to dinner, Meredith Marks complains about her outfit, calling it a 'knockoff Givenchy top' and a 'stolen' skirt. She compares the trip to 'The Shining.'",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights Meredith's dramatic meltdown over her outfit, which is why it makes for a great clip for drama and humor fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Compares Trip to The Shining",
+      "key_participants": [
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "humor_awkward"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0007",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1445,
+      "end_sec": 1475,
+      "duration_sec": 30,
+      "description": "At dinner, Monica Garcia reveals she slept with her brother-in-law for 18 months. The table reacts with shock, and Meredith Marks demands to know the context.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Monica's shocking revelation at dinner, which is why it makes for a great clip for drama and gossip fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Monica Reveals She Slept With Her Brother-in-Law",
+      "key_participants": [
+        "Monica Garcia",
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0008",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1540,
+      "end_sec": 1575,
+      "duration_sec": 35,
+      "description": "During a 'warm and fuzzy, cold and prickly' game, Heather Gay tells Angie Smibert she doesn't trust her because she feels Angie is 'all over' everyone.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Heather's direct confrontation with Angie about trust issues, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Heather Tells Angie She Doesn't Trust Her",
+      "key_participants": [
+        "Heather Gay",
+        "Angie Smibert",
+        "Lisa Barlow",
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0009",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1765,
+      "end_sec": 1800,
+      "duration_sec": 35,
+      "description": "Monica Garcia tells Meredith Marks that it was hard to listen to her complain about losing a $60,000 ring while she is dealing with her own struggles.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Monica's call-out of Meredith's privilege regarding her lost ring, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Monica Calls Out Meredith's Ring Drama",
+      "key_participants": [
+        "Monica Garcia",
+        "Meredith Marks",
+        "Lisa Barlow"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0010",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 1930,
+      "end_sec": 1965,
+      "duration_sec": 35,
+      "description": "Meredith Marks gives a toast using the Greek word for 'fake' and accuses Angie Smibert of saying they would never be friends. Angie denies it, and Meredith becomes increasingly agitated.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Meredith's explosive toast and accusation against Angie, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith's 'Fake' Toast Sparks a Fight",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Smibert",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0011",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2040,
+      "end_sec": 2075,
+      "duration_sec": 35,
+      "description": "The argument escalates as Meredith calls Angie a 'fake bitch' and tells her to get out. Angie refuses to leave, and Meredith calls for security.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the peak of the dinner fight, with Meredith calling Angie a fake bitch and demanding she leave, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Calls Angie a 'Fake Bitch' and Calls Security",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Smibert",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0012",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2120,
+      "end_sec": 2155,
+      "duration_sec": 35,
+      "description": "Meredith Marks continues to yell at Angie, calling her an 'ugly human being' and bringing up her sick child. Angie is visibly hurt and Meredith eventually storms out.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights Meredith's most hurtful comments about Angie's child, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Brings Up Angie's Sick Child in Fight",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Smibert",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0013",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2215,
+      "end_sec": 2250,
+      "duration_sec": 35,
+      "description": "Outside the restaurant, Meredith Marks and Angie Smibert have a final confrontation. Meredith threatens to reveal rumors about Angie's husband, and Angie tells her to 'f*** off.'",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the final explosive confrontation between Meredith and Angie outside the restaurant, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Angie Tells Meredith to 'F*** Off' Outside Restaurant",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Smibert"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0014",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2330,
+      "end_sec": 2365,
+      "duration_sec": 35,
+      "description": "Meredith Marks returns to the table in tears. Angie Smibert tries to apologize, but Meredith is still upset and tells everyone to leave.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Meredith's emotional breakdown upon returning to the table, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Returns to Table in Tears",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Smibert",
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fights_confrontation"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0015",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2435,
+      "end_sec": 2470,
+      "duration_sec": 35,
+      "description": "In the van, Heather Gay accuses Meredith Marks of using her personal struggles as a convenient excuse to avoid accountability. Meredith gets upset and leaves the van.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Heather's call-out of Meredith's behavior in the van, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Heather Calls Out Meredith's 'Convenient' Excuses",
+      "key_participants": [
+        "Heather Gay",
+        "Meredith Marks",
+        "Lisa Barlow"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "shade_gossip"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0016",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2550,
+      "end_sec": 2580,
+      "duration_sec": 30,
+      "description": "Heather Gay and Lisa Barlow argue in the van. Heather accuses Lisa of calling her a porn star, and Lisa denies it. Heather is visibly upset and leaves the van.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the argument between Heather and Lisa about the 'porn star' comment, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Heather and Lisa Argue Over 'Porn Star' Comment",
+      "key_participants": [
+        "Heather Gay",
+        "Lisa Barlow",
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Mary accusing Whitney matters because The Real Housewives of Salt Lake City thrives on blunt character judgments that instantly redraw the room. This confrontation connects to the larger series pattern of Mary acting as both comic sniper and social truth grenade, especially when Whitney is trying to manage her image within the group.",
+      "jockey_reasoning": "This segment highlights Mary weaponizing her trademark bluntness in a way that\u2019s both confrontational and bizarrely funny. It\u2019s ideal for fans who want maximum shade with minimal filter. Jockey elevated it because The Real Housewives of Salt Lake City repeatedly turns Mary\u2019s detached reads into some of its most replayable conflict beats."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0017",
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "start_sec": 2655,
+      "end_sec": 2685,
+      "duration_sec": 30,
+      "description": "In a final confrontation, Meredith Marks accuses Lisa Barlow of weaponizing her sick child against her. Meredith is furious and tells Lisa not to dare do it again.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights Meredith's final furious confrontation with Lisa about her sick child, which is why it makes for a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Accuses Lisa of Weaponizing Her Sick Child",
+      "key_participants": [
+        "Meredith Marks",
+        "Lisa Barlow"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "emotional_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Meredith versus Whitney is one of the key recurring pairings in The Real Housewives of Salt Lake City, and this argument matters because it strips away any polite pretense left between them. Across the show, their conflict lives in the overlap between friendship history, rumor circulation, and incompatible communication styles.",
+      "jockey_reasoning": "This segment highlights a foundational RHOSLC feud dynamic: old hurt, fresh irritation, and no patience left. It\u2019s prime feed material for longtime viewers who track relationship deterioration more than one-off drama. Jockey elevated it because across The Real Housewives of Salt Lake City in this corpus, Meredith-vs-Whitney keeps resurfacing as a core conflict axis."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0000",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 165,
+      "end_sec": 197,
+      "duration_sec": 32,
+      "description": "A rapid-fire montage of past arguments and confrontations between the housewives, featuring shouting, accusations of lying, and emotional outbursts. The segment captures the high-stakes drama and fractured friendships of the group.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the intense history of conflict and betrayal among the cast, showcasing their most heated arguments. It is a perfect clip for drama fans of The Real Housewives of Salt Lake City who love to see the group's volatile dynamics.",
+      "feed_headline": "The Housewives' Most Explosive Arguments",
+      "key_participants": [
+        "Lisa Barlow",
+        "Whitney Rose",
+        "Angie Smiley",
+        "Meredith Marks",
+        "Brittany Cartwright"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "betrayal",
+        "arguments"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0001",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 540,
+      "end_sec": 567,
+      "duration_sec": 27,
+      "description": "Brittany Cartwright makes a grand entrance at Lisa's party wearing a massive, heart-shaped red fur coat. The other housewives react with shock and admiration as she walks through the snowy venue.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights Brittany's iconic and over-the-top fashion choice, which becomes a major talking point at the party. It is a must-see for fashion fans of The Real Housewives of Salt Lake City who appreciate bold style statements.",
+      "feed_headline": "Brittany's Heart-Shaped Fur Coat Entrance",
+      "key_participants": [
+        "Brittany Cartwright",
+        "Lisa Barlow",
+        "Angie Smiley"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "style",
+        "parties"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Bronwyn\u2019s entrance matters because The Real Housewives of Salt Lake City often announces a woman\u2019s role through fashion before dialogue even catches up. Across this later-season material, her high-concept styling signals a cast evolution while keeping the show\u2019s commitment to spectacle and self-branding intact.",
+      "jockey_reasoning": "This segment highlights a new-school RHOSLC fashion flex that instantly creates conversation. It\u2019s ideal for luxury and fashion superfans who track character through wardrobe as much as through confessionals. Jockey elevated it because The Real Housewives of Salt Lake City in this corpus broadens visually in the later material, and Bronwyn\u2019s arrival is the loudest proof."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0002",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 970,
+      "end_sec": 1004,
+      "duration_sec": 34,
+      "description": "Mary Cosby and Brittany Cartwright sit together and discuss Brittany's heart-shaped coat. Mary calls it a 'costume,' which immediately offends Brittany, who defends her Saint Laurent purchase.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights the immediate clash between Mary's blunt fashion critique and Brittany's defensive reaction. It is a great clip for gossip and fashion fans of The Real Housewives of Salt Lake City who enjoy seeing the cast's differing style philosophies.",
+      "feed_headline": "Mary Calls Brittany's Coat a 'Costume'",
+      "key_participants": [
+        "Mary Cosby",
+        "Brittany Cartwright"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "gossip",
+        "shade"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "The fashion-versus-costume debate matters because on The Real Housewives of Salt Lake City, aesthetics are never just aesthetics; they\u2019re proxies for class, legitimacy, and belonging. This scene connects to the show\u2019s long-running preoccupation with who has authentic taste and who is performing status too loudly.",
+      "jockey_reasoning": "This segment highlights RHOSLC using style talk as a stand-in for social warfare. It\u2019s catnip for fashion and shade superfans because everyone is really arguing about identity, not outfits. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, luxury and judgment are constantly fused, and this scene says the quiet part out loud."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0003",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 1349,
+      "end_sec": 1387,
+      "duration_sec": 38,
+      "description": "Meredith Marks confronts Whitney Rose about launching a bath bomb line after Meredith announced her own plans. The argument escalates as Meredith accuses Whitney of intentionally stepping on her toes.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a direct confrontation over business competition and perceived betrayal. It is a key moment for drama fans of The Real Housewives of Salt Lake City who follow the ongoing feud between Meredith and Whitney.",
+      "feed_headline": "Meredith Confronts Whitney Over Bath Bombs",
+      "key_participants": [
+        "Meredith Marks",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "business"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0004",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 1532,
+      "end_sec": 1562,
+      "duration_sec": 30,
+      "description": "Angie Smiley presents Meredith Marks with a scroll listing grievances she wants an apology for, including accusations of encouraging lawsuits and making threats. Meredith is visibly shocked and denies the claims.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a dramatic public confrontation where Angie uses a scroll to air her grievances against Meredith. It is a high-stakes moment for drama fans of The Real Housewives of Salt Lake City who love to see long-simmering tensions boil over.",
+      "feed_headline": "Angie's Scroll of Grievances Against Meredith",
+      "key_participants": [
+        "Angie Smiley",
+        "Meredith Marks",
+        "Lisa Barlow"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "betrayal"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Angie\u2019s scroll reveal is one of the most self-consciously theatrical confrontation props in this RHOSLC corpus. It matters across The Real Housewives of Salt Lake City because it distills the franchise\u2019s love of receipts, performance, and premeditated grievance into a single image fans instantly remember.",
+      "jockey_reasoning": "This segment highlights one of the best visual gags in the whole store: a Housewives receipt moment made physically enormous. It\u2019s a dream clip for drama addicts and meme-loving superfans because the prop alone does half the work. Jockey elevated it because across The Real Housewives of Salt Lake City, few moments fuse spectacle and confrontation this cleanly."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0005",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 2023,
+      "end_sec": 2053,
+      "duration_sec": 30,
+      "description": "Lisa Barlow confronts Whitney Rose about her podcast comments, accusing her of lying and disparaging her character. Whitney defends herself, stating that her experience isn't a lie, leading to a heated exchange.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the explosive dinner table argument between Lisa and Whitney regarding the podcast. It is a must-watch for drama fans of The Real Housewives of Salt Lake City who are invested in their ongoing feud.",
+      "feed_headline": "Lisa Calls Whitney a Liar Over Podcast",
+      "key_participants": [
+        "Lisa Barlow",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "podcasts"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Lisa versus Heather over the podcast matters because The Real Housewives of Salt Lake City loves turning off-camera commentary into on-camera betrayal. This beat connects to the broader series pattern where confessionals, podcasts, and secondhand retellings become as combustible as anything said face-to-face.",
+      "jockey_reasoning": "This segment highlights RHOSLC\u2019s media-feedback loop: what gets said about the show becomes the show. It\u2019s a great clip for meta-drama superfans who care about podcasts, narratives, and who controls the story. Jockey elevated it because across The Real Housewives of Salt Lake City here, off-camera commentary repeatedly comes back as on-camera ammunition."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0006",
+      "asset_id": "6a14ddba163adca316ecc289",
+      "start_sec": 2489,
+      "end_sec": 2522,
+      "duration_sec": 33,
+      "description": "The argument reaches its peak as Lisa accuses Whitney of weaponizing her trauma. Whitney storms out of the party, declaring she is done, while Lisa tells her to leave.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the dramatic climax of the dinner party argument, resulting in Whitney's exit. It is a peak intensity moment for drama fans of The Real Housewives of Salt Lake City who want to see the ultimate fallout.",
+      "feed_headline": "Whitney Storms Out of Lisa's Party",
+      "key_participants": [
+        "Whitney Rose",
+        "Lisa Barlow",
+        "Angie Smiley"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "trauma"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0000",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 454,
+      "end_sec": 484,
+      "duration_sec": 30,
+      "description": "Inside a moving van, Lisa Barlow confronts the group about a private conversation they had about her marriage. The tension is palpable as she demands to know what was said, and Bronwyn begins to recount the events, leading to immediate defensiveness and overlapping arguments.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the explosive confrontation in the van where Lisa Barlow demands answers about a private conversation the group had about her marriage. This is a pivotal moment of group drama, making it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Van Confrontation: Lisa Demands Answers",
+      "key_participants": [
+        "Lisa Barlow",
+        "Bronwyn Newport",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Meredith Marks",
+        "Brittany Cartwright"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "group_dynamics"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0001",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 550,
+      "end_sec": 580,
+      "duration_sec": 30,
+      "description": "The van argument reaches its peak as Lisa Barlow accuses Brittany Cartwright of secretly recording the group. The women erupt into chaos, shouting insults and demanding Brittany turn off her phone, marking a complete breakdown of trust.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the moment trust completely shatters when Lisa Barlow accuses Brittany Cartwright of secretly recording the group. The resulting chaos and shouting match make it a must-see clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Brittany Accused of Secretly Recording",
+      "key_participants": [
+        "Lisa Barlow",
+        "Brittany Cartwright",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "betrayal"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0002",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 858,
+      "end_sec": 892,
+      "duration_sec": 34,
+      "description": "After being kicked out of the van, Brittany Cartwright is seen crying alone by a stone wall. Whitney Rose approaches to comfort her, but the tension remains high as Brittany expresses her shock and hurt over the group's reaction.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional aftermath of the van fight, showing Brittany Cartwright crying alone after being kicked out. This raw moment of vulnerability makes it a great clip for emotional fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Brittany Cries After Being Kicked Out",
+      "key_participants": [
+        "Brittany Cartwright",
+        "Whitney Rose"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "aftermath"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0003",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 1417,
+      "end_sec": 1454,
+      "duration_sec": 37,
+      "description": "During a lunch by the pool, Brittany Cartwright tearfully confesses to the group that she and her husband Jared are still having a physical relationship, despite their separation. The revelation leaves the other women stunned and silent.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Brittany Cartwright's shocking and tearful confession that she is still physically involved with her separated husband. This major revelation makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Brittany's Shocking Confession About Jared",
+      "key_participants": [
+        "Brittany Cartwright",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Meredith Marks"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "confession"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0004",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 1566,
+      "end_sec": 1608,
+      "duration_sec": 42,
+      "description": "Whitney Rose opens up to the group about the shame she felt leaving the Mormon church and having an affair. She shares her personal story of being shamed by her community and family, drawing a parallel to Brittany's situation.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Whitney Rose's vulnerable confession about the shame she faced after leaving the Mormon church. Her personal story adds depth to the group's drama, making it a great clip for emotional fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Whitney Opens Up About Leaving the Church",
+      "key_participants": [
+        "Whitney Rose",
+        "Brittany Cartwright",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Meredith Marks"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "vulnerability"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0005",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 2235,
+      "end_sec": 2274,
+      "duration_sec": 39,
+      "description": "At a fancy dinner, Meredith Marks confronts Brittany Cartwright, accusing her of planting a recording device in her room. Meredith questions why she heard nothing from Brittany's room but everything from others, leading to a heated denial.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Meredith Marks' intense accusation that Brittany Cartwright planted a bug in her room. The high-stakes confrontation at dinner makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Meredith Accuses Brittany of Planting a Bug",
+      "key_participants": [
+        "Meredith Marks",
+        "Brittany Cartwright",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "accusations"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0006",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 2471,
+      "end_sec": 2506,
+      "duration_sec": 35,
+      "description": "As the group walks down a hotel hallway, the argument continues. Meredith insists on an 'audio test' to prove her room is bugged, while Lisa Barlow tries to de-escalate the situation, but the women are too heated to listen.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the chaotic hallway argument where Meredith Marks demands an audio test to prove her room is bugged. The escalating tension makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Hallway Chaos: Meredith Demands an Audio Test",
+      "key_participants": [
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Brittany Cartwright"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "chaos"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0007",
+      "asset_id": "6a14ddba853a852798e911d5",
+      "start_sec": 2562,
+      "end_sec": 2611,
+      "duration_sec": 49,
+      "description": "Lisa Barlow confronts the group in a hotel room, declaring she is done with the lies and rumors. She tells them she won't let them defame her anymore and storms out, ending the night on a high note of conflict.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Lisa Barlow's final confrontation where she tells the group she is done with their lies and rumors. Her dramatic exit makes it a great clip for drama fans watching The Real Housewives of Salt Lake City.",
+      "feed_headline": "Lisa Barlow: I'm Done With the Lies",
+      "key_participants": [
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Meredith Marks",
+        "Brittany Cartwright"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "final_words"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0000",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 114,
+      "end_sec": 145,
+      "duration_sec": 31,
+      "description": "A heated argument erupts between Meredith and Monica at a dinner table. Meredith accuses Monica of being fake, and Monica retaliates by threatening to discuss Meredith's husband. The tension is palpable as they exchange insults.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a major confrontation between Meredith and Monica, escalating from a lost ring to personal attacks. It's a classic Housewives fight that drama fans love to see.",
+      "feed_headline": "Meredith and Monica's Dinner Table Explosion",
+      "key_participants": [
+        "Meredith",
+        "Monica"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0001",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 225,
+      "end_sec": 255,
+      "duration_sec": 30,
+      "description": "Meredith designs and writes on custom t-shirts for the group. She creates a 'No Tricks, All Trust' shirt, while another woman shows off a 'No Trust' shirt, highlighting the group's internal conflict through fashion.",
+      "emotional_intensity": 3,
+      "explanation": "This segment highlights Meredith's creative response to the group's drama through custom t-shirt designs. Fashion fans will appreciate the witty and thematic apparel.",
+      "feed_headline": "Meredith's Custom 'No Trust' T-Shirt Design",
+      "key_participants": [
+        "Meredith",
+        "Lisa",
+        "Angie"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "humor",
+        "design"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0002",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 295,
+      "end_sec": 332,
+      "duration_sec": 37,
+      "description": "Meredith calls Monica an 'ugly human being' and brings up a sick child to defend herself. The argument is intense and personal, with both women refusing to back down.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the peak of the Meredith and Monica feud, with shocking insults and personal attacks. It's a must-watch for drama fans.",
+      "feed_headline": "Meredith Calls Monica an 'Ugly Human Being'",
+      "key_participants": [
+        "Meredith",
+        "Monica"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0003",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 477,
+      "end_sec": 502,
+      "duration_sec": 25,
+      "description": "Whitney apologizes for vomiting on Lisa's leg the previous night. The group laughs awkwardly as they prepare for their trust exercises, with Lisa joking about the 'sight to see.'",
+      "emotional_intensity": 5,
+      "explanation": "This segment highlights the awkward aftermath of Whitney's drunken mishap. It's a funny and relatable moment for fans who enjoy the show's lighter, more awkward side.",
+      "feed_headline": "Whitney Apologizes for Vomiting on Lisa's Leg",
+      "key_participants": [
+        "Whitney",
+        "Lisa",
+        "Meredith",
+        "Angie"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "humor",
+        "awkward",
+        "drama"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0004",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 638,
+      "end_sec": 672,
+      "duration_sec": 34,
+      "description": "During a trust exercise, Heather brings up a past comment about Lisa's book, leading to a heated argument with Monica. Meredith tries to de-escalate, but the tension remains high.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the group's inability to move past old grievances, even during a team-building exercise. Drama fans will enjoy the escalating conflict.",
+      "feed_headline": "Heather and Monica's Book Argument",
+      "key_participants": [
+        "Heather",
+        "Monica",
+        "Meredith"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0005",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 726,
+      "end_sec": 765,
+      "duration_sec": 39,
+      "description": "The group participates in a blindfolded 'minefield' trust exercise. The women struggle to navigate the obstacles, leading to funny and awkward moments as they step on balls and hoops.",
+      "emotional_intensity": 4,
+      "explanation": "This segment highlights the group's clumsy attempts at a trust exercise. It's a lighthearted and entertaining moment for fans who enjoy the show's more humorous side.",
+      "feed_headline": "The Housewives' Clumsy Trust Exercise",
+      "key_participants": [
+        "Whitney",
+        "Meredith",
+        "Lisa",
+        "Angie",
+        "Heather"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "humor",
+        "awkward",
+        "activities"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0006",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 1035,
+      "end_sec": 1074,
+      "duration_sec": 39,
+      "description": "Whitney announces a surprise drag-inspired makeup competition with Trixie Mattel as the judge. Meredith is visibly upset, as she had planned a different activity and flew in her own glam team.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the clash between Whitney's fun-loving approach and Meredith's desire for control. Fashion and drama fans will enjoy the tension and the promise of a drag competition.",
+      "feed_headline": "Whitney's Surprise Drag Competition Announcement",
+      "key_participants": [
+        "Whitney",
+        "Meredith",
+        "Lisa",
+        "Angie"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "drama",
+        "activities"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0007",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 1126,
+      "end_sec": 1168,
+      "duration_sec": 42,
+      "description": "Meredith throws a tantrum in her room, refusing to participate in the drag competition. She expresses her frustration and annoyance, emphasizing her desire for her own glam team.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights Meredith's emotional breakdown over the drag competition. It's a raw and relatable moment for fans who enjoy the show's more dramatic and emotional side.",
+      "feed_headline": "Meredith's Tantrum Over the Drag Competition",
+      "key_participants": [
+        "Meredith"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "tension",
+        "emotional"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0008",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 1405,
+      "end_sec": 1445,
+      "duration_sec": 40,
+      "description": "The housewives present their drag looks to Trixie Mattel. Whitney, Monica, and Angie all come out in full drag, while Meredith and Lisa are noticeably absent or underdressed.",
+      "emotional_intensity": 5,
+      "explanation": "This segment highlights the fashion-forward drag competition. Fashion fans will enjoy the creative looks and the group's varied levels of commitment.",
+      "feed_headline": "The Housewives' Drag Looks Reveal",
+      "key_participants": [
+        "Whitney",
+        "Monica",
+        "Angie",
+        "Trixie Mattel"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "activities",
+        "humor"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0009",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 1618,
+      "end_sec": 1640,
+      "duration_sec": 22,
+      "description": "Trixie Mattel announces Monica as the winner of the drag competition. Monica is surprised and happy, while the other housewives pretend to be happy for her.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the conclusion of the drag competition. Fashion and drama fans will enjoy the winner's reveal and the group's mixed reactions.",
+      "feed_headline": "Monica Wins the Drag Competition!",
+      "key_participants": [
+        "Monica",
+        "Trixie Mattel",
+        "Whitney",
+        "Angie"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "fashion",
+        "activities",
+        "celebration"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Monica being crowned at Trixie Motel matters in The Real Housewives of Salt Lake City because it briefly flips the power dynamic of the trip. Across the larger Monica arc, moments like this make her feel ascendant and celebrated right before the social backlash and emotional volatility return.",
+      "jockey_reasoning": "This segment highlights pure triumphant spectacle in the middle of a conflict-heavy trip. It\u2019s perfect for camp fans and Monica partisans who want a rare win instead of another pile-on. Jockey elevated it because The Real Housewives of Salt Lake City in this store is so argument-driven that this celebratory high point stands out even more."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0010",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 1903,
+      "end_sec": 1956,
+      "duration_sec": 53,
+      "description": "In the van, Monica confronts Lisa about her tone-deafness regarding her lost ring. The argument escalates, with Monica accusing Lisa of being out of touch with middle-class America.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a major confrontation between Monica and Lisa. It's a classic Housewives fight that drama fans love to see.",
+      "feed_headline": "Monica and Lisa's Van Argument",
+      "key_participants": [
+        "Monica",
+        "Lisa"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Monica crying over the ring argument matters because on The Real Housewives of Salt Lake City, the fight is never really only about the ring. This moment ties the luxury-symbol fight back to Monica\u2019s larger feelings about precarity, humiliation, and being judged by women whose lives she sees as materially easier.",
+      "jockey_reasoning": "This segment highlights the emotional core underneath one of the season\u2019s loudest arguments. It\u2019s essential for drama and empathy-first superfans because it reframes the fight as social pain, not just Housewives excess. Jockey elevated it because The Real Housewives of Salt Lake City keeps returning to wealth and relatability as tension points, and this clip says that plainly."
+    },
+    {
+      "segment_id": "6a14ddba_seg_0011",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 2117,
+      "end_sec": 2156,
+      "duration_sec": 39,
+      "description": "At a bar, Meredith confronts Monica about her behavior. The argument is intense and personal, with both women refusing to back down. Meredith accuses Monica of being materialistic.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a major confrontation between Meredith and Monica. It's a classic Housewives fight that drama fans love to see.",
+      "feed_headline": "Meredith and Monica's Bar Fight",
+      "key_participants": [
+        "Meredith",
+        "Monica"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0012",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 2281,
+      "end_sec": 2325,
+      "duration_sec": 44,
+      "description": "The argument between Meredith and Monica reaches its peak. Meredith accuses Monica of weaponizing a sick child, and Monica retaliates with insults. The fight is intense and personal.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the peak of the Meredith and Monica feud. It's a must-watch for drama fans who enjoy the show's most intense moments.",
+      "feed_headline": "Meredith and Monica's Final Explosion",
+      "key_participants": [
+        "Meredith",
+        "Monica"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddba_seg_0013",
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "start_sec": 2499,
+      "end_sec": 2553,
+      "duration_sec": 54,
+      "description": "Monica confronts Angie about her past as Jen Shah's assistant. The argument is intense and personal, with Monica accusing Angie of being a 'lap dog.'",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a major confrontation between Monica and Angie. It's a classic Housewives fight that drama fans love to see.",
+      "feed_headline": "Monica Calls Angie a 'Lap Dog'",
+      "key_participants": [
+        "Monica",
+        "Angie"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "subtags": [
+        "drama",
+        "arguments",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0000",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 198,
+      "end_sec": 229,
+      "duration_sec": 31,
+      "description": "A pizza in the oven catches fire, filling the galley with smoke and flames. Rocky and Kate panic as they try to contain the blaze, waking up the rest of the crew in a chaotic scene.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a high-stakes kitchen disaster where a pizza causes a real fire on the yacht, which is why it makes for a great clip for drama fans watching Below Deck.",
+      "feed_headline": "Pizza Fire Panic on the Yacht!",
+      "key_participants": [
+        "Rocky",
+        "Kate",
+        "Eddie"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Below Deck",
+      "subtags": [
+        "chaos",
+        "disaster"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0001",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 1090,
+      "end_sec": 1118,
+      "duration_sec": 28,
+      "description": "Captain Lee confronts Chef Leon in the wheelhouse, telling him that this will be his last charter due to his inability to work with the crew. Leon is visibly shocked and upset by the decision.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the dramatic moment a chef is fired mid-charter for poor teamwork, which is why it makes for a great clip for drama fans watching Below Deck.",
+      "feed_headline": "Chef Leon Gets Fired Mid-Charter!",
+      "key_participants": [
+        "Captain Lee",
+        "Leon"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Below Deck",
+      "subtags": [
+        "firing",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0002",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 1338,
+      "end_sec": 1364,
+      "duration_sec": 26,
+      "description": "After an argument with Eddie, Rocky storms out of the galley, removes her shirt, and dramatically jumps off the yacht into the ocean. The crew panics as they realize she is in the water.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights a shocking man-overboard moment after a crew argument, which is why it makes for a great clip for drama fans watching Below Deck.",
+      "feed_headline": "Rocky Jumps Overboard in a Fit of Rage!",
+      "key_participants": [
+        "Rocky",
+        "Eddie",
+        "Kate"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Below Deck",
+      "subtags": [
+        "chaos",
+        "drama"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0003",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 2135,
+      "end_sec": 2165,
+      "duration_sec": 30,
+      "description": "Rocky, now acting as chef, serves oysters with a sweet lemon vinaigrette containing grenadine. The guests are confused and disgusted by the strange flavor combination.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights a culinary disaster where a guest is served sweet oysters, which is why it makes for a great clip for humor fans watching Below Deck.",
+      "feed_headline": "Grenadine Oysters: A Culinary Disaster!",
+      "key_participants": [
+        "Rocky",
+        "Kate",
+        "Guests"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Below Deck",
+      "subtags": [
+        "disaster",
+        "chaos"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0004",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 2436,
+      "end_sec": 2476,
+      "duration_sec": 40,
+      "description": "The crew scrambles to fix a ruined birthday cake with whipped cream and candles. They bring the makeshift cake to the guests, who are delighted and celebrate with a toast.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the crew's frantic effort to save a birthday celebration, which is why it makes for a great clip for party fans watching Below Deck.",
+      "feed_headline": "Crew Saves the Birthday Cake Disaster!",
+      "key_participants": [
+        "Kate",
+        "Amy",
+        "Guests"
+      ],
+      "primary_category": "parties_nightlife",
+      "show_name": "Below Deck",
+      "subtags": [
+        "celebration",
+        "birthday"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0005",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 2490,
+      "end_sec": 2517,
+      "duration_sec": 27,
+      "description": "The guests are treated to a spectacular fireworks display on the yacht's deck. They cheer and celebrate as the fireworks light up the night sky over the marina.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a grand finale fireworks show for the guests, which is why it makes for a great clip for party fans watching Below Deck.",
+      "feed_headline": "Epic Fireworks Finale for the Guests!",
+      "key_participants": [
+        "Guests",
+        "Crew"
+      ],
+      "primary_category": "parties_nightlife",
+      "show_name": "Below Deck",
+      "subtags": [
+        "celebration",
+        "fireworks"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0006",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 2670,
+      "end_sec": 2706,
+      "duration_sec": 36,
+      "description": "Rocky and Kate have a heated argument in the galley. Rocky accuses Kate of being a 'jabber' and showing no respect, while Kate defends her leadership and tells Rocky she is useless.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a raw, emotional confrontation between two crew members, which is why it makes for a great clip for drama fans watching Below Deck.",
+      "feed_headline": "Rocky and Kate's Explosive Galley Fight!",
+      "key_participants": [
+        "Rocky",
+        "Kate"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Below Deck",
+      "subtags": [
+        "argument",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0007",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 2922,
+      "end_sec": 2964,
+      "duration_sec": 42,
+      "description": "New chef Ben arrives on the yacht and is warmly greeted by the crew. He shares a hug with Captain Lee and has a friendly, flirtatious interaction with Kate.",
+      "emotional_intensity": 5,
+      "explanation": "This segment highlights the arrival of a new chef and his immediate chemistry with the crew, which is why it makes for a great clip for romance fans watching Below Deck.",
+      "feed_headline": "New Chef Ben Arrives and Flirts with Kate!",
+      "key_participants": [
+        "Ben",
+        "Kate",
+        "Captain Lee"
+      ],
+      "primary_category": "romance_relationships",
+      "show_name": "Below Deck",
+      "subtags": [
+        "new_crew",
+        "romance"
+      ]
+    },
+    {
+      "segment_id": "6a14ddbb_seg_0008",
+      "asset_id": "6a14ddbbbe7b2161f2b604f0",
+      "start_sec": 3171,
+      "end_sec": 3200,
+      "duration_sec": 29,
+      "description": "Ben and Kate sit together at the dining table, laughing and flirting. They joke about their past interactions and share a warm, friendly moment.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights a sweet, flirtatious moment between Ben and Kate, which is why it makes for a great clip for romance fans watching Below Deck.",
+      "feed_headline": "Ben and Kate's Flirty Dinner Date!",
+      "key_participants": [
+        "Ben",
+        "Kate"
+      ],
+      "primary_category": "romance_relationships",
+      "show_name": "Below Deck",
+      "subtags": [
+        "flirting",
+        "romance"
+      ]
+    }
+  ],
+  "total_segments": 56,
+  "show_name": "The Real Housewives of Salt Lake City",
+  "season_context": "Mixed The Real Housewives of Salt Lake City trip-era and later ensemble footage centered on the Palm Springs/Trixie Motel arc, Monica-vs-Lisa class tension, Meredith-Angie-Whitney feud callbacks, and a later fashion-forward cast expansion with Bronwyn and Britani.",
+  "jockey_feed_clips": [
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "In The Real Housewives of Salt Lake City, Monica Garcia\u2019s money anxiety becomes a defining counterweight to Lisa Barlow\u2019s luxury-first worldview. This vulnerable beat matters across the show because it gives emotional context to the later ring fight, class resentment, and Monica\u2019s recurring insistence that the group is out of touch.",
+      "emotional_intensity": 8,
+      "end_sec": 107,
+      "feed_headline": "Monica breaks down over never feeling like enough",
+      "jockey_reasoning": "This segment highlights Monica Garcia\u2019s raw confessional vulnerability before the Palm Springs chaos fully detonates. It\u2019s a great clip for drama addicts and emotional-moment fans because it reframes later fights as more than just screaming. Jockey elevated it because across all of The Real Housewives of Salt Lake City in this store, Monica\u2019s outsider status is one of the clearest engines of conflict.",
+      "key_participants": [
+        "Monica Garcia"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 101,
+      "subtags": [
+        "crying",
+        "vulnerability",
+        "heartfelt_confession"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "On The Real Housewives of Salt Lake City, the Trixie Motel trip is not just a destination flex; it\u2019s the stage for a major alliance shuffle and host-power battle. Whitney\u2019s secret plan to spring Angie into Meredith\u2019s trip directly feeds the season-long etiquette, exclusion, and loyalty fights that define this run of the show.",
+      "emotional_intensity": 6,
+      "end_sec": 123,
+      "feed_headline": "Whitney quietly sets up the Angie surprise",
+      "jockey_reasoning": "This segment highlights the exact setup for one of the trip\u2019s most important social detonations. It\u2019s ideal for shade-and-gossip superfans who love seeing the trap get laid before the reaction clip. Jockey elevated it because The Real Housewives of Salt Lake City repeatedly turns planning, invitations, and host authority into major storyline fuel, and this is a pure origin point.",
+      "key_participants": [
+        "Whitney Rose",
+        "Monica Garcia"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 121,
+      "subtags": [
+        "revealing_secret",
+        "alliance_forming",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Luxury spectacle is core to The Real Housewives of Salt Lake City, and the Trixie Motel reveal is one of the clearest examples in this corpus of camp aesthetics colliding with cast drama. It matters across episodes because this trip\u2019s hyper-stylized setting becomes the backdrop for multiple conflicts, making the destination itself part of the season\u2019s identity.",
+      "emotional_intensity": 7,
+      "end_sec": 168,
+      "feed_headline": "The Trixie Motel pool reveal delivers instant camp",
+      "jockey_reasoning": "This segment highlights the pink, over-the-top fantasy that makes the trip feel like a Housewives fever dream. It\u2019s perfect for fashion and luxury fans who want maximal visuals before the interpersonal mess starts. Jockey elevated it because The Real Housewives of Salt Lake City in this store keeps pairing glam settings with emotional fallout, and this is the signature establishing flex.",
+      "key_participants": [],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 162,
+      "subtags": [
+        "mansion_tour",
+        "designer_clothes"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Trixie Mattel\u2019s arrival matters in The Real Housewives of Salt Lake City because this trip arc leans hard into camp while the cast relationships are fracturing underneath. For full-series viewers, it\u2019s a rare crossover moment where the show\u2019s taste for spectacle amplifies \u2014 rather than softens \u2014 the social tension already brewing.",
+      "emotional_intensity": 7,
+      "end_sec": 211,
+      "feed_headline": "Trixie Mattel arrives and the whole trip turns theatrical",
+      "jockey_reasoning": "This segment highlights the franchise\u2019s ability to make celebrity-host camp feel like part of the drama machine. It\u2019s a great clip for luxury, humor, and Bravo-crossover superfans who live for surreal Housewives hosting moments. Jockey elevated it because across The Real Housewives of Salt Lake City here, the Trixie Motel episodes are the most distinctive blend of spectacle and impending chaos.",
+      "key_participants": [
+        "Trixie Mattel",
+        "Meredith Marks",
+        "Monica Garcia",
+        "Mary Cosby",
+        "Lisa Barlow"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 201,
+      "subtags": [
+        "designer_clothes",
+        "group_outing",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "The expensive ring panic is one of the central symbols of class friction in The Real Housewives of Salt Lake City. Across these episodes, Lisa Barlow\u2019s lost-ring storyline becomes the spark that lets Monica Garcia articulate her resentment about wealth, privilege, and what counts as a real crisis in this friend group.",
+      "emotional_intensity": 7,
+      "end_sec": 235,
+      "feed_headline": "Monica clocks just how expensive Lisa\u2019s ring drama is",
+      "jockey_reasoning": "This segment highlights the exact second luxury turns into resentment. It\u2019s catnip for drama addicts and class-war Housewives fans because one shocked reaction says everything about the season\u2019s Monica-vs-Lisa dynamic. Jockey elevated it because The Real Housewives of Salt Lake City repeatedly uses status symbols as conflict triggers, and this ring is the cleanest example in the corpus.",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow",
+        "Trixie Mattel"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 229,
+      "subtags": [
+        "jewelry_moment",
+        "reaction_shot",
+        "brand_callout"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Whitney and Angie\u2019s arrival is a major cross-episode pivot in The Real Housewives of Salt Lake City because it turns Meredith\u2019s hosted getaway into a battleground over exclusion and control. The fallout from who was invited, who was added, and who feels disrespected runs through the larger Meredith-Angie-Whitney triangle across the show.",
+      "emotional_intensity": 8,
+      "end_sec": 261,
+      "feed_headline": "Whitney and Angie crash the vibe at Meredith\u2019s trip",
+      "jockey_reasoning": "This segment highlights the perfect Housewives ambush: a glamorous surprise that instantly reads as a social offense. It\u2019s a killer clip for drama addicts and etiquette-war superfans who know invitations are never just invitations. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, host power and passive-aggressive exclusion are recurring feud drivers, and this is the cleanest trip-arc eruption.",
+      "key_participants": [
+        "Whitney Rose",
+        "Angie Katsanevas",
+        "Meredith Marks",
+        "Lisa Barlow",
+        "Monica Garcia"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 255,
+      "subtags": [
+        "group_outing",
+        "confrontation_buildup",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Mary Cosby\u2019s baffled reaction to Angie is classic The Real Housewives of Salt Lake City: detached, cutting, and unforgettable in ways that outlast plot mechanics. This moment matters across the show because Mary\u2019s weirdly observational commentary keeps functioning as comic relief and social judgment even when she\u2019s only half-engaged with the group.",
+      "emotional_intensity": 5,
+      "end_sec": 299,
+      "feed_headline": "Mary basically asks why Angie is even here",
+      "jockey_reasoning": "This segment highlights Mary Cosby doing what only Mary Cosby can do: turning confusion into elite-grade shade. It\u2019s a great clip for humor and reaction-shot fans who appreciate RHOSLC\u2019s absurdist side. Jockey elevated it because throughout The Real Housewives of Salt Lake City in this corpus, Mary\u2019s outsider commentary keeps becoming some of the most shareable material.",
+      "key_participants": [
+        "Mary Cosby",
+        "Angie Katsanevas"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 295,
+      "subtags": [
+        "verbal_slip",
+        "reaction_shot",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "This poolside Meredith-Angie talk matters in The Real Housewives of Salt Lake City because it brings the invitation drama into explicit feud language. It connects the Palm Springs ambush to the show\u2019s broader pattern of simmering grievances getting re-litigated in side conversations before exploding again at group events.",
+      "emotional_intensity": 6,
+      "end_sec": 441,
+      "feed_headline": "Angie finally says Meredith\u2019s whole vibe feels fake",
+      "jockey_reasoning": "This segment highlights the classic mid-trip debrief where a simmering issue gets named out loud. It\u2019s strong feed material for gossip and shade fans because it turns a passive-aggressive atmosphere into a direct read. Jockey elevated it because The Real Housewives of Salt Lake City loves using poolside and bedroom sidebars to load the next confrontation, and this one is structurally important.",
+      "key_participants": [
+        "Angie Katsanevas",
+        "Lisa Barlow",
+        "Whitney Rose",
+        "Meredith Marks"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 421,
+      "subtags": [
+        "shade_throwing",
+        "talking_behind_back",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "The flashback package matters on The Real Housewives of Salt Lake City because it makes the Palm Springs tension legible as part of a longer Angie-Meredith-Lisa-Whitney history, not a random trip spat. For full-series viewers, this is the edit openly telling you which grudges are franchise-relevant enough to keep resurfacing.",
+      "emotional_intensity": 8,
+      "end_sec": 467,
+      "feed_headline": "The edit reminds everyone this feud did not start here",
+      "jockey_reasoning": "This segment highlights RHOSLC doing one of its best tricks: using receipts and flashbacks to prove the current fight has layers. It\u2019s a must for storyline nerds and feud historians who love callbacks more than raw yelling. Jockey elevated it because across The Real Housewives of Salt Lake City in this knowledge store, recurring conflict memory is what turns moments into canon.",
+      "key_participants": [
+        "Meredith Marks",
+        "Angie Katsanevas",
+        "Lisa Barlow",
+        "Whitney Rose",
+        "Heather Gay"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 453,
+      "subtags": [
+        "revealing_secret",
+        "betrayal",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Mary refusing to join the women is small in plot but huge in character on The Real Housewives of Salt Lake City. Across the series, Mary\u2019s refusal to perform normal group-bonding keeps reinforcing her detached role as both cast member and anti-cast member, which is exactly why fans keep clipping her.",
+      "emotional_intensity": 6,
+      "end_sec": 507,
+      "feed_headline": "Mary flat-out refuses the group hang",
+      "jockey_reasoning": "This segment highlights Mary Cosby rejecting group norms with zero cushioning. It\u2019s premium feed material for awkward-comedy fans and longtime RHOSLC watchers who know her disengagement is practically its own storyline. Jockey elevated it because throughout The Real Housewives of Salt Lake City here, Mary\u2019s nonparticipation is as memorable as anyone else\u2019s confrontation.",
+      "key_participants": [
+        "Mary Cosby",
+        "Angie Katsanevas",
+        "Whitney Rose"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 499,
+      "subtags": [
+        "awkward_silence",
+        "walkout",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Whitney explaining her Trixie connection matters because The Real Housewives of Salt Lake City often disguises alliance moves as innocent logistics. In the larger run of the show, these little explanations are where loyalty lines get negotiated and where later accusations of manipulation start to make sense.",
+      "emotional_intensity": 5,
+      "end_sec": 531,
+      "feed_headline": "Whitney explains why her Angie move was totally justified",
+      "jockey_reasoning": "This segment highlights Whitney Rose trying to recast a clearly strategic move as something organic and reasonable. It\u2019s made for gossip fans who love the difference between what Housewives say and what the audience knows. Jockey elevated it because The Real Housewives of Salt Lake City in this corpus is full of alliance-management scenes like this, and this one has big downstream payoff.",
+      "key_participants": [
+        "Whitney Rose",
+        "Angie Katsanevas",
+        "Mary Cosby"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 520,
+      "subtags": [
+        "alliance_forming",
+        "shade_throwing",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Gift-giving on The Real Housewives of Salt Lake City is never just generosity; it\u2019s status, diplomacy, and host theater. Meredith arriving with gifts matters across this trip arc because it reasserts her control over the space right before the social fractures deepen again.",
+      "emotional_intensity": 5,
+      "end_sec": 553,
+      "feed_headline": "Meredith tries to reset her trip with luxury gift bags",
+      "jockey_reasoning": "This segment highlights the very Housewives move of smoothing over tension with curated glamour. It\u2019s a strong clip for luxury fans and social-dynamics obsessives who enjoy watching status gestures double as power moves. Jockey elevated it because across The Real Housewives of Salt Lake City, hosting rituals and symbolic gifts keep functioning as soft warfare.",
+      "key_participants": [
+        "Meredith Marks",
+        "Heather Gay",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Monica Garcia"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 549,
+      "subtags": [
+        "shopping_spree",
+        "designer_clothes",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "The ring argument is one of the most clearly cross-episode-defining moments in this RHOSLC corpus because it turns Monica Garcia\u2019s resentment of Lisa Barlow\u2019s wealth into an all-out war. On The Real Housewives of Salt Lake City, this fight becomes shorthand for the season\u2019s class divide, emotional projection, and inability to keep private pain separate from public spectacle.",
+      "emotional_intensity": 10,
+      "end_sec": 1886,
+      "feed_headline": "Monica and Lisa turn the ring drama into a class war",
+      "jockey_reasoning": "This segment highlights the exact collision of money, insecurity, and ego that makes Housewives feuds feel bigger than the literal argument. It\u2019s essential viewing for drama addicts because the yelling is matched by real thematic weight. Jockey elevated it because across all of The Real Housewives of Salt Lake City in the store, this is one of the clearest franchise-defining fight clips.",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1847,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "jewelry_moment"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Meredith\u2019s escalating rage is central to The Real Housewives of Salt Lake City because her controlled persona makes every blowup feel seismic. This shout-heavy sequence matters across episodes because it cements Meredith as someone whose calm can snap into legendary confrontation mode, a rhythm the show keeps returning to.",
+      "emotional_intensity": 10,
+      "end_sec": 2258,
+      "feed_headline": "Meredith goes full scorched-earth in one of her signature meltdowns",
+      "jockey_reasoning": "This segment highlights Meredith Marks at her most volcanic, which is always catnip for RHOSLC superfans. It\u2019s a top-tier clip for fight lovers because the language, body language, and stakes all feel instantly memeable. Jockey elevated it because across The Real Housewives of Salt Lake City here, Meredith\u2019s eruptions are rare enough to feel major and recurring enough to define her arc.",
+      "key_participants": [
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2248,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "walkout"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Mary accusing Whitney matters because The Real Housewives of Salt Lake City thrives on blunt character judgments that instantly redraw the room. This confrontation connects to the larger series pattern of Mary acting as both comic sniper and social truth grenade, especially when Whitney is trying to manage her image within the group.",
+      "emotional_intensity": 9,
+      "end_sec": 2567,
+      "feed_headline": "Mary unloads on Whitney with zero cushioning",
+      "jockey_reasoning": "This segment highlights Mary weaponizing her trademark bluntness in a way that\u2019s both confrontational and bizarrely funny. It\u2019s ideal for fans who want maximum shade with minimal filter. Jockey elevated it because The Real Housewives of Salt Lake City repeatedly turns Mary\u2019s detached reads into some of its most replayable conflict beats.",
+      "key_participants": [
+        "Mary Cosby",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2550,
+      "subtags": [
+        "shade_throwing",
+        "screaming",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddbaddce351fa0ae8952",
+      "cross_episode_significance": "Meredith versus Whitney is one of the key recurring pairings in The Real Housewives of Salt Lake City, and this argument matters because it strips away any polite pretense left between them. Across the show, their conflict lives in the overlap between friendship history, rumor circulation, and incompatible communication styles.",
+      "emotional_intensity": 9,
+      "end_sec": 2671,
+      "feed_headline": "Meredith and Whitney hit another breaking point",
+      "jockey_reasoning": "This segment highlights a foundational RHOSLC feud dynamic: old hurt, fresh irritation, and no patience left. It\u2019s prime feed material for longtime viewers who track relationship deterioration more than one-off drama. Jockey elevated it because across The Real Housewives of Salt Lake City in this corpus, Meredith-vs-Whitney keeps resurfacing as a core conflict axis.",
+      "key_participants": [
+        "Meredith Marks",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2666,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e03-5d12-7625-8000-d3e87e24b33e"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "The drag reveals matter in The Real Housewives of Salt Lake City because the Trixie Motel arc is where camp spectacle and social fracture become inseparable. Monica\u2019s reveal especially lands across the corpus because her desire to be seen, win, and outrun humiliation is already one of the emotional motors of her season.",
+      "emotional_intensity": 7,
+      "end_sec": 1449,
+      "feed_headline": "Monica\u2019s drag reveal is camp, confidence, and overcompensation at once",
+      "jockey_reasoning": "This segment highlights the franchise at its most theatrical: costumes, performance, and identity play all in one entrance. It\u2019s a strong clip for fashion fans and camp-loving Bravo viewers who want relief before the next explosion. Jockey elevated it because The Real Housewives of Salt Lake City rarely gets this visually committed, and the Trixie arc is a standout branch of the corpus.",
+      "key_participants": [
+        "Monica Garcia",
+        "Trixie Mattel"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1446,
+      "subtags": [
+        "designer_clothes",
+        "reaction_shot",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Monica being crowned at Trixie Motel matters in The Real Housewives of Salt Lake City because it briefly flips the power dynamic of the trip. Across the larger Monica arc, moments like this make her feel ascendant and celebrated right before the social backlash and emotional volatility return.",
+      "emotional_intensity": 8,
+      "end_sec": 1634,
+      "feed_headline": "Monica wins the drag showdown and gets crowned",
+      "jockey_reasoning": "This segment highlights pure triumphant spectacle in the middle of a conflict-heavy trip. It\u2019s perfect for camp fans and Monica partisans who want a rare win instead of another pile-on. Jockey elevated it because The Real Housewives of Salt Lake City in this store is so argument-driven that this celebratory high point stands out even more.",
+      "key_participants": [
+        "Monica Garcia",
+        "Trixie Mattel",
+        "Heather Gay",
+        "Angie Katsanevas"
+      ],
+      "primary_category": "parties_nightlife",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1623,
+      "subtags": [
+        "dance_moment",
+        "champagne_toast",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Monica\u2019s confessional emotion matters because The Real Housewives of Salt Lake City keeps framing her as both aggressor and wounded outsider. This beat deepens the same emotional contradiction seen elsewhere in the corpus: she can dominate a room one minute and unravel the next, which is why viewers stay split on her.",
+      "emotional_intensity": 8,
+      "end_sec": 1654,
+      "feed_headline": "Even after winning, Monica can\u2019t quite keep it together",
+      "jockey_reasoning": "This segment highlights the emotional whiplash that makes Monica such compelling reality TV. It\u2019s a great clip for viewers who love vulnerability threaded through larger-than-life spectacle. Jockey elevated it because across The Real Housewives of Salt Lake City here, Monica\u2019s instability between triumph and hurt is one of the season\u2019s most defining patterns.",
+      "key_participants": [
+        "Monica Garcia"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1651,
+      "subtags": [
+        "crying",
+        "vulnerability",
+        "heartfelt_confession"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Monica crying over the ring argument matters because on The Real Housewives of Salt Lake City, the fight is never really only about the ring. This moment ties the luxury-symbol fight back to Monica\u2019s larger feelings about precarity, humiliation, and being judged by women whose lives she sees as materially easier.",
+      "emotional_intensity": 9,
+      "end_sec": 1930,
+      "feed_headline": "Monica finally says the ring fight is about way more than jewelry",
+      "jockey_reasoning": "This segment highlights the emotional core underneath one of the season\u2019s loudest arguments. It\u2019s essential for drama and empathy-first superfans because it reframes the fight as social pain, not just Housewives excess. Jockey elevated it because The Real Housewives of Salt Lake City keeps returning to wealth and relatability as tension points, and this clip says that plainly.",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1912,
+      "subtags": [
+        "crying",
+        "jewelry_moment",
+        "heartfelt_confession"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Monica listing Lisa\u2019s luxuries is one of the cleanest class-analysis moments in The Real Housewives of Salt Lake City. Across the corpus, it connects the lost-ring saga, the material signifiers around Lisa, and Monica\u2019s repeated insistence that tone-deaf privilege is driving the group\u2019s moral blind spots.",
+      "emotional_intensity": 9,
+      "end_sec": 1953,
+      "feed_headline": "Monica starts inventorying Lisa\u2019s life like a closing argument",
+      "jockey_reasoning": "This segment highlights a Housewives fight turning into a devastating socioeconomic read. It\u2019s perfect for fight fans and shade connoisseurs because Monica is angry, specific, and impossible to ignore. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, no other conflict so clearly turns luxury into an indictment.",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1934,
+      "subtags": [
+        "shade_throwing",
+        "brand_callout",
+        "jewelry_moment"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "The van fight is one of the defining RHOSLC settings in this corpus, and this run of Monica-Lisa exchanges matters because it compresses weeks of grievance into a single trapped-space explosion. On The Real Housewives of Salt Lake City, van rides repeatedly become forced-group pressure cookers where nobody can escape the argument or the cameras.",
+      "emotional_intensity": 10,
+      "end_sec": 2028,
+      "feed_headline": "The van ride turns into Monica vs. Lisa with no exit route",
+      "jockey_reasoning": "This segment highlights the franchise\u2019s favorite conflict lab: a moving vehicle full of women who already hate each other. It\u2019s ideal for drama addicts because the insults, reactions, and claustrophobia all hit at once. Jockey elevated it because across The Real Housewives of Salt Lake City in this knowledge store, van scenes are unusually consistent conflict engines, and this is the best one.",
+      "key_participants": [
+        "Monica Garcia",
+        "Lisa Barlow",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2004,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Monica switching her fire from Lisa to Angie matters because alliance lines are never stable on The Real Housewives of Salt Lake City. This beat shows how quickly side characters in one feud become central targets in the next, especially when loyalty to Lisa becomes its own accusation.",
+      "emotional_intensity": 9,
+      "end_sec": 2049,
+      "feed_headline": "Monica drags Angie into the van war too",
+      "jockey_reasoning": "This segment highlights how RHOSLC arguments never stay two-person for long. It\u2019s great for feud-map superfans who like tracking how one conflict instantly widens into coalition politics. Jockey elevated it because across The Real Housewives of Salt Lake City, alliance adjacency is everything, and Angie\u2019s tie to Lisa keeps pulling her into Monica\u2019s fire.",
+      "key_participants": [
+        "Monica Garcia",
+        "Angie Katsanevas",
+        "Lisa Barlow",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2029,
+      "subtags": [
+        "screaming",
+        "alliance_forming",
+        "shade_throwing"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Lisa and Monica hitting peak volume in the van matters because this is where the ring tension, class resentment, and personality contempt all fully merge on The Real Housewives of Salt Lake City. It\u2019s one of the clearest full-blown feud clips in the corpus and a useful callback anchor for everything that follows between them.",
+      "emotional_intensity": 10,
+      "end_sec": 2072,
+      "feed_headline": "Lisa and Monica reach absolute peak van toxicity",
+      "jockey_reasoning": "This segment highlights the moment the disagreement stops being debate and becomes pure mutual annihilation. It\u2019s top-tier feed material for superfans who want relentless verbal combat and sharp reaction shots. Jockey elevated it because within The Real Housewives of Salt Lake City here, this is one of the most complete and rewatchable confrontation clips available.",
+      "key_participants": [
+        "Lisa Barlow",
+        "Monica Garcia",
+        "Angie Katsanevas",
+        "Whitney Rose",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2069,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Lisa\u2019s meltdown matters because on The Real Housewives of Salt Lake City, she is usually one of the most controlled self-mythologizers in the cast. Seeing her overwhelmed gives later defensiveness, self-justification, and conflict with Monica more emotional texture across the larger trip arc.",
+      "emotional_intensity": 9,
+      "end_sec": 1259,
+      "feed_headline": "Lisa\u2019s composure finally cracks",
+      "jockey_reasoning": "This segment highlights a rare moment where Lisa Barlow stops performing invulnerability and just melts down. It\u2019s a strong clip for emotional-moments fans and longtime Lisa watchers because the break in the armor is the story. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, Lisa\u2019s emotional collapses are infrequent enough to feel event-level.",
+      "key_participants": [
+        "Lisa Barlow"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1250,
+      "subtags": [
+        "crying",
+        "support_scene",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Mary versus Meredith in the van matters because The Real Housewives of Salt Lake City repeatedly weaponizes basic communication slights into unforgettable one-liners and status plays. This exchange reinforces Mary\u2019s refusal to respect the cast\u2019s conversational hierarchy and Meredith\u2019s inability to just glide past a disrespectful jab.",
+      "emotional_intensity": 8,
+      "end_sec": 933,
+      "feed_headline": "Mary and Meredith turn the van into a mute-button war",
+      "jockey_reasoning": "This segment highlights RHOSLC at its most absurdly petty and therefore most clip-friendly. It\u2019s excellent for humor-and-shade fans who want biting one-liners instead of crying. Jockey elevated it because across The Real Housewives of Salt Lake City, van conflicts are recurring classics, and this one shows Mary\u2019s singular ability to derail group etiquette.",
+      "key_participants": [
+        "Mary Cosby",
+        "Meredith Marks",
+        "Whitney Rose"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 913,
+      "subtags": [
+        "shade_throwing",
+        "awkward_silence",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba15649e226a0448c8",
+      "cross_episode_significance": "Meredith accusing Heather of weaponizing a sick child is one of the sharpest escalation points in this RHOSLC corpus. It matters across The Real Housewives of Salt Lake City because it shows how quickly moral language and family-adjacent subjects get used as ammo when grudges between close allies start to crack.",
+      "emotional_intensity": 10,
+      "end_sec": 1611,
+      "feed_headline": "Meredith makes a truly nuclear accusation at the bar",
+      "jockey_reasoning": "This segment highlights a line-crossing accusation that instantly raises the emotional stakes. It\u2019s made for hardcore drama viewers because the shock is not just in the volume but in what Meredith is willing to say. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, this is one of the harshest verbal escalations involving core cast relationships.",
+      "key_participants": [
+        "Meredith Marks",
+        "Heather Gay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1606,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "06a14e3f-c4f7-7539-8000-c9252ba3b60f"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Bronwyn\u2019s entrance matters because The Real Housewives of Salt Lake City often announces a woman\u2019s role through fashion before dialogue even catches up. Across this later-season material, her high-concept styling signals a cast evolution while keeping the show\u2019s commitment to spectacle and self-branding intact.",
+      "emotional_intensity": 7,
+      "end_sec": 544,
+      "feed_headline": "Bronwyn arrives dressed like a walking art project",
+      "jockey_reasoning": "This segment highlights a new-school RHOSLC fashion flex that instantly creates conversation. It\u2019s ideal for luxury and fashion superfans who track character through wardrobe as much as through confessionals. Jockey elevated it because The Real Housewives of Salt Lake City in this corpus broadens visually in the later material, and Bronwyn\u2019s arrival is the loudest proof.",
+      "key_participants": [
+        "Bronwyn Newport"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 539,
+      "subtags": [
+        "designer_clothes",
+        "brand_callout",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Bronwyn\u2019s leopard-print entrance matters on The Real Housewives of Salt Lake City because it extends the franchise\u2019s long-running use of fashion as confrontation bait, self-definition, and social sorting. In the larger run of the show, looking outrageous and expensive is often a declaration of rank before any verbal conflict begins.",
+      "emotional_intensity": 7,
+      "end_sec": 627,
+      "feed_headline": "Bronwyn doubles down with another giant fashion swing",
+      "jockey_reasoning": "This segment highlights how RHOSLC treats entrance looks like opening statements. It\u2019s a great clip for fashion fans and camp viewers who love bravado before the arguments start. Jockey elevated it because across The Real Housewives of Salt Lake City, luxury image-making is constant, and Bronwyn gives the later episodes a distinct visual identity.",
+      "key_participants": [
+        "Bronwyn Newport"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 625,
+      "subtags": [
+        "designer_clothes",
+        "reaction_shot",
+        "brand_callout"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Mary\u2019s fashion takedown of Bronwyn matters because The Real Housewives of Salt Lake City has always treated taste as moral judgment in disguise. Across the show, Mary\u2019s critiques land harder than simple jokes because they instantly place someone above or below her in the bizarre social hierarchy she\u2019s always enforcing.",
+      "emotional_intensity": 6,
+      "end_sec": 1016,
+      "feed_headline": "Mary absolutely roasts Bronwyn\u2019s coat in confessional",
+      "jockey_reasoning": "This segment highlights Mary Cosby\u2019s singular ability to turn fashion commentary into a spiritual attack. It\u2019s perfect for humor, shade, and fashion fans who love a read delivered with total conviction. Jockey elevated it because across The Real Housewives of Salt Lake City, Mary\u2019s confessionals are some of the most reliably clip-worthy material in the entire store.",
+      "key_participants": [
+        "Mary Cosby",
+        "Bronwyn Newport"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1001,
+      "subtags": [
+        "shade_throwing",
+        "reaction_shot",
+        "designer_clothes"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "The fashion-versus-costume debate matters because on The Real Housewives of Salt Lake City, aesthetics are never just aesthetics; they\u2019re proxies for class, legitimacy, and belonging. This scene connects to the show\u2019s long-running preoccupation with who has authentic taste and who is performing status too loudly.",
+      "emotional_intensity": 7,
+      "end_sec": 993,
+      "feed_headline": "The women turn fashion snobbery into a full-on argument",
+      "jockey_reasoning": "This segment highlights RHOSLC using style talk as a stand-in for social warfare. It\u2019s catnip for fashion and shade superfans because everyone is really arguing about identity, not outfits. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, luxury and judgment are constantly fused, and this scene says the quiet part out loud.",
+      "key_participants": [
+        "Mary Cosby",
+        "Monica Garcia",
+        "Bronwyn Newport"
+      ],
+      "primary_category": "luxury_fashion",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 983,
+      "subtags": [
+        "designer_clothes",
+        "shade_throwing",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Angie\u2019s scroll reveal is one of the most self-consciously theatrical confrontation props in this RHOSLC corpus. It matters across The Real Housewives of Salt Lake City because it distills the franchise\u2019s love of receipts, performance, and premeditated grievance into a single image fans instantly remember.",
+      "emotional_intensity": 8,
+      "end_sec": 1545,
+      "feed_headline": "Angie pulls out a scroll like she came to dinner with evidence",
+      "jockey_reasoning": "This segment highlights one of the best visual gags in the whole store: a Housewives receipt moment made physically enormous. It\u2019s a dream clip for drama addicts and meme-loving superfans because the prop alone does half the work. Jockey elevated it because across The Real Housewives of Salt Lake City, few moments fuse spectacle and confrontation this cleanly.",
+      "key_participants": [
+        "Angie Katsanevas",
+        "Meredith Marks",
+        "Whitney Rose"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1537,
+      "subtags": [
+        "revealing_secret",
+        "confrontation_buildup",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "The Meredith-Angie accusation fight matters because The Real Housewives of Salt Lake City keeps circling back to rumors, house talk, and whether someone is implying more than they\u2019re saying. This dinner confrontation extends the show\u2019s larger Meredith-versus-Angie feud from passive-aggressive social tension into explicit denial and counterattack.",
+      "emotional_intensity": 9,
+      "end_sec": 1908,
+      "feed_headline": "Angie and Meredith go straight into accusation-and-denial mode",
+      "jockey_reasoning": "This segment highlights the exact RHOSLC zone where implication becomes confrontation. It\u2019s strong feed material for feud historians because both women are arguing from months of built-up resentment, not just one dinner beat. Jockey elevated it because across The Real Housewives of Salt Lake City here, Meredith and Angie are one of the most important recurring tension lines.",
+      "key_participants": [
+        "Angie Katsanevas",
+        "Meredith Marks"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1879,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Heather hiding under the napkin matters because The Real Housewives of Salt Lake City specializes in turning emotional overload into accidental comedy. Across the series, Heather often serves as both participant and overwhelmed witness, and this beat captures how exhausting the group\u2019s cyclical dinner warfare has become.",
+      "emotional_intensity": 7,
+      "end_sec": 1945,
+      "feed_headline": "Heather literally hides under a napkin to survive dinner",
+      "jockey_reasoning": "This segment highlights RHOSLC\u2019s sweet spot where chaos becomes absurd physical comedy. It\u2019s perfect for humor fans and dinner-party-disaster lovers who want a visual reaction instead of another monologue. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, group dinners are major conflict arenas, and this is one of the funniest stress responses in them.",
+      "key_participants": [
+        "Heather Gay"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1942,
+      "subtags": [
+        "physical_comedy",
+        "reaction_shot",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Lisa versus Heather over the podcast matters because The Real Housewives of Salt Lake City loves turning off-camera commentary into on-camera betrayal. This beat connects to the broader series pattern where confessionals, podcasts, and secondhand retellings become as combustible as anything said face-to-face.",
+      "emotional_intensity": 8,
+      "end_sec": 2053,
+      "feed_headline": "Lisa and Heather turn podcast talk into a personal war",
+      "jockey_reasoning": "This segment highlights RHOSLC\u2019s media-feedback loop: what gets said about the show becomes the show. It\u2019s a great clip for meta-drama superfans who care about podcasts, narratives, and who controls the story. Jockey elevated it because across The Real Housewives of Salt Lake City here, off-camera commentary repeatedly comes back as on-camera ammunition.",
+      "key_participants": [
+        "Lisa Barlow",
+        "Heather Gay"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2025,
+      "subtags": [
+        "revealing_secret",
+        "betrayal",
+        "shade_throwing"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "Lisa embracing the villain label matters because The Real Housewives of Salt Lake City constantly negotiates image, self-awareness, and fan perception inside the text of the show itself. This line lands across episodes because it shows Lisa choosing confrontation over appeasement in a feud cycle where she increasingly knows the role she\u2019s being assigned.",
+      "emotional_intensity": 9,
+      "end_sec": 2314,
+      "feed_headline": "Lisa decides if they want a villain, she\u2019ll give them one",
+      "jockey_reasoning": "This segment highlights a Housewife recognizing her narrative slot and weaponizing it back at the table. It\u2019s premium feed material for longtime viewers who love self-aware reality TV and villain-energy declarations. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, few lines so neatly capture Lisa Barlow\u2019s defiant self-mythology.",
+      "key_participants": [
+        "Lisa Barlow",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2308,
+      "subtags": [
+        "shade_throwing",
+        "screaming",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba163adca316ecc289",
+      "cross_episode_significance": "The grace argument matters because The Real Housewives of Salt Lake City repeatedly turns therapy language, trauma language, and moral language into feud currency. Lisa and Whitney arguing over grace is bigger than this dinner because it reflects a long-running clash between emotional validation culture and Lisa\u2019s more defensive, self-justifying style.",
+      "emotional_intensity": 8,
+      "end_sec": 2488,
+      "feed_headline": "Lisa and Whitney turn grace and trauma into a battlefield",
+      "jockey_reasoning": "This segment highlights RHOSLC\u2019s habit of making emotional vocabulary itself part of the fight. It\u2019s ideal for conflict superfans who enjoy the psychological layer beneath the yelling. Jockey elevated it because across The Real Housewives of Salt Lake City here, Lisa-vs-Whitney arguments keep returning to whether either woman can recognize the other\u2019s emotional reality.",
+      "key_participants": [
+        "Lisa Barlow",
+        "Whitney Rose"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 2434,
+      "subtags": [
+        "screaming",
+        "betrayal",
+        "apology"
+      ],
+      "jockey_asset_id_raw": "06a14e18-abb6-7a7a-8000-c7abd05b71cc"
+    },
+    {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "cross_episode_significance": "The Mexico van-recording flashback matters because The Real Housewives of Salt Lake City thrives on surveillance paranoia, receipts, and whether private conversation has secretly become evidence. This beat carries cross-episode weight by turning trust, gossip circulation, and rumor management into a full-group emergency.",
+      "emotional_intensity": 9,
+      "end_sec": 1371,
+      "feed_headline": "The van recording drama finally gets replayed",
+      "jockey_reasoning": "This segment highlights the exact kind of paranoid receipt culture that RHOSLC fans live for. It\u2019s a great clip for rumor-and-gossip obsessives because it turns a van ride into a trust-collapse event. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, few themes feel more season-defining than who said what, who repeated it, and who secretly captured it.",
+      "key_participants": [
+        "Lisa Barlow",
+        "Heather Gay",
+        "Whitney Rose",
+        "Meredith Marks",
+        "Angie Katsanevas",
+        "Monica Garcia",
+        "Mary Cosby",
+        "Britney"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1367,
+      "subtags": [
+        "revealing_secret",
+        "betrayal",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "06a14e2b-c936-7942-8000-e4037c8b377d"
+    },
+    {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "cross_episode_significance": "Meredith confronting Britani over lies matters because The Real Housewives of Salt Lake City keeps revolving around whether accusations are malicious rumor, truth, or strategic distortion. This clip fits the show\u2019s larger fabric by showing Meredith again moving from chilly implication to direct confrontation when she feels her credibility is threatened.",
+      "emotional_intensity": 8,
+      "end_sec": 1390,
+      "feed_headline": "Meredith comes straight for Britani over the lies",
+      "jockey_reasoning": "This segment highlights Meredith stepping into prosecutor mode instead of staying above the mess. It\u2019s a strong feed clip for confrontation fans who like direct language over passive-aggressive setup. Jockey elevated it because across The Real Housewives of Salt Lake City, Meredith\u2019s credibility battles are recurring story fuel, and this is a clean example.",
+      "key_participants": [
+        "Meredith Marks",
+        "Britani Bateman"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1384,
+      "subtags": [
+        "shade_throwing",
+        "revealing_secret",
+        "screaming"
+      ],
+      "jockey_asset_id_raw": "06a14e2b-c936-7942-8000-e4037c8b377d"
+    },
+    {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "cross_episode_significance": "Heather calling Britani\u2019s move a trust violation matters because The Real Housewives of Salt Lake City repeatedly frames friendship not as warmth but as confidentiality, loyalty, and strategic silence. This accusation plugs directly into the show\u2019s long-running obsession with betrayal and who is weaponizing information against the group.",
+      "emotional_intensity": 8,
+      "end_sec": 1352,
+      "feed_headline": "Heather labels it what it is: a total trust violation",
+      "jockey_reasoning": "This segment highlights Heather Gay reducing a messy situation to its emotional core: betrayal. It\u2019s excellent for loyalty-and-alliance superfans who care about who crossed the line, not just who yelled louder. Jockey elevated it because across The Real Housewives of Salt Lake City in this corpus, trust language is one of the show\u2019s most durable conflict currencies.",
+      "key_participants": [
+        "Heather Gay",
+        "Britani Bateman"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1348,
+      "subtags": [
+        "betrayal",
+        "revealing_secret",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "06a14e2b-c936-7942-8000-e4037c8b377d"
+    },
+    {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "cross_episode_significance": "Britani\u2019s confession about Jared matters because The Real Housewives of Salt Lake City often turns personal revelation into immediate group judgment. This beat connects to the franchise\u2019s broader pattern of women exposing intimate details under pressure, then watching the room decide whether the honesty earns sympathy or makes the situation worse.",
+      "emotional_intensity": 9,
+      "end_sec": 1450,
+      "feed_headline": "Britani drops the relationship confession no one can unhear",
+      "jockey_reasoning": "This segment highlights the exact second a messy sub-plot becomes group-business television. It\u2019s perfect for romance-and-gossip fans because the confession is intimate, high-stakes, and instantly destabilizing. Jockey elevated it because across The Real Housewives of Salt Lake City here, explosive reveals that force the table to recalculate someone\u2019s story always overperform.",
+      "key_participants": [
+        "Britani Bateman",
+        "Jared Osmond"
+      ],
+      "primary_category": "romance_relationships",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 1446,
+      "subtags": [
+        "revealing_secret",
+        "breakup_moment",
+        "jealousy_scene"
+      ],
+      "jockey_asset_id_raw": "06a14e2b-c936-7942-8000-e4037c8b377d"
+    },
+    {
+      "asset_id": "6a14ddba853a852798e911d5",
+      "cross_episode_significance": "Mary\u2019s difficult confession about her son matters because The Real Housewives of Salt Lake City is at its strongest when surreal personalities suddenly open a real emotional door. Across the larger series, moments that humanize Mary Cosby hit harder precisely because they interrupt her usual detached, cutting persona.",
+      "emotional_intensity": 8,
+      "end_sec": 113,
+      "feed_headline": "Mary shares painful family news and drops the armor",
+      "jockey_reasoning": "This segment highlights a rare serious, unguarded Mary Cosby moment. It\u2019s powerful for emotional-moments fans because it cuts through the irony and eccentricity that usually define her on-screen presence. Jockey elevated it because across The Real Housewives of Salt Lake City in this store, Mary\u2019s vulnerability is scarce enough to feel especially meaningful.",
+      "key_participants": [
+        "Mary Cosby"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Real Housewives of Salt Lake City",
+      "start_sec": 111,
+      "subtags": [
+        "family_moment",
+        "heartfelt_confession",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "06a14e2b-c936-7942-8000-e4037c8b377d"
+    }
+  ],
+  "jockey_generated_at": "2026-05-27T16:29:42.807906+00:00"
+}

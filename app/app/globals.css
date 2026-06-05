@@ -1,0 +1,296 @@
+@import "tailwindcss";
+
+/* Strand light theme — white app chrome */
+:root {
+  --sidebar-width: 240px;
+  --strand-font-system: "Noto Sans", Helvetica, Arial, sans-serif;
+  --strand-font-mono: "IBM Plex Mono", monospace;
+
+  --strand-background: #ffffff;
+  --strand-surface: #ffffff;
+  --strand-card: #f4f3f3;
+  --strand-text-primary: #1d1c1b;
+  --strand-text-secondary: #6b6966;
+  --strand-text-tertiary: #9b9895;
+  --strand-text-inverse: #ffffff;
+  --strand-border: #d3d1cf;
+  --strand-border-light: #ececec;
+  --strand-accent: #00dc82;
+  --strand-accent-hover: #00b86e;
+  --strand-accent-light: #e8f5e9;
+}
+
+@theme inline {
+  --color-background: var(--strand-background);
+  --color-surface: var(--strand-surface);
+  --color-card: var(--strand-card);
+  --color-text-primary: var(--strand-text-primary);
+  --color-text-secondary: var(--strand-text-secondary);
+  --color-text-tertiary: var(--strand-text-tertiary);
+  --color-text-inverse: var(--strand-text-inverse);
+  --color-border: var(--strand-border);
+  --color-border-light: var(--strand-border-light);
+  --color-accent: var(--strand-accent);
+  --color-accent-hover: var(--strand-accent-hover);
+  --color-accent-light: var(--strand-accent-light);
+  --color-brand-charcoal: #1d1c1b;
+  --color-brand-white: #ffffff;
+  --color-highlight: #60e21b;
+  --color-error: #e22622;
+  --font-sans: var(--strand-font-system);
+  --font-system: var(--strand-font-system);
+  --font-mono: var(--strand-font-mono);
+  --width-sidebar: 240px;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: #ffffff;
+  color: var(--strand-text-primary);
+  font-family: var(--strand-font-system);
+}
+
+@keyframes clip-enter-from-below {
+  from {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes clip-enter-from-above {
+  from {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.clip-enter-from-below {
+  animation: clip-enter-from-below 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.clip-enter-from-above {
+  animation: clip-enter-from-above 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Custom player — hide any native control overlays (PiP, enhance, etc.) */
+.segment-player__video::-webkit-media-controls {
+  display: none !important;
+}
+
+.segment-player__video::-webkit-media-controls-enclosure {
+  display: none !important;
+}
+
+/* Explore page — search glow & grid motion */
+@keyframes search-glow-pulse {
+  0%,
+  100% {
+    box-shadow:
+      0 0 0 0 rgba(0, 220, 130, 0.35),
+      0 0 24px rgba(0, 220, 130, 0.12);
+  }
+  50% {
+    box-shadow:
+      0 0 0 3px rgba(0, 220, 130, 0.28),
+      0 0 40px rgba(0, 220, 130, 0.28);
+  }
+}
+
+@keyframes explore-header-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes explore-section-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes explore-grid-item-enter {
+  from {
+    opacity: 0;
+    transform: translateY(28px) scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes explore-modal-enter {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.search-bar-shell {
+  padding: 2px;
+  border-radius: 1.1rem;
+}
+
+.search-bar-shell--focused {
+  animation: search-glow-pulse 2.2s ease-in-out infinite;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 220, 130, 0.45),
+    rgba(96, 226, 27, 0.25),
+    rgba(0, 220, 130, 0.45)
+  );
+}
+
+.explore-header-enter {
+  animation: explore-header-enter 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.explore-section-enter {
+  animation: explore-section-enter 0.5s cubic-bezier(0.22, 1, 0.36, 1) 0.12s both;
+}
+
+.explore-grid-item {
+  opacity: 0;
+  transform: translateY(28px) scale(0.94);
+}
+
+.explore-grid-item--visible {
+  animation: explore-grid-item-enter 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.explore-modal-backdrop {
+  animation: explore-header-enter 0.2s ease both;
+}
+
+.explore-modal-panel {
+  animation: explore-modal-enter 0.32s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.explore-page {
+  scroll-behavior: smooth;
+}
+
+@keyframes story-trail-step-enter {
+  from {
+    opacity: 0;
+    transform: translateX(-16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes story-trail-line-grow {
+  from {
+    transform: scaleY(0);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes story-trail-dot-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(234, 179, 8, 0.45);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(234, 179, 8, 0);
+  }
+}
+
+/* Default: invisible until JS observer fires */
+.story-trail-step {
+  opacity: 0;
+  transform: translateX(-16px);
+  transition: none;
+}
+
+/* Added by IntersectionObserver when step enters viewport */
+.story-trail-step--visible {
+  animation: story-trail-step-enter 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.story-trail-line {
+  transform-origin: top;
+  animation: story-trail-line-grow 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.story-trail-dot--peak {
+  animation: story-trail-dot-pulse 2.4s ease-in-out infinite;
+}
+
+/* Explore raw data panel — animated expand/collapse */
+.explore-raw-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  margin-top: 0;
+  transition:
+    grid-template-rows 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.35s ease,
+    margin-top 0.35s ease;
+}
+
+.explore-raw-panel--open {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  margin-top: 1rem;
+}
+
+.explore-raw-panel__inner {
+  overflow: hidden;
+}
+
+.explore-raw-panel--open .explore-raw-panel__inner > div {
+  animation: explore-section-enter 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.explore-raw-table tbody tr:nth-child(even) {
+  background: var(--strand-card);
+}
+
+.explore-raw-table tbody tr:hover {
+  background: var(--strand-accent-light);
+}
+
+.explore-raw-table td:first-child,
+.explore-raw-table th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: inherit;
+}
+
+.explore-raw-table thead th:first-child {
+  background: #1d1c1b;
+  z-index: 11;
+}
