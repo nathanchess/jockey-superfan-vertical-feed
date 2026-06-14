@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState, type FormEvent } from "react";
 import { SegmentPlayer } from "@/components/SegmentPlayer";
+import { useShow } from "@/components/ShowProvider";
 import { StrandIcon } from "@/components/StrandIcon";
 import { LogoMark } from "@/components/StrandLogo";
 import { formatTimestampRange } from "@/lib/format";
@@ -84,21 +85,27 @@ export function clearSpotlightHlsFailures() {
   failedHlsAssetIds.clear();
 }
 
-async function fetchHlsUrl(assetId: string, signal?: AbortSignal): Promise<string | null> {
-  if (failedHlsAssetIds.has(assetId)) return null;
-  const hit = hlsCache.get(assetId);
+async function fetchHlsUrl(
+  assetId: string,
+  showId: string,
+  signal?: AbortSignal,
+): Promise<string | null> {
+  // Key cache by both assetId and show so switching shows doesn't serve wrong HLS
+  const cacheKey = `${showId}:${assetId}`;
+  if (failedHlsAssetIds.has(cacheKey)) return null;
+  const hit = hlsCache.get(cacheKey);
   if (hit) return hit;
-  const res = await fetch(`/api/assets/${assetId}`, { signal });
+  const res = await fetch(`/api/assets/${assetId}?show=${encodeURIComponent(showId)}`, { signal });
   if (!res.ok) {
-    failedHlsAssetIds.add(assetId);
+    failedHlsAssetIds.add(cacheKey);
     return null;
   }
   const body = (await res.json()) as AssetPlaybackResponse;
   if (body.hls_url) {
-    hlsCache.set(assetId, body.hls_url);
-    failedHlsAssetIds.delete(assetId);
+    hlsCache.set(cacheKey, body.hls_url);
+    failedHlsAssetIds.delete(cacheKey);
   } else {
-    failedHlsAssetIds.add(assetId);
+    failedHlsAssetIds.add(cacheKey);
   }
   return body.hls_url ?? null;
 }
@@ -127,23 +134,26 @@ function Spinner({ className = "h-5 w-5" }: { className?: string }) {
 function SpotlightClipCard({
   clip,
   index,
+  showId,
   onSelect,
 }: {
   clip: SpotlightClip;
   index: number;
+  showId: string;
   onSelect: (clip: SpotlightClip) => void;
 }) {
   const articleRef = useRef<HTMLElement>(null);
   const [hovered, setHovered] = useState(false);
-  const [hlsUrl, setHlsUrl] = useState<string | null>(() => hlsCache.get(clip.asset_id) ?? null);
+  const cacheKey = `${showId}:${clip.asset_id}`;
+  const [hlsUrl, setHlsUrl] = useState<string | null>(() => hlsCache.get(cacheKey) ?? null);
   const [hlsLoading, setHlsLoading] = useState(false);
 
   // Load HLS when card enters viewport
   useEffect(() => {
     const el = articleRef.current;
     if (!el) return;
-    if (hlsCache.get(clip.asset_id)) {
-      setHlsUrl(hlsCache.get(clip.asset_id)!);
+    if (hlsCache.get(cacheKey)) {
+      setHlsUrl(hlsCache.get(cacheKey)!);
       return;
     }
     let ac: AbortController | null = null;
@@ -152,7 +162,7 @@ function SpotlightClipCard({
       obs.disconnect();
       ac = new AbortController();
       setHlsLoading(true);
-      fetchHlsUrl(clip.asset_id, ac.signal)
+      fetchHlsUrl(clip.asset_id, showId, ac.signal)
         .then((url) => { if (!ac?.signal.aborted && url) setHlsUrl(url); })
         .catch(() => {})
         .finally(() => { if (!ac?.signal.aborted) setHlsLoading(false); });
@@ -160,7 +170,7 @@ function SpotlightClipCard({
     obs.observe(el);
     return () => { obs.disconnect(); ac?.abort(); };
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [clip.asset_id]);
+  }, [clip.asset_id, showId]);
 
   // Badge for significance or relevance
   const badge = clip.significance === "season_defining"
@@ -222,11 +232,6 @@ function SpotlightClipCard({
 
         <div className="pointer-events-none absolute inset-0 bg-linear-to-t from-black/60 to-transparent" />
 
-        {/* Timestamp bottom-left */}
-        <span className="absolute bottom-2 left-3 text-[11px] font-medium text-white/70">
-          {formatTimestampRange(clip.start_sec, clip.end_sec)}
-        </span>
-
         {/* Badge top-right */}
         {badge && (
           <span className={`absolute right-2 top-2 rounded-full px-2 py-0.5 text-[10px] font-semibold ring-1 ${badge.cls}`}>
@@ -237,6 +242,9 @@ function SpotlightClipCard({
 
       {/* Text */}
       <div className="p-4 space-y-2">
+        <p className="text-[11px] font-medium tabular-nums text-text-tertiary">
+          {formatTimestampRange(clip.start_sec, clip.end_sec)}
+        </p>
         <p className="font-semibold text-sm leading-snug text-text-primary line-clamp-2">{clip.headline}</p>
         <p className="text-xs text-text-secondary leading-relaxed line-clamp-2">{clip.description}</p>
         {participants.length > 0 && (
@@ -251,24 +259,25 @@ function SpotlightClipCard({
 }
 
 // ─── Clip modal ───────────────────────────────────────────────────────────────
-function ClipModal({ clip, onClose }: { clip: SpotlightClip | null; onClose: () => void }) {
+function ClipModal({ clip, showId, onClose }: { clip: SpotlightClip | null; showId: string; onClose: () => void }) {
   const [hlsUrl, setHlsUrl] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!clip) return;
-    const cached = hlsCache.get(clip.asset_id);
+    const cacheKey = `${showId}:${clip.asset_id}`;
+    const cached = hlsCache.get(cacheKey);
     if (cached) { setHlsUrl(cached); return; }
     setLoading(true);
     setError(null);
     const ac = new AbortController();
-    fetchHlsUrl(clip.asset_id, ac.signal)
+    fetchHlsUrl(clip.asset_id, showId, ac.signal)
       .then((url) => { if (!ac.signal.aborted) { setHlsUrl(url); if (!url) setError("No HLS stream available"); } })
       .catch(() => { if (!ac.signal.aborted) setError("Failed to load video"); })
       .finally(() => { if (!ac.signal.aborted) setLoading(false); });
     return () => ac.abort();
-  }, [clip]);
+  }, [clip, showId]);
 
   useEffect(() => {
     if (!clip) return;
@@ -346,18 +355,21 @@ function StorySceneStep({
   scene,
   index,
   isLast,
+  showId,
   onSelect,
 }: {
   scene: StoryScene;
   index: number;
   isLast: boolean;
+  showId: string;
   onSelect: (clip: SpotlightClip) => void;
 }) {
   const liRef = useRef<HTMLLIElement>(null);
   const articleRef = useRef<HTMLElement>(null);
   const [visible, setVisible] = useState(false);
   const [hovered, setHovered] = useState(false);
-  const [hlsUrl, setHlsUrl] = useState<string | null>(() => hlsCache.get(scene.asset_id) ?? null);
+  const cacheKey = `${showId}:${scene.asset_id}`;
+  const [hlsUrl, setHlsUrl] = useState<string | null>(() => hlsCache.get(cacheKey) ?? null);
   const [hlsLoading, setHlsLoading] = useState(false);
   const meta = SCENE_ROLE_META[scene.scene_role] ?? SCENE_ROLE_META.buildup;
   const participants = scene.key_participants ?? scene.other_participants ?? [];
@@ -384,8 +396,8 @@ function StorySceneStep({
   useEffect(() => {
     const el = articleRef.current;
     if (!el) return;
-    if (hlsCache.get(scene.asset_id)) {
-      setHlsUrl(hlsCache.get(scene.asset_id)!);
+    if (hlsCache.get(cacheKey)) {
+      setHlsUrl(hlsCache.get(cacheKey)!);
       return;
     }
     let ac: AbortController | null = null;
@@ -394,7 +406,7 @@ function StorySceneStep({
       obs.disconnect();
       ac = new AbortController();
       setHlsLoading(true);
-      fetchHlsUrl(scene.asset_id, ac.signal)
+      fetchHlsUrl(scene.asset_id, showId, ac.signal)
         .then((url) => { if (!ac?.signal.aborted && url) setHlsUrl(url); })
         .catch(() => {})
         .finally(() => { if (!ac?.signal.aborted) setHlsLoading(false); });
@@ -402,7 +414,7 @@ function StorySceneStep({
     obs.observe(el);
     return () => { obs.disconnect(); ac?.abort(); };
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [scene.asset_id]);
+  }, [scene.asset_id, showId]);
 
   return (
     <li
@@ -475,7 +487,7 @@ function StorySceneStep({
           <span className={`absolute left-3 top-3 rounded-full px-2.5 py-1 text-[10px] font-semibold ring-1 ${meta.badgeClass}`}>
             {meta.label}
           </span>
-          <span className="absolute bottom-2 right-3 text-[11px] font-medium text-white/70">
+          <span className="absolute right-3 top-3 text-[11px] font-medium tabular-nums text-white/80 drop-shadow-sm">
             {formatTimestampRange(scene.start_sec, scene.end_sec)}
           </span>
         </div>
@@ -502,9 +514,11 @@ function StorySceneStep({
 
 function StoryTrail({
   result,
+  showId,
   onSelect,
 }: {
   result: MomentDiscoveryResult;
+  showId: string;
   onSelect: (clip: SpotlightClip) => void;
 }) {
   const scenes = (result.story_scenes?.length ? result.story_scenes : result.clips ?? []) as StoryScene[];
@@ -567,6 +581,7 @@ function StoryTrail({
                 scene={scene}
                 index={i}
                 isLast={i === scenes.length - 1}
+                showId={showId}
                 onSelect={onSelect}
               />
             ))}
@@ -624,19 +639,64 @@ function setCacheEnabled(on: boolean) {
   try { localStorage.setItem(LS_CACHE_ENABLED_KEY, on ? "1" : "0"); } catch { /* ignore */ }
 }
 
-const EXAMPLES: Record<Mode, string[]> = {
-  actor_spotlight: ["Lisa Barlow", "Meredith Marks", "Monica Garcia", "Whitney Rose", "Captain Lee"],
-  moment_discovery: [
-    "When did Lisa and Meredith start hating each other?",
-    "How did the Bali trip feud between Monica and Briana escalate?",
-    "What was the first sign Whitney and Mary were falling apart?",
-    "Trace the Kenya vs Porsha rivalry from allies to enemies",
-    "When did the group turn on Jen Shah?",
-  ],
+type ShowExamples = Record<Mode, string[]>;
+
+const SHOW_EXAMPLES: Record<string, ShowExamples> = {
+  kn: {
+    actor_spotlight: [
+      "Gordon Ramsay",
+      "Manny",
+      "Christina",
+      "Evelyn",
+    ],
+    moment_discovery: [
+      "When did Ramsay find the worst kitchen hygiene violations?",
+      "Trace the moment owners go from denial to acceptance",
+      "When did the family finally break down and open up to Ramsay?",
+      "How did the restaurant transformation unfold step by step?",
+      "What was the most explosive confrontation between Ramsay and the owners?",
+    ],
+  },
+  tiwbg: {
+    actor_spotlight: [
+      "Lauren",
+      "Belinda",
+      "Fran",
+    ],
+    moment_discovery: [
+      "When did the castaways first face a serious survival crisis?",
+      "How did the group's morale shift after the boiling water accident?",
+      "Trace the debate about killing the pigs for food",
+      "When did someone first ask to leave the island?",
+      "What were the biggest turning points in the group's survival strategy?",
+    ],
+  },
+  rhoslc: {
+    actor_spotlight: [
+      "Lisa Barlow",
+      "Meredith Marks",
+      "Monica Garcia",
+      "Whitney Rose",
+      "Heather Gay",
+    ],
+    moment_discovery: [
+      "When did Lisa and Meredith's friendship start to fracture?",
+      "How did Monica's feud with the group escalate across episodes?",
+      "Trace the drama that unfolded on the Trixie Motel trip",
+      "What was the first sign Heather and Lisa were falling apart?",
+      "When did the group finally confront each other at the reunion?",
+    ],
+  },
+};
+
+const DEFAULT_EXAMPLES: ShowExamples = {
+  actor_spotlight: ["Gordon Ramsay"],
+  moment_discovery: ["What was the most dramatic moment across all episodes?"],
 };
 
 // ─── Main page ────────────────────────────────────────────────────────────────
 export function SpotlightPage() {
+  const { showId } = useShow();
   const [mode, setMode] = useState<Mode>("actor_spotlight");
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [query, setQuery] = useState("");
@@ -667,6 +727,14 @@ export function SpotlightPage() {
     document.addEventListener("mousedown", handler);
     return () => document.removeEventListener("mousedown", handler);
   }, []);
+
+  useEffect(() => {
+    setResult(null);
+    setError(null);
+    setSessionId(null);
+    setSelectedClip(null);
+    failedHlsAssetIds.clear();
+  }, [showId]);
 
   const handleModeChange = (m: Mode) => {
     if (m !== mode) {
@@ -712,7 +780,12 @@ export function SpotlightPage() {
       const res = await fetch("/api/spotlight", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ mode, query: trimmed, session_id: sessionId ?? undefined }),
+        body: JSON.stringify({
+          mode,
+          query: trimmed,
+          session_id: sessionId ?? undefined,
+          show: showId,
+        }),
         cache: "no-store",
       });
       const body = await res.json() as SpotlightResponse & { error?: string };
@@ -744,7 +817,7 @@ export function SpotlightPage() {
     } finally {
       setLoading(false);
     }
-  }, [mode, query, sessionId, loading, cacheEnabled]);
+  }, [mode, query, sessionId, loading, cacheEnabled, showId]);
 
   const clips: SpotlightClip[] = result
     ? (result.result as ActorSpotlightResult | MomentDiscoveryResult).clips ?? []
@@ -753,9 +826,10 @@ export function SpotlightPage() {
   const momentResult = result?.mode === "moment_discovery" ? result.result as MomentDiscoveryResult : null;
 
   const modeLabel = MODE_OPTIONS.find((o) => o.value === mode)!.label;
+  const examples = SHOW_EXAMPLES[showId] ?? DEFAULT_EXAMPLES;
   const placeholder = mode === "actor_spotlight"
-    ? "Enter a cast member name…"
-    : "Ask a story question — when did X start hating Y?";
+    ? `Enter a cast member name — e.g. "${examples.actor_spotlight[0]}"`
+    : "Ask a story question — when did X happen?"; 
 
   const showEmpty = !loading && !result && !error;
 
@@ -921,7 +995,7 @@ export function SpotlightPage() {
                 {mode === "actor_spotlight" ? "Try a cast member" : "Try a storyline question"}
               </p>
               <div className="flex flex-wrap justify-center gap-2">
-                {EXAMPLES[mode].map((s) => (
+                {examples[mode].map((s) => (
                   <button
                     key={s}
                     type="button"
@@ -1043,7 +1117,7 @@ export function SpotlightPage() {
                   <h3 className="mb-4 text-base font-semibold text-text-primary">Top Moments</h3>
                   <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
                     {clips.map((clip, i) => (
-                      <SpotlightClipCard key={`${clip.asset_id}-${clip.start_sec}`} clip={clip} index={i} onSelect={setSelectedClip} />
+                      <SpotlightClipCard key={`${clip.asset_id}-${clip.start_sec}`} clip={clip} index={i} showId={showId} onSelect={setSelectedClip} />
                     ))}
                   </div>
                 </div>
@@ -1053,13 +1127,13 @@ export function SpotlightPage() {
 
           {/* Moment Discovery — story trail */}
           {!loading && momentResult && (
-            <StoryTrail result={momentResult} onSelect={setSelectedClip} />
+            <StoryTrail result={momentResult} showId={showId} onSelect={setSelectedClip} />
           )}
 
         </div>
       </div>
 
-      <ClipModal clip={selectedClip} onClose={() => setSelectedClip(null)} />
+      <ClipModal clip={selectedClip} showId={showId} onClose={() => setSelectedClip(null)} />
     </div>
   );
 }

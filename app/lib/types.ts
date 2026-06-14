@@ -1,3 +1,5 @@
+import type { ShowId } from "@/lib/shows";
+
 export type ProfileId = "drama_addict" | "fashion_obsessed" | "romance_fan";
 
 export type IntensityPreference = "high" | "medium" | "any";
@@ -36,13 +38,27 @@ export type RankedSegment = Segment & {
 };
 
 export type FeedManifest = {
+  show_id?: string;
   generated_at?: string;
   asset_ids: string[];
   show_name?: string;
   segments: Segment[];
 };
 
+export type ShowCatalogEntry = {
+  id: ShowId;
+  label: string;
+  shortLabel: string;
+  available: boolean;
+};
+
+export type ShowsResponse = {
+  default_show: ShowId;
+  shows: ShowCatalogEntry[];
+};
+
 export type FeedPageResponse = {
+  show: ShowId;
   profile: ProfileId;
   offset: number;
   limit: number;
@@ -80,6 +96,7 @@ export type SearchHit = {
 };
 
 export type SearchResponse = {
+  show: ShowId;
   query: string;
   profile: ProfileId;
   results: SearchHit[];

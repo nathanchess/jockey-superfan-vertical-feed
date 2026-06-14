@@ -4,6 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { LogoFull, LogoMark } from "@/components/StrandLogo";
+import { ShowSelect } from "@/components/ShowSelect";
+import { useShow } from "@/components/ShowProvider";
 import { StrandIcon } from "@/components/StrandIcon";
 
 const STORAGE_KEY = "superfan-sidebar-collapsed";
@@ -30,6 +32,7 @@ function setSidebarWidth(collapsed: boolean) {
 
 export function Sidebar() {
   const pathname = usePathname();
+  const { showId, setShowId, shows, ready: showReady } = useShow();
   const [collapsed, setCollapsed] = useState(false);
   const [ready, setReady] = useState(false);
 
@@ -98,7 +101,15 @@ export function Sidebar() {
         })}
       </nav>
 
-      <div className="mt-auto shrink-0 border-t border-border-light p-2">
+      <div className="mt-auto shrink-0 space-y-1 border-t border-border-light p-2">
+        {showReady && shows.length > 0 && (
+          <ShowSelect
+            shows={shows}
+            value={showId}
+            onChange={setShowId}
+            collapsed={collapsed}
+          />
+        )}
         <button
           type="button"
           onClick={toggle}

@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import { loadManifest } from "@/lib/manifest";
 import { getTwelveLabsConfig } from "@/lib/twelvelabs";
+import { getShowKsId, resolveShowId } from "@/lib/shows";
 import { logServerTelemetry } from "@/lib/telemetry";
 
 // ─── KS item lookup (UUID → real TL asset_id) ────────────────────────────────
@@ -247,20 +247,26 @@ function sanitizeSpotlightResult(
 export async function POST(request: NextRequest) {
   const startedAt = Date.now();
   const config = getTwelveLabsConfig();
-  const ksId = process.env.TL_KS_ID?.trim();
-
-  if (!config) {
-    return NextResponse.json({ error: "TL_API_KEY is not configured" }, { status: 503 });
-  }
-  if (!ksId) {
-    return NextResponse.json({ error: "TL_KS_ID is not configured" }, { status: 503 });
-  }
 
   const body = await request.json() as {
     mode: "actor_spotlight" | "moment_discovery";
     query: string;
     session_id?: string;
+    show?: string;
   };
+
+  const showParam = resolveShowId(body.show);
+  const ksId = getShowKsId(showParam);
+
+  if (!config) {
+    return NextResponse.json({ error: "TL_API_KEY is not configured" }, { status: 503 });
+  }
+  if (!ksId) {
+    return NextResponse.json(
+      { error: `Knowledge store not configured for show "${showParam}"` },
+      { status: 503 },
+    );
+  }
 
   const { mode, query, session_id } = body;
   if (!query?.trim()) {
@@ -347,6 +353,7 @@ export async function POST(request: NextRequest) {
     const durationMs = Date.now() - startedAt;
     logServerTelemetry({
       event: "spotlight_query",
+      show: showParam,
       mode,
       session_reused: Boolean(session_id),
       query_length: query.trim().length,
@@ -355,6 +362,7 @@ export async function POST(request: NextRequest) {
     });
 
     return NextResponse.json({
+      show: showParam,
       mode,
       session_id: data.session_id ?? null,
       result: sanitized,

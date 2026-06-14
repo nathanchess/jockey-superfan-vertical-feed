@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ClipTransition, type SlideDirection } from "@/components/ClipTransition";
 import { PersonaSelect, type PersonaOption } from "@/components/PersonaSelect";
+import { useShow } from "@/components/ShowProvider";
 import { ReasoningPanel } from "@/components/ReasoningPanel";
 import { SegmentPlayer } from "@/components/SegmentPlayer";
 import { StrandIcon } from "@/components/StrandIcon";
@@ -41,6 +42,7 @@ function MetaChip({
 }
 
 export function ShortsFeed() {
+  const { showId, ready: showReady } = useShow();
   const [profiles, setProfiles] = useState<PersonaOption[]>([]);
   const [profile, setProfile] = useState<ProfileId>("drama_addict");
   const [clips, setClips] = useState<RankedSegment[]>([]);
@@ -79,7 +81,7 @@ export function ShortsFeed() {
       setFeedError(null);
       try {
         const res = await fetch(
-          `/api/feed?profile=${nextProfile}&offset=${nextOffset}&limit=20`,
+          `/api/feed?show=${showId}&profile=${nextProfile}&offset=${nextOffset}&limit=20`,
         );
         if (!res.ok) {
           const body = await res.json();
@@ -127,17 +129,18 @@ export function ShortsFeed() {
         setLoadingFeed(false);
       }
     },
-    [],
+    [showId],
   );
 
   useEffect(() => {
+    if (!showReady) return;
     setClips([]);
     setIndex(0);
     setOffset(0);
     setHasMore(true);
     setSlideDirection("down");
     void loadFeed(profile, 0, true);
-  }, [profile, loadFeed]);
+  }, [profile, showId, showReady, loadFeed]);
 
   const loadPlayback = useCallback(async (assetId: string) => {
     const cached = assetCache.current.get(assetId);

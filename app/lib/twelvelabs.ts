@@ -86,11 +86,16 @@ function flattenSearchItems(items: TlSearchItem[]): RawSearchHit[] {
   return hits;
 }
 
-export async function searchIndex(query: string, pageLimit = 24): Promise<RawSearchHit[]> {
+export async function searchIndex(
+  query: string,
+  pageLimit = 24,
+  /** Pass a show-specific index ID; falls back to global TL_INDEX_ID env var. */
+  overrideIndexId?: string,
+): Promise<RawSearchHit[]> {
   const config = getTwelveLabsConfig();
-  const indexId = getIndexId();
+  const indexId = overrideIndexId ?? getIndexId();
   if (!config) throw new Error("TL_API_KEY is not configured");
-  if (!indexId) throw new Error("TL_INDEX_ID is not configured");
+  if (!indexId) throw new Error("No index ID configured for this show");
 
   const form = new FormData();
   form.append("index_id", indexId);
@@ -170,10 +175,8 @@ type IndexedAssetMaps = {
   byIndexedId: Map<string, string>;
 };
 
-let indexedAssetThumbCache: {
-  at: number;
-  maps: IndexedAssetMaps;
-} | null = null;
+// Cache keyed by indexId so different shows don't get stale entries from each other
+const indexedAssetThumbCache = new Map<string, { at: number; maps: IndexedAssetMaps }>();
 
 /** Marengo search returns indexed video ids; map them to asset ids for playback. */
 function resolveSearchVideoId(videoId: string, maps: IndexedAssetMaps): string {
@@ -213,11 +216,9 @@ async function loadIndexedAssetMaps(
   config: { baseUrl: string; apiKey: string },
   indexId: string,
 ): Promise<IndexedAssetMaps> {
-  if (
-    indexedAssetThumbCache &&
-    Date.now() - indexedAssetThumbCache.at < INDEXED_ASSET_CACHE_TTL_MS
-  ) {
-    return indexedAssetThumbCache.maps;
+  const cached = indexedAssetThumbCache.get(indexId);
+  if (cached && Date.now() - cached.at < INDEXED_ASSET_CACHE_TTL_MS) {
+    return cached.maps;
   }
 
   const byAssetId = new Map<string, IndexedAssetThumbEntry>();
@@ -256,7 +257,7 @@ async function loadIndexedAssetMaps(
   }
 
   const maps = { byAssetId, byIndexedId };
-  indexedAssetThumbCache = { at: Date.now(), maps };
+  indexedAssetThumbCache.set(indexId, { at: Date.now(), maps });
   return maps;
 }
 
@@ -541,22 +542,31 @@ async function fetchPlaybackViaIndex(
  *   • 24-char hex   → standard TL asset (manifest / Marengo search hit)
  *   • UUID          → Jockey knowledge-store item ID (needs KS → asset_id → index lookup)
  */
-export async function fetchAssetPlayback(id: string): Promise<AssetPlayback> {
+export async function fetchAssetPlayback(
+  id: string,
+  opts?: {
+    /** Override the Marengo index to look up HLS in (default: TL_INDEX_ID env var) */
+    indexId?: string | null;
+    /** Override the Jockey KS to resolve UUID item IDs (default: TL_KS_ID env var) */
+    ksId?: string | null;
+  },
+): Promise<AssetPlayback> {
   const config = getTwelveLabsConfig();
   if (!config) throw new Error("TL_API_KEY is not configured");
   if (!isKnownAssetIdFormat(id)) throw new Error("Invalid asset id");
 
-  const indexId = getIndexId();
+  const indexId = opts?.indexId ?? getIndexId();
 
   // ── UUID path (Jockey KS item IDs) ───────────────────────────────────────
   if (ASSET_ID_UUID.test(id)) {
-    const ksId = process.env.TL_KS_ID?.trim();
+    // Prefer the caller-supplied ksId, then the per-show env var, then legacy TL_KS_ID
+    const ksId = opts?.ksId ?? process.env.TL_KS_ID?.trim();
     let tlAssetId: string | null = null;
 
     if (ksId) {
       const ksMap = await loadKsItemMap(config, ksId);
       tlAssetId = ksMap.get(id) ?? null;
-      console.info(`[playback] UUID ${id} → bulk map lookup: ${tlAssetId ?? "miss"}`);
+      console.info(`[playback] UUID ${id} → bulk map lookup (ks ${ksId}): ${tlAssetId ?? "miss"}`);
 
       if (!tlAssetId) {
         tlAssetId = await resolveKsItemId(config, ksId, id);
@@ -564,7 +574,7 @@ export async function fetchAssetPlayback(id: string): Promise<AssetPlayback> {
         console.info(`[playback] UUID ${id} → single KS lookup: ${tlAssetId ?? "failed"}`);
       }
     } else {
-      console.warn("[playback] TL_KS_ID not configured — cannot resolve UUID IDs");
+      console.warn("[playback] No KS ID available — cannot resolve UUID IDs");
     }
 
     if (!tlAssetId) {

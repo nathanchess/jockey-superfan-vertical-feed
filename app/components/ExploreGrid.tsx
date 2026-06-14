@@ -9,6 +9,7 @@ import {
   type KeyboardEvent as ReactKeyboardEvent,
 } from "react";
 import { PersonaSelect, type PersonaOption } from "@/components/PersonaSelect";
+import { useShow } from "@/components/ShowProvider";
 import { ExploreRawDataPanel, ExploreRawDataToggle } from "@/components/ExploreRawDataPanel";
 import { SegmentPlayer } from "@/components/SegmentPlayer";
 import { StrandIcon } from "@/components/StrandIcon";
@@ -271,6 +272,7 @@ function ClipModal({ clip, onClose }: { clip: GridClip | null; onClose: () => vo
 
 // ─── ExploreGrid ──────────────────────────────────────────────────────────────
 export function ExploreGrid() {
+  const { showId, ready: showReady } = useShow();
   const [profiles, setProfiles] = useState<PersonaOption[]>([]);
   const [profile, setProfile] = useState<ProfileId>("drama_addict");
   const [searchQuery, setSearchQuery] = useState("");
@@ -296,15 +298,17 @@ export function ExploreGrid() {
 
   // Load clips when profile or search query changes
   useEffect(() => {
+    if (!showReady) return;
     const reqId = ++reqIdRef.current;
     setStatus("loading");
     setFetchError(null);
     setSelectedClip(null);
     setShowRawData(false);
 
+    const showQ = `show=${showId}`;
     const url = activeQuery
-      ? `/api/search?q=${encodeURIComponent(activeQuery)}&profile=${profile}`
-      : `/api/feed?profile=${profile}&offset=0&limit=${EXPLORE_CLIP_LIMIT}`;
+      ? `/api/search?${showQ}&q=${encodeURIComponent(activeQuery)}&profile=${profile}`
+      : `/api/feed?${showQ}&profile=${profile}&offset=0&limit=${EXPLORE_CLIP_LIMIT}`;
 
     console.log(`[ExploreGrid] reqId=${reqId} fetching ${url}`);
     let stale = false;
@@ -340,7 +344,7 @@ export function ExploreGrid() {
       });
 
     return () => { stale = true; };
-  }, [profile, activeQuery]);
+  }, [profile, activeQuery, showId, showReady]);
 
   const onSubmit = (e: FormEvent) => {
     e.preventDefault();

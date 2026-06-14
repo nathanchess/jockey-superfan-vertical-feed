@@ -3,6 +3,7 @@ import { loadManifest } from "@/lib/manifest";
 import { isProfileId } from "@/lib/ranking";
 import { scoreSegment } from "@/lib/scoring";
 import { PREFERENCE_PROFILES } from "@/lib/profiles";
+import { getShowIndexId, resolveShowId } from "@/lib/shows";
 import { searchIndex } from "@/lib/twelvelabs";
 import { logServerTelemetry } from "@/lib/telemetry";
 import type { SearchHit, SearchResponse, Segment } from "@/lib/types";
@@ -49,6 +50,7 @@ export async function GET(request: NextRequest) {
   const { searchParams } = request.nextUrl;
   const query = searchParams.get("q")?.trim() ?? "";
   const profileParam = searchParams.get("profile") ?? "drama_addict";
+  const showParam = resolveShowId(searchParams.get("show"));
 
   if (!query) {
     return NextResponse.json({ error: "Missing search query." }, { status: 400 });
@@ -62,9 +64,9 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    const manifest = loadManifest();
+    const manifest = loadManifest(showParam);
     const preference = PREFERENCE_PROFILES[profileParam];
-    const rawHits = await searchIndex(query, 30);
+    const rawHits = await searchIndex(query, 30, getShowIndexId(showParam));
 
     const seen = new Set<string>();
 
@@ -109,6 +111,7 @@ export async function GET(request: NextRequest) {
     });
 
     const body: SearchResponse = {
+      show: showParam,
       query,
       profile: profileParam,
       results: results.slice(0, 24),
@@ -117,6 +120,7 @@ export async function GET(request: NextRequest) {
     const durationMs = Date.now() - startedAt;
     logServerTelemetry({
       event: "search_generation",
+      show: showParam,
       profile: profileParam,
       query_length: query.length,
       results_count: body.results.length,

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { loadManifest } from "@/lib/manifest";
 import { isProfileId, rankFeedPage } from "@/lib/ranking";
+import { resolveShowId } from "@/lib/shows";
 import { logServerTelemetry } from "@/lib/telemetry";
 import type { FeedPageResponse } from "@/lib/types";
 
@@ -12,6 +13,7 @@ export async function GET(request: NextRequest) {
   const startedAt = Date.now();
   const { searchParams } = request.nextUrl;
   const profileParam = searchParams.get("profile") ?? "drama_addict";
+  const showParam = resolveShowId(searchParams.get("show"));
   const offsetParam = searchParams.get("offset") ?? "0";
   const limitParam = searchParams.get("limit") ?? String(DEFAULT_LIMIT);
 
@@ -32,11 +34,12 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Invalid limit." }, { status: 400 });
   }
 
-  const manifest = loadManifest();
+  const manifest = loadManifest(showParam);
   const page = rankFeedPage(manifest.segments, profileParam, offset, limit);
   const durationMs = Date.now() - startedAt;
   logServerTelemetry({
     event: "feed_generation",
+    show: showParam,
     profile: profileParam,
     offset,
     limit,
@@ -46,6 +49,7 @@ export async function GET(request: NextRequest) {
   });
 
   const body: FeedPageResponse = {
+    show: showParam,
     profile: profileParam,
     offset: page.offset,
     limit: page.limit,

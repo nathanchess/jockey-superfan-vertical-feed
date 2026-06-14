@@ -43,13 +43,13 @@ Required in `.env.local`:
 
 ## Data
 
-Feed ranking reads `data/feed_manifest_v2.json` at build/runtime. Regenerate via the repo-root pre-processing pipeline — see the root [README](../README.md#pre-processing-pipeline).
+Feed ranking reads `data/rhoslc_feed_manifest.json` (per show). Regenerate via the repo-root pre-processing pipeline — see the root [README](../README.md#pre-processing-pipeline).
 
-Quick sync after updating `data/feed_manifest.json`:
+Quick sync after updating `data/rhoslc_feed_manifest.json`:
 
 ```bash
 # from repo root
-python scripts/sync_manifest.py
+python scripts/sync_manifest.py rhoslc
 
 # or from app/
 npm run sync-manifest
@@ -61,7 +61,7 @@ npm run sync-manifest
 2. Add `TL_API_KEY`, `TL_INDEX_ID`, and `TL_KS_ID` in project settings.
 3. Deploy — no extra build config required (`vercel.json` included).
 
-Ensure `data/feed_manifest_v2.json` is committed so profile feeds work without calling Pegasus at request time.
+Ensure `app/data/rhoslc_feed_manifest.json` (and future show manifests) are committed so profile feeds work without calling Pegasus at request time.
 
 ## Stack
 
