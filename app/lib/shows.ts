@@ -65,3 +65,17 @@ export function getShowKsId(showId: ShowId): string | null {
 export function isPasswordProtected(showId: ShowId): boolean {
   return !!(SHOWS[showId] as { passwordProtected?: boolean }).passwordProtected;
 }
+
+/**
+ * Server-side password for a protected show.
+ * Must use static process.env.* references so Next.js inlines them at build time.
+ * Dynamic process.env[key] lookups are stripped in production builds.
+ */
+export function getShowAccessPassword(showId: ShowId): string | null {
+  switch (showId) {
+    case "rhoslc":
+      return process.env.RHOSLC_PASSWORD?.trim() || null;
+    default:
+      return null;
+  }
+}

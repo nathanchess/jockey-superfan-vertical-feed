@@ -7,7 +7,8 @@ A production-style demo that turns long-form reality TV episodes into a personal
 | Path | Purpose |
 |------|---------|
 | `app/` | **Next.js web app** — deploy this to Vercel |
-| `app/data/feed_manifest_v2.json` | Pre-computed Pegasus segments (bundled for fast feed API) |
+| `app/data/rhoslc_feed_manifest.json` | Pre-computed Pegasus segments for RHOSLC |
+| `app/lib/shows.ts` | Show catalog (add new shows here) |
 | `ranking.py` | Offline pipeline: Pegasus segmentation + Jockey enrichment |
 | `pre-processing/` | Knowledge store helpers |
 | `scripts/sync_manifest.py` | Copy manifest from `data/` → `app/data/` |
@@ -20,7 +21,7 @@ A production-style demo that turns long-form reality TV episodes into a personal
 
 ![Superfan Vertical Feed Engine architecture](architecture.png)
 
-Offline pre-processing (Pegasus segmentation, Jockey enrichment) runs locally and produces `feed_manifest_v2.json`. The Next.js app on Vercel serves persona-ranked feeds, Marengo search, and runtime Jockey Spotlight against live TwelveLabs APIs.
+Offline pre-processing (Pegasus segmentation, Jockey enrichment) runs locally and produces per-show manifests (e.g. `rhoslc_feed_manifest.json`). The Next.js app on Vercel serves persona-ranked feeds, Marengo search, and runtime Jockey Spotlight against live TwelveLabs APIs.
 
 ## Quick start (local)
 
@@ -38,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ### 2. Offline manifest pipeline (optional)
 
-The web app reads pre-computed scene metadata from `app/data/feed_manifest_v2.json`. Use the scripts below when you add episodes, re-run Pegasus, or refresh Jockey cross-episode boosts.
+The web app reads pre-computed scene metadata from `app/data/<show>_feed_manifest.json`. Use the scripts below when you add episodes, re-run Pegasus, or refresh Jockey cross-episode boosts.
 
 See **[Pre-processing pipeline](#pre-processing-pipeline)** for the full walkthrough.
 
@@ -164,10 +165,12 @@ python scripts/sync_manifest.py
 npm run sync-manifest
 ```
 
-- **Reads:** `data/feed_manifest.json`
-- **Writes:** `app/data/feed_manifest_v2.json`
+- **Reads:** `data/rhoslc_feed_manifest.json` (or `data/<show>_feed_manifest.json`)
+- **Writes:** `app/data/rhoslc_feed_manifest.json`
 
-Commit `app/data/feed_manifest_v2.json` and redeploy Vercel for profile feeds to pick up new clips.
+Commit `app/data/*_feed_manifest.json` and redeploy Vercel for profile feeds to pick up new clips.
+
+**Adding another show:** register it in `app/lib/shows.ts`, add manifest paths to `scripts/sync_manifest.py`, run pre-processing, then `python scripts/sync_manifest.py <show_id>`.
 
 ### Script reference
 

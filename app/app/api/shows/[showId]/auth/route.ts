@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { isShowId, isPasswordProtected } from "@/lib/shows";
+import { getShowAccessPassword, isShowId, isPasswordProtected } from "@/lib/shows";
 
 /**
  * POST /api/shows/[showId]/auth
@@ -26,12 +26,10 @@ export async function POST(
   const body = await request.json().catch(() => ({})) as { password?: string };
   const supplied = (body.password ?? "").trim();
 
-  // Look up the password env var for this show (e.g. RHOSLC_PASSWORD)
-  const envKey = `${showId.toUpperCase()}_PASSWORD`;
-  const expected = process.env[envKey]?.trim();
+  const expected = getShowAccessPassword(showId);
 
   if (!expected) {
-    console.warn(`[auth] ${envKey} is not set — denying all access to show "${showId}"`);
+    console.warn(`[auth] Password not configured for show "${showId}" (set RHOSLC_PASSWORD in env)`);
     return NextResponse.json({ error: "Access restricted." }, { status: 403 });
   }
 

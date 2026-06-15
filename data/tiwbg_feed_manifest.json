@@ -1,0 +1,2133 @@
+{
+  "generated_at": "2026-06-13T21:58:18.011639+00:00",
+  "asset_ids": [
+    "6a2dbaaaf383f92c3dad9f22",
+    "6a2dbaaa4c3eea0190eb15d3",
+    "6a2dbaa95f48616a1efccf6a",
+    "6a2dba780d802ff693544740",
+    "6a2dbaa25f48616a1efccf67"
+  ],
+  "by_asset_id": {
+    "6a2dbaaaf383f92c3dad9f22": {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "task_id": "6a2dcdf3f383f92c3dada211",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbaaa_seg_0000",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 715,
+          "end_sec": 745,
+          "duration_sec": 30,
+          "description": "Lauren is tending a jerry can of boiling water on the fire when the lid explodes, scalding her face. The other women rush to her aid, shouting for her to get into the sea to cool the burns.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a terrifying accident where a castaway is severely scalded by boiling water, leading to a frantic rescue effort by her fellow survivors. It's a high-stakes survival moment that showcases the dangers of their environment.",
+          "feed_headline": "Boiling Water Explosion Leaves Castaway Scalded",
+          "key_participants": [
+            "Lauren",
+            "Belinda",
+            "Fran"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0001",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 1143,
+          "end_sec": 1175,
+          "duration_sec": 32,
+          "description": "The women spot a massive waterspout forming over the ocean. They watch in awe and fear as the tornado grows, realizing how vulnerable they are if it were to touch down on the island.",
+          "emotional_intensity": 8,
+          "explanation": "This segment captures the raw power of nature as a waterspout threatens the island. The castaways' fear and helplessness in the face of such a natural phenomenon make for a gripping survival highlight.",
+          "feed_headline": "Massive Waterspout Threatens the Island",
+          "key_participants": [
+            "Georgie",
+            "Faye",
+            "Lauren"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0002",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 1773,
+          "end_sec": 1803,
+          "duration_sec": 30,
+          "description": "Fran, suffering from hypothermia and exhaustion, uses the radio to request to be taken off the island. Her fellow castaways gather around her, offering comfort and tearful goodbyes as she prepares to leave.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional toll of the survival challenge as Fran is forced to quit due to her deteriorating health. The heartfelt goodbyes and the group's reaction showcase the strong bonds formed under pressure.",
+          "feed_headline": "Fran Requests to Leave the Island Due to Illness",
+          "key_participants": [
+            "Fran",
+            "Abby",
+            "Belinda"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0003",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 2447,
+          "end_sec": 2479,
+          "duration_sec": 32,
+          "description": "The women hold a tense group meeting to decide whether to kill their pet piglets for food. The group is deeply divided, with some arguing it's necessary for survival while others are emotionally unable to go through with it.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a major moral and emotional conflict as the castaways debate killing their beloved pet pigs. The tension and differing viewpoints create a powerful drama moment about the cost of survival.",
+          "feed_headline": "Castaways Debate Killing Their Pet Pigs for Food",
+          "key_participants": [
+            "Lauren",
+            "Jaime",
+            "Beth",
+            "Belinda"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0004",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 2556,
+          "end_sec": 2586,
+          "duration_sec": 30,
+          "description": "Lauren and Belinda carry out the difficult task of killing one of the piglets. The scene is emotional and somber as they try to make the process quick and painless for the animal they had grown to love.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the brutal reality of survival as the women are forced to kill one of their pet pigs. The emotional weight of the moment and the castaways' reactions make it a powerful and memorable clip.",
+          "feed_headline": "The Emotional Moment the Castaways Kill a Pig",
+          "key_participants": [
+            "Lauren",
+            "Belinda",
+            "Faye"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0005",
+          "asset_id": "6a2dbaaaf383f92c3dad9f22",
+          "start_sec": 2735,
+          "end_sec": 2765,
+          "duration_sec": 30,
+          "description": "The women gather around the fire at night to eat the pig they killed. They share the meat and express their feelings about the experience, with some describing it as delicious and others feeling like 'wild animals'.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights the castaways' first meal of meat after a long period of starvation. Their reactions and the communal aspect of sharing the food provide a sense of relief and accomplishment.",
+          "feed_headline": "Castaways Finally Eat Their First Meal of Meat",
+          "key_participants": [
+            "Lauren",
+            "Jaime",
+            "Beth",
+            "Belinda"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        }
+      ],
+      "raw_segment_count": 6,
+      "usage": {
+        "output_tokens": 1508,
+        "input_tokens": 161293
+      }
+    },
+    "6a2dbaaa4c3eea0190eb15d3": {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "task_id": "6a2dcebe5f48616a1efcd2a9",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbaaa_seg_0000",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 615,
+          "end_sec": 645,
+          "duration_sec": 30,
+          "description": "While trekking through the dense jungle, Jaime is suddenly confronted by a large snake. She freezes in terror, screaming and backing away as the other women try to calm her down and assess the danger.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a raw, unfiltered panic attack triggered by a deadly jungle encounter, showcasing the extreme psychological pressure of the survival challenge. It's a must-watch for fans of high-stakes reality drama and survival shows.",
+          "feed_headline": "Jungle Terror: Jaime's Snake Encounter",
+          "key_participants": [
+            "Jaime",
+            "Abby",
+            "Fi"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "survival_challenge",
+            "fear_response"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0001",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 1080,
+          "end_sec": 1115,
+          "duration_sec": 35,
+          "description": "After hours of grueling effort using a bow and drill, the women finally create an ember and successfully start a fire. The group erupts in cheers and celebration, hugging each other in relief and triumph.",
+          "emotional_intensity": 8,
+          "explanation": "This segment captures the euphoric moment of a major survival milestone, celebrating the women's resilience and teamwork. It's a powerful highlight for fans who love seeing contestants overcome impossible odds.",
+          "feed_headline": "Fire! The Ultimate Survival Victory",
+          "key_participants": [
+            "Becki",
+            "Georgina",
+            "Abby"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "teamwork",
+            "victory"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0002",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 1251,
+          "end_sec": 1280,
+          "duration_sec": 29,
+          "description": "Jayde breaks down in tears, showing the camera her severe insect bites and skin irritation. She expresses feeling overwhelmed by the harsh conditions and her deteriorating physical state, while others offer comfort.",
+          "emotional_intensity": 7,
+          "explanation": "This segment provides a deeply personal look at the physical and emotional toll of the island, featuring a vulnerable moment of despair. It's a compelling clip for fans interested in the human cost of extreme survival.",
+          "feed_headline": "Jayde's Emotional Breakdown Over Bites",
+          "key_participants": [
+            "Jayde",
+            "Julie",
+            "Fi"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "vulnerability",
+            "physical_struggle"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0003",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 1670,
+          "end_sec": 1700,
+          "duration_sec": 30,
+          "description": "Jayde gathers the group to announce she is quitting the challenge. She tearfully explains that she is unwell, covered in bites, and simply not prepared for the harsh reality of island life.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a pivotal turning point where a contestant admits defeat, offering a raw look at the mental barriers of survival. It's a key moment for fans following the group's dynamics and individual struggles.",
+          "feed_headline": "Jayde Quits: 'I'm Not Prepared'",
+          "key_participants": [
+            "Jayde",
+            "Lauren",
+            "Belinda"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "confession",
+            "struggle"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0004",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 2080,
+          "end_sec": 2110,
+          "duration_sec": 30,
+          "description": "The expedition party finally breaks through the jungle and discovers a pristine beach. They scream in joy, run to the water, and celebrate their success in finding a permanent camp location.",
+          "emotional_intensity": 9,
+          "explanation": "This segment captures the ultimate payoff of their grueling trek, featuring pure, unadulterated joy and relief. It's a perfect highlight for fans who love triumphant moments and scenic reveals.",
+          "feed_headline": "Paradise Found! Beach Discovery Celebration",
+          "key_participants": [
+            "Fi",
+            "Kate",
+            "Georgina"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "celebration",
+            "relief"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaaa_seg_0005",
+          "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+          "start_sec": 2700,
+          "end_sec": 2730,
+          "duration_sec": 30,
+          "description": "Tensions explode at the temporary camp as Fran becomes overwhelmed and collapses. Abby confronts her, leading to a heated argument about Fran's perceived lack of effort and the group's survival needs.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a major interpersonal conflict born from exhaustion and desperation, showcasing the breakdown of group cohesion. It's a must-see for fans of high-drama reality TV confrontations.",
+          "feed_headline": "Camp Chaos: Abby vs. Fran Explosion",
+          "key_participants": [
+            "Fran",
+            "Abby",
+            "Jayde"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Women on the Island with Bear Grylls",
+          "subtags": [
+            "argument",
+            "tension"
+          ]
+        }
+      ],
+      "raw_segment_count": 6,
+      "usage": {
+        "output_tokens": 1468,
+        "input_tokens": 158076
+      }
+    },
+    "6a2dbaa95f48616a1efccf6a": {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "task_id": "6a2dd0330d802ff693544a5f",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbaa9_seg_0000",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 317,
+          "end_sec": 359,
+          "duration_sec": 42,
+          "description": "The men face their first major physical challenge as they jump from the boat and swim 75 meters fully clothed to the island, battling strong undercurrents and rough waves to reach the shore.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the grueling and dangerous swim the men must endure to even begin their survival challenge, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "The men face a terrifying swim to reach the island!",
+          "key_participants": [
+            "Bear Grylls",
+            "The Men"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "challenge",
+            "adventure"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa9_seg_0001",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 622,
+          "end_sec": 665,
+          "duration_sec": 43,
+          "description": "While trekking through the dense jungle, the men encounter a coiled snake on the ground, leading to a tense moment where they must carefully navigate around the potential threat.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a sudden and dangerous encounter with wildlife that tests the men's nerves and survival instincts, which is why it makes for a great clip for adventure fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "A tense encounter with a snake in the jungle!",
+          "key_participants": [
+            "The Men"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "danger",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa9_seg_0002",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 1313,
+          "end_sec": 1398,
+          "duration_sec": 85,
+          "description": "After hours of failed attempts, the men finally succeed in starting a fire using a bow drill and focused sunlight, leading to an ecstatic celebration as they realize they can now purify water.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the men's breakthrough moment in mastering a critical survival skill, resulting in a massive emotional release and celebration, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "The men finally succeed in starting a fire!",
+          "key_participants": [
+            "Kyle",
+            "Andy",
+            "The Men"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "triumph",
+            "teamwork"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa9_seg_0003",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 1850,
+          "end_sec": 1925,
+          "duration_sec": 75,
+          "description": "A heated argument erupts between the group's two builders, Andy and Paul, over the location of their shelter, with Andy's beachside choice being rejected by the rest of the group.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a major leadership clash that threatens to derail the group's progress, showcasing the intense interpersonal drama of the experiment, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Two builders clash over the perfect shelter spot!",
+          "key_participants": [
+            "Andy",
+            "Paul",
+            "The Men"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "conflict",
+            "leadership"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa9_seg_0004",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 2266,
+          "end_sec": 2311,
+          "duration_sec": 45,
+          "description": "Graphic designer Joe, overwhelmed by the harsh conditions and homesickness, uses the emergency satellite radio to request an evacuation boat, shocking his fellow survivors.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the first major crack in the group's resolve as Joe decides he can't continue, setting off a chain reaction of doubt, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Joe makes the shocking decision to leave the island!",
+          "key_participants": [
+            "Joe",
+            "The Men"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "struggle",
+            "decision"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa9_seg_0005",
+          "asset_id": "6a2dbaa95f48616a1efccf6a",
+          "start_sec": 2604,
+          "end_sec": 2793,
+          "duration_sec": 189,
+          "description": "During a crisis meeting in the pouring rain, the group's tensions boil over as Andy and Paul trade accusations, culminating in Andy's emotional decision to leave the island.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the explosive confrontation that leads to the departure of one of the group's key members, marking a turning point in the experiment, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "A stormy meeting ends with Andy quitting the island!",
+          "key_participants": [
+            "Andy",
+            "Paul",
+            "The Men"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "argument",
+            "betrayal"
+          ]
+        }
+      ],
+      "raw_segment_count": 6,
+      "usage": {
+        "output_tokens": 1464,
+        "input_tokens": 166311
+      }
+    },
+    "6a2dba780d802ff693544740": {
+      "asset_id": "6a2dba780d802ff693544740",
+      "task_id": "6a2dd1044c3eea0190eb191d",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dba78_seg_0000",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 51,
+          "end_sec": 80,
+          "duration_sec": 29,
+          "description": "A group of women trekking through a dense jungle encounter a snake, causing panic. The scene quickly cuts to a severe tropical storm battering the island, with the women huddled together in fear and desperation, calling for a radio.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the immediate and terrifying dangers the women face, from venomous wildlife to life-threatening weather, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Snake Attack & Tornado-Force Storms Hit the Island",
+          "key_participants": [
+            "Women contestants"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "survival",
+            "danger",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a2dba78_seg_0001",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 391,
+          "end_sec": 426,
+          "duration_sec": 35,
+          "description": "The expedition party discovers a massive crocodile in a stream. Despite their hunger, the women realize they lack the tools to hunt it safely and decide to leave the potential feast behind, highlighting their vulnerability.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a critical survival decision where hunger clashes with safety, showcasing the women's fear and resourcefulness, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Hunger vs. Fear: Women Spot Giant Crocodile",
+          "key_participants": [
+            "Georgie",
+            "Expedition Party"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "survival",
+            "danger",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a2dba78_seg_0002",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 880,
+          "end_sec": 918,
+          "duration_sec": 38,
+          "description": "Tensions boil over at camp as Julie confronts another woman about her perceived lack of effort. The argument escalates quickly, with accusations of laziness and frustration over the group's dire situation.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights a raw, unfiltered confrontation born from exhaustion and desperation, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Camp Meltdown: Julie Snaps at Fellow Survivor",
+          "key_participants": [
+            "Julie",
+            "Camp Group"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "tension",
+            "conflict"
+          ]
+        },
+        {
+          "segment_id": "6a2dba78_seg_0003",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 1842,
+          "end_sec": 1871,
+          "duration_sec": 29,
+          "description": "Fran collapses on the rocky shore from severe dehydration and heat exhaustion. Her fellow survivors rush to her aid, frantically calling for the safety response team as she lies unconscious.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights a life-threatening medical emergency that forces the group to call for help, marking a turning point in their survival challenge, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Survivor Collapses: Medical Emergency on the Island",
+          "key_participants": [
+            "Fran",
+            "Camp Group"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "survival",
+            "danger",
+            "tension"
+          ]
+        },
+        {
+          "segment_id": "6a2dba78_seg_0004",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 2538,
+          "end_sec": 2583,
+          "duration_sec": 45,
+          "description": "After days of being lost, the expedition party finally spots the camp group on a beach. The two groups reunite in a tearful, joyous celebration, hugging and cheering as they realize they are safe.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional payoff of their survival struggle as the separated groups finally reunite, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Lost Groups Reunite in Tearful Beach Celebration",
+          "key_participants": [
+            "Expedition Party",
+            "Camp Group"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "reunion",
+            "joy",
+            "relief"
+          ]
+        },
+        {
+          "segment_id": "6a2dba78_seg_0005",
+          "asset_id": "6a2dba780d802ff693544740",
+          "start_sec": 2695,
+          "end_sec": 2728,
+          "duration_sec": 33,
+          "description": "Kate decides to quit the challenge, explaining that she simply wants to be home with her family. Her departure causes a rift in the group, with some members expressing anger and disappointment at her decision.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the emotional complexity of quitting a survival challenge and the resulting interpersonal conflict, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+          "feed_headline": "Kate Quits: Emotional Goodbyes and Group Fallout",
+          "key_participants": [
+            "Kate",
+            "Camp Group"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "The Island with Bear Grylls",
+          "subtags": [
+            "sadness",
+            "goodbye",
+            "tension"
+          ]
+        }
+      ],
+      "raw_segment_count": 6,
+      "usage": {
+        "output_tokens": 1477,
+        "input_tokens": 159893
+      }
+    },
+    "6a2dbaa25f48616a1efccf67": {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "task_id": "6a2dd1b4593c5511ec2a8372",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbaa2_seg_0000",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 145,
+          "end_sec": 175,
+          "duration_sec": 30,
+          "description": "In the pouring rain, the group fractures as Joe, Andy, and Paul threaten to leave the island. Paul angrily declares he is not responsible for the group's failures, while others try to reason with him. The tension is palpable as the group faces a potential mutiny.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a major group fracture as three men threaten to quit the survival challenge due to exhaustion and conflict. The intense argument and emotional outbursts make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Group Fractures as Three Men Threaten to Quit!",
+          "key_participants": [
+            "Joe",
+            "Andy",
+            "Paul",
+            "Piers"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "conflict"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0001",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 237,
+          "end_sec": 278,
+          "duration_sec": 41,
+          "description": "After Paul leaves, the remaining men rally to convince Andy to stay. Piers and others appeal to his sense of duty, and Andy eventually agrees to remain, leading to a relieved celebration among the group. Phil expresses his relief at the decision.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights a pivotal emotional turn where the group successfully convinces a wavering member to stay, preventing further collapse. The relief and camaraderie make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Group Rallies to Convince Andy to Stay",
+          "key_participants": [
+            "Andy",
+            "Piers",
+            "Phil"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "teamwork"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0002",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 708,
+          "end_sec": 733,
+          "duration_sec": 25,
+          "description": "The men attempt to hunt stingrays in the shallow water using spears. The scene is chaotic and frantic as they chase the fast-moving rays, with one man getting knocked over by a powerful tail swipe. Despite their efforts, they fail to catch any.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights a high-stakes, action-packed hunting attempt that goes wrong, showcasing the difficulty of procuring food. The chaos and physical struggle make for a great clip for action fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Chaos Ensues During Frantic Stingray Hunt",
+          "key_participants": [
+            "Andy",
+            "Vic"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "action",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0003",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 1418,
+          "end_sec": 1449,
+          "duration_sec": 31,
+          "description": "Charlie is stung by a scorpion while working at the camp. He is in visible pain, and the group rushes to help. Sam uses the emergency satellite phone to contact the medical team for advice on how to treat the sting.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a sudden medical emergency that tests the group's preparedness and composure. The urgency and concern for Charlie make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Charlie Stung by Scorpion, Medical Team Called",
+          "key_participants": [
+            "Charlie",
+            "Sam",
+            "Bear Grylls"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "injury"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0004",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 1699,
+          "end_sec": 1739,
+          "duration_sec": 40,
+          "description": "Barney and Ross are fishing on a treacherous rocky outcrop at night when a massive wave crashes over them. Ross is swept off his feet and nearly into the ocean, but Barney manages to grab him and pull him to safety. The camera is lost in the chaos.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights a terrifying near-death experience where one man saves another from being swept away by a rogue wave. The sheer danger and adrenaline make for a great clip for action fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Barney Saves Ross from Massive Rogue Wave!",
+          "key_participants": [
+            "Barney",
+            "Ross"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "action",
+            "danger"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0005",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 2370,
+          "end_sec": 2409,
+          "duration_sec": 39,
+          "description": "Barney and Sam spot a large iguana hiding under a rock. They work together to flush it out, with Barney eventually grabbing it by the tail. The group celebrates their first successful hunt of a substantial meal.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the group's first major success in hunting, providing a much-needed boost to morale. The teamwork and eventual triumph make for a great clip for survival fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Barney and Sam Catch a Huge Iguana!",
+          "key_participants": [
+            "Barney",
+            "Sam"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "action",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0006",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 2521,
+          "end_sec": 2561,
+          "duration_sec": 40,
+          "description": "Barney struggles with the moral dilemma of killing the iguana for food. After some hesitation and encouragement from the group, he finally kills the animal with a rock, marking a significant personal milestone in his survival journey.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights a deeply personal and emotional moment as Barney overcomes his hesitation to kill for food. The internal conflict and eventual resolution make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Barney Overcomes Fear to Kill Iguana for Food",
+          "key_participants": [
+            "Barney",
+            "Dan"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "drama",
+            "survival"
+          ]
+        },
+        {
+          "segment_id": "6a2dbaa2_seg_0007",
+          "asset_id": "6a2dbaa25f48616a1efccf67",
+          "start_sec": 2623,
+          "end_sec": 2664,
+          "duration_sec": 41,
+          "description": "The group gathers around the fire to cook and eat the iguana. They are visibly excited and grateful for the meal, celebrating Barney's contribution. The atmosphere is one of relief and camaraderie after days of hunger.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the group's first proper meal in days, leading to a celebratory and grateful atmosphere. The shared joy and relief make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+          "feed_headline": "Group Celebrates First Real Meal in Days",
+          "key_participants": [
+            "Barney",
+            "Phil",
+            "Dan"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Men on the Island with Bear Grylls",
+          "subtags": [
+            "celebration",
+            "teamwork"
+          ]
+        }
+      ],
+      "raw_segment_count": 8,
+      "usage": {
+        "output_tokens": 2066,
+        "input_tokens": 168189
+      }
+    }
+  },
+  "segments": [
+    {
+      "segment_id": "6a2dbaaa_seg_0000",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 715,
+      "end_sec": 745,
+      "duration_sec": 30,
+      "description": "Lauren is tending a jerry can of boiling water on the fire when the lid explodes, scalding her face. The other women rush to her aid, shouting for her to get into the sea to cool the burns.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a terrifying accident where a castaway is severely scalded by boiling water, leading to a frantic rescue effort by her fellow survivors. It's a high-stakes survival moment that showcases the dangers of their environment.",
+      "feed_headline": "Boiling Water Explosion Leaves Castaway Scalded",
+      "key_participants": [
+        "Lauren",
+        "Belinda",
+        "Fran"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "The jerrycan explosion is one of the defining disaster beats in The Island with Bear Grylls because it turns a survival solution into fresh catastrophe. For series viewers, it\u2019s a brutal reminder of the show\u2019s recurring theme that progress is fragile and a camp can lose safety, morale, and manpower in an instant.",
+      "jockey_reasoning": "This segment highlights a freak accident detonating the women\u2019s momentum and sending Lauren into the sea with burns. It\u2019s ideal for chaos-and-stakes superfans because the tone shifts from routine survival to emergency in seconds. Jockey elevated it because across The Island with Bear Grylls, few moments better capture how the island punishes even attempted ingenuity."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0001",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 1143,
+      "end_sec": 1175,
+      "duration_sec": 32,
+      "description": "The women spot a massive waterspout forming over the ocean. They watch in awe and fear as the tornado grows, realizing how vulnerable they are if it were to touch down on the island.",
+      "emotional_intensity": 8,
+      "explanation": "This segment captures the raw power of nature as a waterspout threatens the island. The castaways' fear and helplessness in the face of such a natural phenomenon make for a gripping survival highlight.",
+      "feed_headline": "Massive Waterspout Threatens the Island",
+      "key_participants": [
+        "Georgie",
+        "Faye",
+        "Lauren"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0002",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 1773,
+      "end_sec": 1803,
+      "duration_sec": 30,
+      "description": "Fran, suffering from hypothermia and exhaustion, uses the radio to request to be taken off the island. Her fellow castaways gather around her, offering comfort and tearful goodbyes as she prepares to leave.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional toll of the survival challenge as Fran is forced to quit due to her deteriorating health. The heartfelt goodbyes and the group's reaction showcase the strong bonds formed under pressure.",
+      "feed_headline": "Fran Requests to Leave the Island Due to Illness",
+      "key_participants": [
+        "Fran",
+        "Abby",
+        "Belinda"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Fran\u2019s radio call matters in The Island with Bear Grylls because rescue requests are the formal punctuation marks of the show\u2019s attrition narrative. For returning viewers, this is where the women\u2019s physical breakdown storyline stops being emotional subtext and becomes operational reality.",
+      "jockey_reasoning": "This clip highlights the grave calm that settles in when someone has to call outward for help. It\u2019s strong for fans who track the survival threshold moments because evacuation language always means the experiment just changed shape. Jockey elevated it because across The Island with Bear Grylls, rescue communications are among the clearest signals of cross-episode consequence."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0003",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 2447,
+      "end_sec": 2479,
+      "duration_sec": 32,
+      "description": "The women hold a tense group meeting to decide whether to kill their pet piglets for food. The group is deeply divided, with some arguing it's necessary for survival while others are emotionally unable to go through with it.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a major moral and emotional conflict as the castaways debate killing their beloved pet pigs. The tension and differing viewpoints create a powerful drama moment about the cost of survival.",
+      "feed_headline": "Castaways Debate Killing Their Pet Pigs for Food",
+      "key_participants": [
+        "Lauren",
+        "Jaime",
+        "Beth",
+        "Belinda"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Jamie refusing involvement matters in The Island with Bear Grylls because the piglet storyline is one of the corpus\u2019s clearest emotional through-lines, transforming companionship into an ethical survival choice. Full-run fans recognize this refusal as the human cost of that arc, not just a reaction shot.",
+      "jockey_reasoning": "This clip highlights the moral recoil at the center of the piglet story. It\u2019s great for superfans who love the show\u2019s hardest emotional dilemmas because the conflict is internal, not performative. Jockey elevated it because across The Island with Bear Grylls, few storylines carry this much callback power and audience memory."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0004",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 2556,
+      "end_sec": 2586,
+      "duration_sec": 30,
+      "description": "Lauren and Belinda carry out the difficult task of killing one of the piglets. The scene is emotional and somber as they try to make the process quick and painless for the animal they had grown to love.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the brutal reality of survival as the women are forced to kill one of their pet pigs. The emotional weight of the moment and the castaways' reactions make it a powerful and memorable clip.",
+      "feed_headline": "The Emotional Moment the Castaways Kill a Pig",
+      "key_participants": [
+        "Lauren",
+        "Belinda",
+        "Faye"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0005",
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "start_sec": 2735,
+      "end_sec": 2765,
+      "duration_sec": 30,
+      "description": "The women gather around the fire at night to eat the pig they killed. They share the meat and express their feelings about the experience, with some describing it as delicious and others feeling like 'wild animals'.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights the castaways' first meal of meat after a long period of starvation. Their reactions and the communal aspect of sharing the food provide a sense of relief and accomplishment.",
+      "feed_headline": "Castaways Finally Eat Their First Meal of Meat",
+      "key_participants": [
+        "Lauren",
+        "Jaime",
+        "Beth",
+        "Belinda"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0000",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 615,
+      "end_sec": 645,
+      "duration_sec": 30,
+      "description": "While trekking through the dense jungle, Jaime is suddenly confronted by a large snake. She freezes in terror, screaming and backing away as the other women try to calm her down and assess the danger.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a raw, unfiltered panic attack triggered by a deadly jungle encounter, showcasing the extreme psychological pressure of the survival challenge. It's a must-watch for fans of high-stakes reality drama and survival shows.",
+      "feed_headline": "Jungle Terror: Jaime's Snake Encounter",
+      "key_participants": [
+        "Jaime",
+        "Abby",
+        "Fi"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "survival_challenge",
+        "fear_response"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "In The Island with Bear Grylls, Jaime\u2019s snake panic is one of the women\u2019s earliest proof points that the island\u2019s fear factor will be as punishing as the logistics. For season-long viewers, it starts a recurring women\u2019s-island pattern of emotional overload, fragile morale, and the question of who can steady themselves after acute terror.",
+      "jockey_reasoning": "This segment highlights primal panic taking over before the women\u2019s camp has any emotional cushion built up. It\u2019s ideal for viewers who love raw meltdown TV because the fear is immediate, specific, and contagious. Jockey elevated it because across The Island with Bear Grylls, this is an early cornerstone of the women\u2019s psychological survival story."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0001",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 1080,
+      "end_sec": 1115,
+      "duration_sec": 35,
+      "description": "After hours of grueling effort using a bow and drill, the women finally create an ember and successfully start a fire. The group erupts in cheers and celebration, hugging each other in relief and triumph.",
+      "emotional_intensity": 8,
+      "explanation": "This segment captures the euphoric moment of a major survival milestone, celebrating the women's resilience and teamwork. It's a powerful highlight for fans who love seeing contestants overcome impossible odds.",
+      "feed_headline": "Fire! The Ultimate Survival Victory",
+      "key_participants": [
+        "Becki",
+        "Georgina",
+        "Abby"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "teamwork",
+        "victory"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "First-fire joy matters enormously on The Island with Bear Grylls because the women\u2019s camp spends multiple episodes fighting dehydration, darkness, and morale collapse before earning this release. Series followers read this as one of the women\u2019s earliest true collective wins, a callback point whenever later setbacks threaten to erase progress.",
+      "jockey_reasoning": "This clip showcases the women\u2019s camp exploding with joy once the fire finally holds. It\u2019s catnip for survival-win superfans because the celebration feels wildly disproportionate in the best way\u2014exactly what makes reality hardship TV sing. Jockey elevated it because across The Island with Bear Grylls, women\u2019s-camp fire success is one of the most important morale pivots in the whole corpus."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0002",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 1251,
+      "end_sec": 1280,
+      "duration_sec": 29,
+      "description": "Jayde breaks down in tears, showing the camera her severe insect bites and skin irritation. She expresses feeling overwhelmed by the harsh conditions and her deteriorating physical state, while others offer comfort.",
+      "emotional_intensity": 7,
+      "explanation": "This segment provides a deeply personal look at the physical and emotional toll of the island, featuring a vulnerable moment of despair. It's a compelling clip for fans interested in the human cost of extreme survival.",
+      "feed_headline": "Jayde's Emotional Breakdown Over Bites",
+      "key_participants": [
+        "Jayde",
+        "Julie",
+        "Fi"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Women on the Island with Bear Grylls",
+      "subtags": [
+        "vulnerability",
+        "physical_struggle"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0003",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 1670,
+      "end_sec": 1700,
+      "duration_sec": 30,
+      "description": "Jayde gathers the group to announce she is quitting the challenge. She tearfully explains that she is unwell, covered in bites, and simply not prepared for the harsh reality of island life.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a pivotal turning point where a contestant admits defeat, offering a raw look at the mental barriers of survival. It's a key moment for fans following the group's dynamics and individual struggles.",
+      "feed_headline": "Jayde Quits: 'I'm Not Prepared'",
+      "key_participants": [
+        "Jayde",
+        "Lauren",
+        "Belinda"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Women on the Island with Bear Grylls",
+      "subtags": [
+        "confession",
+        "struggle"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0004",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 2080,
+      "end_sec": 2110,
+      "duration_sec": 30,
+      "description": "The expedition party finally breaks through the jungle and discovers a pristine beach. They scream in joy, run to the water, and celebrate their success in finding a permanent camp location.",
+      "emotional_intensity": 9,
+      "explanation": "This segment captures the ultimate payoff of their grueling trek, featuring pure, unadulterated joy and relief. It's a perfect highlight for fans who love triumphant moments and scenic reveals.",
+      "feed_headline": "Paradise Found! Beach Discovery Celebration",
+      "key_participants": [
+        "Fi",
+        "Kate",
+        "Georgina"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "celebration",
+        "relief"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "The beach breakthrough is significant in The Island with Bear Grylls because the women\u2019s storyline keeps returning to navigation misery, blocked routes, and the need to reach viable shoreline resources. Fans tracking the run see this as a foundational relief beat that pays off earlier jungle struggle and foreshadows later water and regrouping storylines.",
+      "jockey_reasoning": "This segment highlights the women hitting the beach like they\u2019ve escaped prison, with pure release in every movement. It\u2019s a strong feed clip for payoff lovers because the joy reads instantly even without long setup. Jockey elevated it because throughout The Island with Bear Grylls, successful transitions from punishing jungle to usable coast are major survival milestones."
+    },
+    {
+      "segment_id": "6a2dbaaa_seg_0005",
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "start_sec": 2700,
+      "end_sec": 2730,
+      "duration_sec": 30,
+      "description": "Tensions explode at the temporary camp as Fran becomes overwhelmed and collapses. Abby confronts her, leading to a heated argument about Fran's perceived lack of effort and the group's survival needs.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a major interpersonal conflict born from exhaustion and desperation, showcasing the breakdown of group cohesion. It's a must-see for fans of high-drama reality TV confrontations.",
+      "feed_headline": "Camp Chaos: Abby vs. Fran Explosion",
+      "key_participants": [
+        "Fran",
+        "Abby",
+        "Jayde"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Women on the Island with Bear Grylls",
+      "subtags": [
+        "argument",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0000",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 317,
+      "end_sec": 359,
+      "duration_sec": 42,
+      "description": "The men face their first major physical challenge as they jump from the boat and swim 75 meters fully clothed to the island, battling strong undercurrents and rough waves to reach the shore.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the grueling and dangerous swim the men must endure to even begin their survival challenge, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "The men face a terrifying swim to reach the island!",
+      "key_participants": [
+        "Bear Grylls",
+        "The Men"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "challenge",
+        "adventure"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0001",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 622,
+      "end_sec": 665,
+      "duration_sec": 43,
+      "description": "While trekking through the dense jungle, the men encounter a coiled snake on the ground, leading to a tense moment where they must carefully navigate around the potential threat.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a sudden and dangerous encounter with wildlife that tests the men's nerves and survival instincts, which is why it makes for a great clip for adventure fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "A tense encounter with a snake in the jungle!",
+      "key_participants": [
+        "The Men"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "danger",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0002",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 1313,
+      "end_sec": 1398,
+      "duration_sec": 85,
+      "description": "After hours of failed attempts, the men finally succeed in starting a fire using a bow drill and focused sunlight, leading to an ecstatic celebration as they realize they can now purify water.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the men's breakthrough moment in mastering a critical survival skill, resulting in a massive emotional release and celebration, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "The men finally succeed in starting a fire!",
+      "key_participants": [
+        "Kyle",
+        "Andy",
+        "The Men"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "triumph",
+        "teamwork"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0003",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 1850,
+      "end_sec": 1925,
+      "duration_sec": 75,
+      "description": "A heated argument erupts between the group's two builders, Andy and Paul, over the location of their shelter, with Andy's beachside choice being rejected by the rest of the group.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a major leadership clash that threatens to derail the group's progress, showcasing the intense interpersonal drama of the experiment, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Two builders clash over the perfect shelter spot!",
+      "key_participants": [
+        "Andy",
+        "Paul",
+        "The Men"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "conflict",
+        "leadership"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0004",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 2266,
+      "end_sec": 2311,
+      "duration_sec": 45,
+      "description": "Graphic designer Joe, overwhelmed by the harsh conditions and homesickness, uses the emergency satellite radio to request an evacuation boat, shocking his fellow survivors.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the first major crack in the group's resolve as Joe decides he can't continue, setting off a chain reaction of doubt, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Joe makes the shocking decision to leave the island!",
+      "key_participants": [
+        "Joe",
+        "The Men"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "struggle",
+        "decision"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa9_seg_0005",
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "start_sec": 2604,
+      "end_sec": 2793,
+      "duration_sec": 189,
+      "description": "During a crisis meeting in the pouring rain, the group's tensions boil over as Andy and Paul trade accusations, culminating in Andy's emotional decision to leave the island.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the explosive confrontation that leads to the departure of one of the group's key members, marking a turning point in the experiment, which is why it makes for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "A stormy meeting ends with Andy quitting the island!",
+      "key_participants": [
+        "Andy",
+        "Paul",
+        "The Men"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "argument",
+        "betrayal"
+      ]
+    },
+    {
+      "segment_id": "6a2dba78_seg_0000",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 51,
+      "end_sec": 80,
+      "duration_sec": 29,
+      "description": "A group of women trekking through a dense jungle encounter a snake, causing panic. The scene quickly cuts to a severe tropical storm battering the island, with the women huddled together in fear and desperation, calling for a radio.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the immediate and terrifying dangers the women face, from venomous wildlife to life-threatening weather, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Snake Attack & Tornado-Force Storms Hit the Island",
+      "key_participants": [
+        "Women contestants"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "survival",
+        "danger",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a2dba78_seg_0001",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 391,
+      "end_sec": 426,
+      "duration_sec": 35,
+      "description": "The expedition party discovers a massive crocodile in a stream. Despite their hunger, the women realize they lack the tools to hunt it safely and decide to leave the potential feast behind, highlighting their vulnerability.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a critical survival decision where hunger clashes with safety, showcasing the women's fear and resourcefulness, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Hunger vs. Fear: Women Spot Giant Crocodile",
+      "key_participants": [
+        "Georgie",
+        "Expedition Party"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "survival",
+        "danger",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a2dba78_seg_0002",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 880,
+      "end_sec": 918,
+      "duration_sec": 38,
+      "description": "Tensions boil over at camp as Julie confronts another woman about her perceived lack of effort. The argument escalates quickly, with accusations of laziness and frustration over the group's dire situation.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights a raw, unfiltered confrontation born from exhaustion and desperation, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Camp Meltdown: Julie Snaps at Fellow Survivor",
+      "key_participants": [
+        "Julie",
+        "Camp Group"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "tension",
+        "conflict"
+      ]
+    },
+    {
+      "segment_id": "6a2dba78_seg_0003",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 1842,
+      "end_sec": 1871,
+      "duration_sec": 29,
+      "description": "Fran collapses on the rocky shore from severe dehydration and heat exhaustion. Her fellow survivors rush to her aid, frantically calling for the safety response team as she lies unconscious.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights a life-threatening medical emergency that forces the group to call for help, marking a turning point in their survival challenge, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Survivor Collapses: Medical Emergency on the Island",
+      "key_participants": [
+        "Fran",
+        "Camp Group"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "survival",
+        "danger",
+        "tension"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Fran fainting is significant within The Island with Bear Grylls because medical collapse is the hard endpoint of the women\u2019s dehydration and overexertion storyline. Fans of the full show see this as proof that the season\u2019s warnings about physical decline are no longer theoretical.",
+      "jockey_reasoning": "This clip highlights the exact second survival exhaustion becomes a beachside emergency. It\u2019s powerful for viewers who want the highest-stakes reality beats because the panic is immediate and communal. Jockey elevated it because across The Island with Bear Grylls, collapse scenes redefine the seriousness of a season arc in seconds."
+    },
+    {
+      "segment_id": "6a2dba78_seg_0004",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 2538,
+      "end_sec": 2583,
+      "duration_sec": 45,
+      "description": "After days of being lost, the expedition party finally spots the camp group on a beach. The two groups reunite in a tearful, joyous celebration, hugging and cheering as they realize they are safe.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional payoff of their survival struggle as the separated groups finally reunite, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Lost Groups Reunite in Tearful Beach Celebration",
+      "key_participants": [
+        "Expedition Party",
+        "Camp Group"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "reunion",
+        "joy",
+        "relief"
+      ]
+    },
+    {
+      "segment_id": "6a2dba78_seg_0005",
+      "asset_id": "6a2dba780d802ff693544740",
+      "start_sec": 2695,
+      "end_sec": 2728,
+      "duration_sec": 33,
+      "description": "Kate decides to quit the challenge, explaining that she simply wants to be home with her family. Her departure causes a rift in the group, with some members expressing anger and disappointment at her decision.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the emotional complexity of quitting a survival challenge and the resulting interpersonal conflict, which is why it makes for a great clip for drama fans watching The Island with Bear Grylls.",
+      "feed_headline": "Kate Quits: Emotional Goodbyes and Group Fallout",
+      "key_participants": [
+        "Kate",
+        "Camp Group"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "sadness",
+        "goodbye",
+        "tension"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0000",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 145,
+      "end_sec": 175,
+      "duration_sec": 30,
+      "description": "In the pouring rain, the group fractures as Joe, Andy, and Paul threaten to leave the island. Paul angrily declares he is not responsible for the group's failures, while others try to reason with him. The tension is palpable as the group faces a potential mutiny.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a major group fracture as three men threaten to quit the survival challenge due to exhaustion and conflict. The intense argument and emotional outbursts make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Group Fractures as Three Men Threaten to Quit!",
+      "key_participants": [
+        "Joe",
+        "Andy",
+        "Paul",
+        "Piers"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "conflict"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0001",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 237,
+      "end_sec": 278,
+      "duration_sec": 41,
+      "description": "After Paul leaves, the remaining men rally to convince Andy to stay. Piers and others appeal to his sense of duty, and Andy eventually agrees to remain, leading to a relieved celebration among the group. Phil expresses his relief at the decision.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights a pivotal emotional turn where the group successfully convinces a wavering member to stay, preventing further collapse. The relief and camaraderie make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Group Rallies to Convince Andy to Stay",
+      "key_participants": [
+        "Andy",
+        "Piers",
+        "Phil"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "teamwork"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0002",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 708,
+      "end_sec": 733,
+      "duration_sec": 25,
+      "description": "The men attempt to hunt stingrays in the shallow water using spears. The scene is chaotic and frantic as they chase the fast-moving rays, with one man getting knocked over by a powerful tail swipe. Despite their efforts, they fail to catch any.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights a high-stakes, action-packed hunting attempt that goes wrong, showcasing the difficulty of procuring food. The chaos and physical struggle make for a great clip for action fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Chaos Ensues During Frantic Stingray Hunt",
+      "key_participants": [
+        "Andy",
+        "Vic"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "action",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0003",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 1418,
+      "end_sec": 1449,
+      "duration_sec": 31,
+      "description": "Charlie is stung by a scorpion while working at the camp. He is in visible pain, and the group rushes to help. Sam uses the emergency satellite phone to contact the medical team for advice on how to treat the sting.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a sudden medical emergency that tests the group's preparedness and composure. The urgency and concern for Charlie make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Charlie Stung by Scorpion, Medical Team Called",
+      "key_participants": [
+        "Charlie",
+        "Sam",
+        "Bear Grylls"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "injury"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "On The Island with Bear Grylls, Charlie\u2019s sting sequence is part of the show\u2019s recurring pattern of mundane camp life suddenly becoming medical jeopardy. Series followers recognize this as one more reminder that the island punishes lapses and random bad luck alike, deepening the men\u2019s attrition and fear arc.",
+      "jockey_reasoning": "This clip highlights how quickly an ordinary camp moment flips into a venom panic with real consequences. It\u2019s strong for danger-focused superfans because the tension escalates from pain to species identification to worst-case thinking. Jockey raised it because the broader The Island with Bear Grylls corpus keeps returning to the thin line between grit and medical crisis."
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0004",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 1699,
+      "end_sec": 1739,
+      "duration_sec": 40,
+      "description": "Barney and Ross are fishing on a treacherous rocky outcrop at night when a massive wave crashes over them. Ross is swept off his feet and nearly into the ocean, but Barney manages to grab him and pull him to safety. The camera is lost in the chaos.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights a terrifying near-death experience where one man saves another from being swept away by a rogue wave. The sheer danger and adrenaline make for a great clip for action fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Barney Saves Ross from Massive Rogue Wave!",
+      "key_participants": [
+        "Barney",
+        "Ross"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "action",
+        "danger"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0005",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 2370,
+      "end_sec": 2409,
+      "duration_sec": 39,
+      "description": "Barney and Sam spot a large iguana hiding under a rock. They work together to flush it out, with Barney eventually grabbing it by the tail. The group celebrates their first successful hunt of a substantial meal.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the group's first major success in hunting, providing a much-needed boost to morale. The teamwork and eventual triumph make for a great clip for survival fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Barney and Sam Catch a Huge Iguana!",
+      "key_participants": [
+        "Barney",
+        "Sam"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "action",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0006",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 2521,
+      "end_sec": 2561,
+      "duration_sec": 40,
+      "description": "Barney struggles with the moral dilemma of killing the iguana for food. After some hesitation and encouragement from the group, he finally kills the animal with a rock, marking a significant personal milestone in his survival journey.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights a deeply personal and emotional moment as Barney overcomes his hesitation to kill for food. The internal conflict and eventual resolution make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Barney Overcomes Fear to Kill Iguana for Food",
+      "key_participants": [
+        "Barney",
+        "Dan"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "drama",
+        "survival"
+      ]
+    },
+    {
+      "segment_id": "6a2dbaa2_seg_0007",
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "start_sec": 2623,
+      "end_sec": 2664,
+      "duration_sec": 41,
+      "description": "The group gathers around the fire to cook and eat the iguana. They are visibly excited and grateful for the meal, celebrating Barney's contribution. The atmosphere is one of relief and camaraderie after days of hunger.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the group's first proper meal in days, leading to a celebratory and grateful atmosphere. The shared joy and relief make for a great clip for drama fans watching Men on the Island with Bear Grylls.",
+      "feed_headline": "Group Celebrates First Real Meal in Days",
+      "key_participants": [
+        "Barney",
+        "Phil",
+        "Dan"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Men on the Island with Bear Grylls",
+      "subtags": [
+        "celebration",
+        "teamwork"
+      ]
+    }
+  ],
+  "total_segments": 32,
+  "show_name": "The Island with Bear Grylls",
+  "season_context": "Mixed men\u2019s- and women\u2019s-island episodes from the same The Island with Bear Grylls run, with recurring arcs around water scarcity, fire milestones, camp fracture, medical emergencies, dangerous wildlife, morale collapse, and the women\u2019s piglet dilemma.",
+  "jockey_feed_clips": [
+    {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "cross_episode_significance": "In The Island with Bear Grylls, this is an early men\u2019s-island fracture that echoes through the rest of the run: cooperation fails almost as fast as the survival tasks begin. For full-series viewers, Paul\u2019s blow-up becomes the baseline for the men\u2019s recurring leadership and resentment storyline, setting up later exits, blame games, and the sense that the camp\u2019s biggest threat is internal.",
+      "emotional_intensity": 9,
+      "end_sec": 109,
+      "feed_headline": "Tensions boil over",
+      "jockey_reasoning": "This segment spotlights the men\u2019s camp combusting before any stable hierarchy can form. It\u2019s a killer clip for drama addicts because the rage is immediate, quotable, and tied to survival pressure rather than random bickering. Jockey elevated it because across all of The Island with Bear Grylls in this store, the men\u2019s unraveling starts here.",
+      "key_participants": [
+        "Paul"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 106,
+      "subtags": [
+        "screaming",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2db-76e7-7f22-b967-4d95befedf7b"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "Across The Island with Bear Grylls, this storm sequence defines how fragile every hard-won survival gain really is. Fans who follow the full show know fire is never just fire on this series\u2014it\u2019s morale, food, warmth, and proof the group can hold together under pressure.",
+      "emotional_intensity": 9,
+      "end_sec": 818,
+      "feed_headline": "Saving the fire",
+      "jockey_reasoning": "This clip highlights the men battling the storm and physically shielding their fire like it\u2019s the last thing keeping camp alive. It\u2019s catnip for survival purists and tension junkies because the stakes are simple and primal. Jockey bumped it up because all across The Island with Bear Grylls, preserving fire is one of the show\u2019s most meaningful recurring thresholds.",
+      "key_participants": [
+        "men"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 770,
+      "subtags": [
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "For The Island with Bear Grylls viewers, Ross being swept out and Barney dragging him back is one of the clearest examples of the men\u2019s island crossing from experiment to real physical peril. It reinforces a series-long truth of the show: food runs and basic tasks repeatedly become near-fatal gambles.",
+      "emotional_intensity": 10,
+      "end_sec": 1743,
+      "feed_headline": "Barney Rescues Ross",
+      "jockey_reasoning": "This segment captures the instant a risky coastline mission turns into a life-or-death rescue. It\u2019s perfect for danger-head superfans because the payoff is visceral and immediate, with heroics under brutal conditions. Jockey elevated it because in the wider The Island with Bear Grylls corpus, few men\u2019s-island beats communicate the season\u2019s physical jeopardy this cleanly.",
+      "key_participants": [
+        "Barney",
+        "Ross"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1723,
+      "subtags": [
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "In The Island with Bear Grylls, the iguana catch is a cross-episode turning point because the men\u2019s food crisis has been building for ages before this breakthrough lands. Full-run fans read this as the payoff to repeated hunting frustration, hunger confessionals, and the show\u2019s ongoing question of who can actually convert desperation into survival.",
+      "emotional_intensity": 10,
+      "end_sec": 2406,
+      "feed_headline": "Pure Joy and Celebration",
+      "jockey_reasoning": "This clip highlights the men finally landing a major food win after so much failure and starvation talk. It\u2019s a great pull for survival fans and triumph-chasers because the eruption of relief feels fully earned. Jockey pushed it high because across The Island with Bear Grylls, this is one of the men\u2019s island\u2019s most cathartic milestone moments.",
+      "key_participants": [
+        "Barney",
+        "Sam",
+        "iguana"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2395,
+      "subtags": [
+        "screaming",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "The kill matters in The Island with Bear Grylls because the series repeatedly treats food not just as a practical need but as a moral threshold. For returning viewers, this is the men\u2019s hard-line counterpart to the women\u2019s animal-related emotional arc elsewhere in the corpus, showing how the show keeps forcing castaways to confront what survival really demands.",
+      "emotional_intensity": 10,
+      "end_sec": 2560,
+      "feed_headline": "The Kill",
+      "jockey_reasoning": "This segment spotlights the brutal final step after the hunt celebration, turning victory into ethical reality. It works for hardcore survival watchers because it captures the no-romance version of what feeding camp actually requires. Jockey elevated it because across The Island with Bear Grylls, animal-kill moments are rare, defining, and central to the show\u2019s identity.",
+      "key_participants": [
+        "Barney"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2554,
+      "subtags": [
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "On The Island with Bear Grylls, Charlie\u2019s sting sequence is part of the show\u2019s recurring pattern of mundane camp life suddenly becoming medical jeopardy. Series followers recognize this as one more reminder that the island punishes lapses and random bad luck alike, deepening the men\u2019s attrition and fear arc.",
+      "emotional_intensity": 9,
+      "end_sec": 1480,
+      "feed_headline": "A Deadly Reminder",
+      "jockey_reasoning": "This clip highlights how quickly an ordinary camp moment flips into a venom panic with real consequences. It\u2019s strong for danger-focused superfans because the tension escalates from pain to species identification to worst-case thinking. Jockey raised it because the broader The Island with Bear Grylls corpus keeps returning to the thin line between grit and medical crisis.",
+      "key_participants": [
+        "Charlie",
+        "Sam"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1418,
+      "subtags": [
+        "screaming",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "cross_episode_significance": "For The Island with Bear Grylls fans, the men\u2019s first real fire is a huge morale hinge after repeated physical punishment and group strain. Across the series, fire scenes mark whether a camp is merely surviving or finally starting to function, so this payoff lands bigger than a simple task completion.",
+      "emotional_intensity": 10,
+      "end_sec": 1365,
+      "feed_headline": "FIRE!",
+      "jockey_reasoning": "This segment captures the exact second effort flips into celebration and the whole camp explodes with relief. It\u2019s prime feed material for survival wins fans because the emotional release is instant and infectious. Jockey elevated it because throughout The Island with Bear Grylls, fire breakthroughs are some of the most rewatchable, franchise-defining beats.",
+      "key_participants": [
+        "Vic",
+        "Kyle",
+        "Dan"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1350,
+      "subtags": [
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2db-76e7-7f22-b967-4d95befedf7b"
+    },
+    {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "cross_episode_significance": "In The Island with Bear Grylls, this argument is not an isolated spat but the climax of the men\u2019s long-simmering labor, respect, and leadership feud. Full-series viewers know the camp never fully recovers from this kind of rupture, and this scene feeds directly into the departures and bitterness that define the men\u2019s mid-run arc.",
+      "emotional_intensity": 10,
+      "end_sec": 2427,
+      "feed_headline": "The Breaking Point",
+      "jockey_reasoning": "This clip highlights the men\u2019s island finally snapping into an all-out shouting match with no emotional buffer left. It\u2019s perfect for drama addicts because it has grievance receipts, walk-off energy, and real stakes for camp survival. Jockey elevated it because across all of The Island with Bear Grylls here, this is one of the purest expressions of the men\u2019s collapse from team to factions.",
+      "key_participants": [
+        "Paul",
+        "Andy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2400,
+      "subtags": [
+        "screaming",
+        "walkout"
+      ],
+      "jockey_asset_id_raw": "019ec2db-76e7-7f22-b967-4d95befedf7b"
+    },
+    {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "cross_episode_significance": "Joe\u2019s statement matters in The Island with Bear Grylls because attrition is one of the show\u2019s most important season-long scorecards. For invested viewers, this is a key beat in the men\u2019s shrinking-camp storyline, where exhaustion and conflict finally outweigh commitment.",
+      "emotional_intensity": 8,
+      "end_sec": 2630,
+      "feed_headline": "Joe's Final Decision",
+      "jockey_reasoning": "This segment puts the emotional cost of the island into plain language: he\u2019s done, and everyone knows it. It\u2019s strong for fans who track exits and endurance arcs because quit decisions reshape every alliance and workload. Jockey elevated it because The Island with Bear Grylls repeatedly turns departures into major narrative resets, and this is one of the men\u2019s most consequential ones.",
+      "key_participants": [
+        "Joe"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2626,
+      "subtags": [
+        "walkout",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2db-76e7-7f22-b967-4d95befedf7b"
+    },
+    {
+      "asset_id": "6a2dbaa95f48616a1efccf6a",
+      "cross_episode_significance": "Andy announcing he\u2019s leaving lands hard for The Island with Bear Grylls fans because it comes straight out of the season\u2019s ugliest men\u2019s-camp fault lines. Across the series, moments like this show how the social game and the survival game are inseparable, with emotional isolation becoming as destructive as hunger or weather.",
+      "emotional_intensity": 9,
+      "end_sec": 2760,
+      "feed_headline": "Andy's Announcement",
+      "jockey_reasoning": "This clip highlights the moment tension converts into a concrete loss for camp. It\u2019s ideal for viewers who follow character arcs because the emotion isn\u2019t abstract anymore\u2014someone is really done. Jockey elevated it because in the full The Island with Bear Grylls corpus, the men\u2019s island attrition storyline peaks through decisions exactly like this.",
+      "key_participants": [
+        "Andy"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2755,
+      "subtags": [
+        "walkout",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2db-76e7-7f22-b967-4d95befedf7b"
+    },
+    {
+      "asset_id": "6a2dbaa25f48616a1efccf67",
+      "cross_episode_significance": "Paul\u2019s evacuation request is a franchise-style inflection point within The Island with Bear Grylls because it formalizes what earlier conflict scenes only threatened. Fans following the full run see this as the administrative end of the Paul storyline: grievance, alienation, and finally opting out of the experiment.",
+      "emotional_intensity": 8,
+      "end_sec": 309,
+      "feed_headline": "Paul's Final Decision",
+      "jockey_reasoning": "This segment highlights the cold, procedural side of quitting after all the messy emotion. It\u2019s a great clip for arc-watchers because hearing the decision spoken out loud makes the men\u2019s implosion feel final. Jockey elevated it because across The Island with Bear Grylls, departures only really land when the series moves from rant to actual extraction.",
+      "key_participants": [
+        "Paul"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 293,
+      "subtags": [
+        "walkout"
+      ],
+      "jockey_asset_id_raw": "019ec2e5-470d-7ff1-820e-5d4a5a79c81c"
+    },
+    {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "cross_episode_significance": "In The Island with Bear Grylls, Jaime\u2019s snake panic is one of the women\u2019s earliest proof points that the island\u2019s fear factor will be as punishing as the logistics. For season-long viewers, it starts a recurring women\u2019s-island pattern of emotional overload, fragile morale, and the question of who can steady themselves after acute terror.",
+      "emotional_intensity": 9,
+      "end_sec": 660,
+      "feed_headline": "\"I'm Not Sleeping Here\"",
+      "jockey_reasoning": "This segment highlights primal panic taking over before the women\u2019s camp has any emotional cushion built up. It\u2019s ideal for viewers who love raw meltdown TV because the fear is immediate, specific, and contagious. Jockey elevated it because across The Island with Bear Grylls, this is an early cornerstone of the women\u2019s psychological survival story.",
+      "key_participants": [
+        "Jaime"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 621,
+      "subtags": [
+        "screaming",
+        "crying",
+        "walkout",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d5-c4a0-7132-9c2b-8b42376db932"
+    },
+    {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "cross_episode_significance": "First-fire joy matters enormously on The Island with Bear Grylls because the women\u2019s camp spends multiple episodes fighting dehydration, darkness, and morale collapse before earning this release. Series followers read this as one of the women\u2019s earliest true collective wins, a callback point whenever later setbacks threaten to erase progress.",
+      "emotional_intensity": 10,
+      "end_sec": 1124,
+      "feed_headline": "High Morale",
+      "jockey_reasoning": "This clip showcases the women\u2019s camp exploding with joy once the fire finally holds. It\u2019s catnip for survival-win superfans because the celebration feels wildly disproportionate in the best way\u2014exactly what makes reality hardship TV sing. Jockey elevated it because across The Island with Bear Grylls, women\u2019s-camp fire success is one of the most important morale pivots in the whole corpus.",
+      "key_participants": [
+        "group of female characters"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1086,
+      "subtags": [
+        "screaming",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d5-c4a0-7132-9c2b-8b42376db932"
+    },
+    {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "cross_episode_significance": "The beach breakthrough is significant in The Island with Bear Grylls because the women\u2019s storyline keeps returning to navigation misery, blocked routes, and the need to reach viable shoreline resources. Fans tracking the run see this as a foundational relief beat that pays off earlier jungle struggle and foreshadows later water and regrouping storylines.",
+      "emotional_intensity": 9,
+      "end_sec": 2130,
+      "feed_headline": "A Group Dip",
+      "jockey_reasoning": "This segment highlights the women hitting the beach like they\u2019ve escaped prison, with pure release in every movement. It\u2019s a strong feed clip for payoff lovers because the joy reads instantly even without long setup. Jockey elevated it because throughout The Island with Bear Grylls, successful transitions from punishing jungle to usable coast are major survival milestones.",
+      "key_participants": [
+        "female character in light blue shirt",
+        "female character in plaid shirt",
+        "female character in black tank top"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2077,
+      "subtags": [
+        "support_scene",
+        "group_outing"
+      ],
+      "jockey_asset_id_raw": "019ec2d5-c4a0-7132-9c2b-8b42376db932"
+    },
+    {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "cross_episode_significance": "Water discovery is one of the women\u2019s defining season arcs on The Island with Bear Grylls, and this scream of relief lands because the threat has been escalating across episodes. Full-series fans know the show keeps making water the real currency of hope, so finding it always means more than a single resource win.",
+      "emotional_intensity": 10,
+      "end_sec": 2413,
+      "feed_headline": "Water Found!",
+      "jockey_reasoning": "This clip spotlights the exact moment survival panic flips into euphoria. It\u2019s perfect for fans who love essential-need payoffs because no reward on this show feels bigger than drinkable water. Jockey elevated it because across The Island with Bear Grylls, the women\u2019s water crisis is one of the biggest through-lines in the corpus.",
+      "key_participants": [
+        "female character in white shirt"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2412,
+      "subtags": [
+        "screaming"
+      ],
+      "jockey_asset_id_raw": "019ec2d5-c4a0-7132-9c2b-8b42376db932"
+    },
+    {
+      "asset_id": "6a2dbaaa4c3eea0190eb15d3",
+      "cross_episode_significance": "Lauren\u2019s breakdown matters in The Island with Bear Grylls because the women\u2019s story repeatedly circles back to dehydration, doubt, and the fear that the island is stronger than they are. For viewers of the full run, this is one of the purest emotional expressions of the women\u2019s attrition arc before later recoveries and moral tests.",
+      "emotional_intensity": 9,
+      "end_sec": 2788,
+      "feed_headline": "Lauren's Breaking Point",
+      "jockey_reasoning": "This segment highlights the moment exhaustion finally strips away any performance instinct and leaves only despair. It\u2019s a strong clip for emotion-first superfans because the confession is blunt, tearful, and brutally relatable. Jockey elevated it because The Island with Bear Grylls keeps using Lauren as a barometer for how hard the women\u2019s island has become.",
+      "key_participants": [
+        "Lauren"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2774,
+      "subtags": [
+        "crying",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d5-c4a0-7132-9c2b-8b42376db932"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "On The Island with Bear Grylls, realizing they\u2019ve looped back to the start crystallizes the women\u2019s recurring navigation nightmare. Fans following the series know this isn\u2019t just one bad trek\u2014it\u2019s part of the show\u2019s larger women\u2019s-island arc where distance, thirst, and orientation keep conspiring to crush morale.",
+      "emotional_intensity": 9,
+      "end_sec": 766,
+      "feed_headline": "Back to Square One",
+      "jockey_reasoning": "This clip highlights the sickening pivot from hope to defeat when the group realizes all that effort changed nothing. It\u2019s irresistible for survival-frustration fans because the emotional drop is immediate and brutal. Jockey elevated it because across The Island with Bear Grylls, getting lost is one of the women\u2019s most punishing recurring story engines.",
+      "key_participants": [
+        "Lauren",
+        "Georgie"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 708,
+      "subtags": [
+        "screaming",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "Julie\u2019s outburst is meaningful in The Island with Bear Grylls because the women\u2019s camp repeatedly absorbs stress through overwork, wet conditions, and resentment over uneven contribution. Series fans read this as a mid-arc rupture that exposes how domestic labor and camp maintenance become their own survival battlefield.",
+      "emotional_intensity": 9,
+      "end_sec": 933,
+      "feed_headline": "Julie's Frustration Boils Over",
+      "jockey_reasoning": "This segment spotlights women\u2019s-camp frustration turning loud and impossible to smooth over. It\u2019s ideal for drama addicts because the conflict grows straight out of survival labor, not petty filler. Jockey elevated it because throughout The Island with Bear Grylls, camp functionality often breaks down through exactly this kind of accumulated resentment.",
+      "key_participants": [
+        "Julie"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 925,
+      "subtags": [
+        "screaming",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "Chavala\u2019s extended selfie breakdown is one of the women\u2019s key emotional anchor scenes in The Island with Bear Grylls because it bundles every major crisis\u2014no fire, no safe water, missing group members, and fear. For full-run viewers, it\u2019s practically a thesis statement for the women\u2019s most desperate chapter.",
+      "emotional_intensity": 10,
+      "end_sec": 1020,
+      "feed_headline": "Worry for the Missing",
+      "jockey_reasoning": "This clip highlights total systems failure: no food, no water security, no confidence, no calm. It\u2019s premium feed material for emotion-first and survival-stakes viewers because one confessional captures the whole disaster. Jockey elevated it because across The Island with Bear Grylls, few scenes summarize an entire episode arc as cleanly as Chavala does here.",
+      "key_participants": [
+        "Chavala"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 962,
+      "subtags": [
+        "crying",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "This toast matters in The Island with Bear Grylls because water insecurity has been one of the women\u2019s defining long-form storylines. Series followers understand that a celebration like this is not just happiness\u2014it\u2019s the release valve after episodes of thirst, fear, and failed searching.",
+      "emotional_intensity": 10,
+      "end_sec": 1478,
+      "feed_headline": "A Group Celebration",
+      "jockey_reasoning": "This segment highlights the women turning basic hydration into a euphoric communal event. It\u2019s a fantastic clip for payoff lovers because the joy is big, visual, and instantly understandable. Jockey elevated it because across The Island with Bear Grylls, water victories are among the show\u2019s most meaningful recurring triumphs.",
+      "key_participants": [
+        "Vic",
+        "Cassie",
+        "Erika",
+        "Kate",
+        "Georgina"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1465,
+      "subtags": [
+        "champagne_toast",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "Fran fainting is significant within The Island with Bear Grylls because medical collapse is the hard endpoint of the women\u2019s dehydration and overexertion storyline. Fans of the full show see this as proof that the season\u2019s warnings about physical decline are no longer theoretical.",
+      "emotional_intensity": 10,
+      "end_sec": 1860,
+      "feed_headline": "Fran faints!",
+      "jockey_reasoning": "This clip highlights the exact second survival exhaustion becomes a beachside emergency. It\u2019s powerful for viewers who want the highest-stakes reality beats because the panic is immediate and communal. Jockey elevated it because across The Island with Bear Grylls, collapse scenes redefine the seriousness of a season arc in seconds.",
+      "key_participants": [
+        "Fran",
+        "Belinda"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1851,
+      "subtags": [
+        "crying",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "This fedora-clad breakdown matters in The Island with Bear Grylls because it channels the women\u2019s accumulated losses\u2014navigation failure, thirst, and total confidence collapse. For loyal viewers, it\u2019s another key data point in the show\u2019s long-running pattern where being lost becomes psychologically more devastating than the physical trek itself.",
+      "emotional_intensity": 9,
+      "end_sec": 2493,
+      "feed_headline": "Lost and Frustrated",
+      "jockey_reasoning": "This segment highlights a contestant realizing the island has beaten not just her body but her sense of direction and control. It\u2019s excellent for emotional-collapse fans because the language is blunt and the despair is raw. Jockey elevated it because across The Island with Bear Grylls, lost-in-the-jungle scenes become defining only when they break people this openly.",
+      "key_participants": [
+        "female character in hat and black tank top"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2450,
+      "subtags": [
+        "crying",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "The reunion is major in The Island with Bear Grylls because the women\u2019s split-group anxiety and worry for the missing has been threaded through earlier scenes and confessionals. Full-series viewers feel this payoff as a direct answer to an ongoing fear that the island could permanently scatter the group.",
+      "emotional_intensity": 10,
+      "end_sec": 2578,
+      "feed_headline": "Joyful Reunion",
+      "jockey_reasoning": "This clip spotlights the emotional reset that happens the second the women physically reconnect. It\u2019s perfect for viewers who love cathartic payoff because the hugs, tears, and shouting all land at once. Jockey elevated it because in the wider The Island with Bear Grylls corpus, reunion beats are rare and hugely consequential when the season has leaned so hard into separation and panic.",
+      "key_participants": [
+        "female character in hat and black tank top",
+        "women's expedition party"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2567,
+      "subtags": [
+        "crying",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dba780d802ff693544740",
+      "cross_episode_significance": "Kate pleading to go home carries cross-episode weight in The Island with Bear Grylls because homesickness and emotional depletion are constant undercurrents on the women\u2019s island. For committed viewers, this is one of the clearest confessionals showing the survival experiment colliding with family identity and personal limits.",
+      "emotional_intensity": 9,
+      "end_sec": 2686,
+      "feed_headline": "Take Me Home, Please",
+      "jockey_reasoning": "This segment highlights the point where exhaustion stops sounding like fatigue and starts sounding like surrender. It\u2019s a strong clip for emotion-driven superfans because the family pull is universal and devastating. Jockey elevated it because across The Island with Bear Grylls, home-missing confessionals become defining when they feel this stripped down and final.",
+      "key_participants": [
+        "Kate"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2679,
+      "subtags": [
+        "crying",
+        "family_moment",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2df-edf7-7713-a025-22d9951f53ad"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "Fi and Georgie finding water is one of the women\u2019s essential storyline payoffs in The Island with Bear Grylls, answering a prolonged arc of dehydration, weakness, and near collapse. Viewers across the full run know this is the kind of moment the season keeps building toward whenever the women talk about thirst, blacking out, or dwindling hope.",
+      "emotional_intensity": 10,
+      "end_sec": 565,
+      "feed_headline": "Water Found!",
+      "jockey_reasoning": "This clip highlights the women finally locating the one resource that has been haunting their entire arc. It\u2019s a dream clip for survival-payoff fans because the relief is immediate and explosive. Jockey elevated it because across The Island with Bear Grylls, the women\u2019s water search is one of the corpus\u2019s biggest long-term storylines.",
+      "key_participants": [
+        "Fi",
+        "Georgie"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 560,
+      "subtags": [
+        "screaming",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "The jerrycan explosion is one of the defining disaster beats in The Island with Bear Grylls because it turns a survival solution into fresh catastrophe. For series viewers, it\u2019s a brutal reminder of the show\u2019s recurring theme that progress is fragile and a camp can lose safety, morale, and manpower in an instant.",
+      "emotional_intensity": 10,
+      "end_sec": 769,
+      "feed_headline": "Intense Pain",
+      "jockey_reasoning": "This segment highlights a freak accident detonating the women\u2019s momentum and sending Lauren into the sea with burns. It\u2019s ideal for chaos-and-stakes superfans because the tone shifts from routine survival to emergency in seconds. Jockey elevated it because across The Island with Bear Grylls, few moments better capture how the island punishes even attempted ingenuity.",
+      "key_participants": [
+        "Lauren",
+        "Julie",
+        "Belinda",
+        "Fran"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 715,
+      "subtags": [
+        "screaming",
+        "crying",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "Fran\u2019s radio call matters in The Island with Bear Grylls because rescue requests are the formal punctuation marks of the show\u2019s attrition narrative. For returning viewers, this is where the women\u2019s physical breakdown storyline stops being emotional subtext and becomes operational reality.",
+      "emotional_intensity": 9,
+      "end_sec": 1782,
+      "feed_headline": "Fran calls for rescue",
+      "jockey_reasoning": "This clip highlights the grave calm that settles in when someone has to call outward for help. It\u2019s strong for fans who track the survival threshold moments because evacuation language always means the experiment just changed shape. Jockey elevated it because across The Island with Bear Grylls, rescue communications are among the clearest signals of cross-episode consequence.",
+      "key_participants": [
+        "Fran",
+        "Abby"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 1775,
+      "subtags": [
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "Lauren\u2019s breakdown is important in The Island with Bear Grylls because she becomes one of the women\u2019s key emotional narrators for how relentless dehydration and failure feel from inside the experience. Fans of the full series read this as part of the show\u2019s central women\u2019s-arc pattern: brief wins never fully erase the bodily toll.",
+      "emotional_intensity": 9,
+      "end_sec": 2139,
+      "feed_headline": "Lauren's Emotional Breakdown",
+      "jockey_reasoning": "This segment highlights Lauren hitting a point where even self-awareness can\u2019t stop the collapse. It\u2019s prime material for emotion-first viewers because the language is vivid and the hurt is unfiltered. Jockey elevated it because throughout The Island with Bear Grylls, Lauren\u2019s lows help measure the true severity of the women\u2019s season-long survival grind.",
+      "key_participants": [
+        "Lauren"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2125,
+      "subtags": [
+        "crying",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "Jamie refusing involvement matters in The Island with Bear Grylls because the piglet storyline is one of the corpus\u2019s clearest emotional through-lines, transforming companionship into an ethical survival choice. Full-run fans recognize this refusal as the human cost of that arc, not just a reaction shot.",
+      "emotional_intensity": 9,
+      "end_sec": 2465,
+      "feed_headline": "I Don't Want Anything to Do With This",
+      "jockey_reasoning": "This clip highlights the moral recoil at the center of the piglet story. It\u2019s great for superfans who love the show\u2019s hardest emotional dilemmas because the conflict is internal, not performative. Jockey elevated it because across The Island with Bear Grylls, few storylines carry this much callback power and audience memory.",
+      "key_participants": [
+        "Jamie"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2460,
+      "subtags": [
+        "crying",
+        "walkout",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "Lauren linking the piglets to her dog gives The Island with Bear Grylls one of its most memorable emotional callbacks between home life and survival choices. For devoted viewers, this line explains why the piglet arc lands so differently from a normal hunt: the women had folded these animals into camp identity before survival logic overrode attachment.",
+      "emotional_intensity": 10,
+      "end_sec": 2519,
+      "feed_headline": "Reminded of Home",
+      "jockey_reasoning": "This segment highlights the emotional reason the piglet decision hits so hard instead of playing like standard survival TV. It\u2019s a must for heartbreak-driven superfans because home, pets, and deprivation all collide in one confessional. Jockey elevated it because across The Island with Bear Grylls, this is one of the corpus\u2019s most unforgettable humanizing explanations for a major moral turn.",
+      "key_participants": [
+        "Lauren"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2504,
+      "subtags": [
+        "crying",
+        "family_moment",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "The piglet kill is one of the single most defining cross-episode moments in The Island with Bear Grylls because it resolves a long emotional buildup around the women\u2019s bond with the animals and their worsening need for food. Series followers see it as the women\u2019s moral Rubicon, a scene that reframes everything before and after it.",
+      "emotional_intensity": 10,
+      "end_sec": 2582,
+      "feed_headline": "The kill",
+      "jockey_reasoning": "This segment highlights the exact instant sentiment loses to survival necessity. It\u2019s a devastatingly strong clip for high-stakes superfans because the emotional backstory makes the act land much harder than a random hunt. Jockey elevated it because in all of The Island with Bear Grylls represented here, no women\u2019s-island beat has more cross-episode consequence or callback value.",
+      "key_participants": [
+        "Lauren",
+        "Abby",
+        "Georgina Burrell",
+        "Sage"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2577,
+      "subtags": [
+        "crying",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    },
+    {
+      "asset_id": "6a2dbaaaf383f92c3dad9f22",
+      "cross_episode_significance": "The women celebrating fire here matters because The Island with Bear Grylls keeps treating fire as a reset button for camp morale after breakdowns, injuries, and hunger. For fans following the whole run, this celebration hits especially hard because it comes in a chapter otherwise dominated by physical and emotional depletion.",
+      "emotional_intensity": 10,
+      "end_sec": 2187,
+      "feed_headline": "Pure Elation: The Group Celebrates",
+      "jockey_reasoning": "This clip highlights communal joy arriving in a stretch of the women\u2019s arc that badly needs it. It\u2019s excellent for triumph-focused viewers because the contrast with the surrounding misery makes the payoff feel huge. Jockey elevated it because across The Island with Bear Grylls, fire celebrations are some of the cleanest signals that a camp still has fight left.",
+      "key_participants": [
+        "Georgie",
+        "Lauren",
+        "Jill",
+        "Abby"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "The Island with Bear Grylls",
+      "start_sec": 2183,
+      "subtags": [
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d1-3305-74d1-b109-85753d83dffe"
+    }
+  ],
+  "jockey_generated_at": "2026-06-13T22:01:30.676268+00:00"
+}

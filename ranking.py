@@ -35,7 +35,7 @@ DEFAULT_ASSET_IDS = [
     "6a14ddba15649e226a0448c8",
     "6a14ddbbbe7b2161f2b604f0",
 ]
-DEFAULT_COMBINED_MANIFEST_PATH = Path(__file__).resolve().parent / "data" / "feed_manifest.json"
+DEFAULT_COMBINED_MANIFEST_PATH = Path(__file__).resolve().parent / "data" / "rhoslc_feed_manifest.json"
 BASE_URL = "https://api.twelvelabs.io/v1.3"
 DEFAULT_JOCKEY_TOP_N = 30
 JOCKEY_MATCH_TOLERANCE_SEC = 15
@@ -727,15 +727,20 @@ def generate_jockey_top_n_segments(
     asset_manifests: list[dict[str, Any]],
     *,
     top_n: int = DEFAULT_JOCKEY_TOP_N,
+    ks_id: str | None = None,
 ) -> dict[str, Any]:
     """
     Cross-episode top moments via Jockey POST /responses (jockey1.0 + knowledge store).
 
     Taxonomy enums match Pegasus (PRIMARY_CATEGORIES, SUBTAG_ENUM, intensity 0–10).
+    Pass ks_id to override the TL_KS_ID env var (used for multi-show support).
     """
+    resolved_ks_id = ks_id or os.environ.get("TL_KS_ID", "")
+    if not resolved_ks_id:
+        raise ValueError("No KS ID available. Set TL_KS_ID or pass ks_id= explicitly.")
     body = {
         "model": "jockey1.0",
-        "knowledge_store_id": os.environ["TL_KS_ID"],
+        "knowledge_store_id": resolved_ks_id,
         "instructions": JOCKEY_INSTRUCTIONS,
         "input": [
             {
@@ -791,11 +796,13 @@ def run_jockey_step(
     manifest_path: Path | str = DEFAULT_COMBINED_MANIFEST_PATH,
     *,
     refresh_api: bool = True,
+    ks_id: str | None = None,
 ) -> Path:
     """
     Step 2: Jockey top-N clips → KS asset_id remap → merge jockey_boost onto segments.
 
     Set refresh_api=False to only remap/merge existing jockey_feed_clips (no API call).
+    Pass ks_id to override the TL_KS_ID env var (used for multi-show support).
     """
     path = Path(manifest_path)
     manifest = json.loads(path.read_text(encoding="utf-8"))
@@ -812,7 +819,7 @@ def run_jockey_step(
 
     if refresh_api or not manifest.get("jockey_feed_clips"):
         print("Step 2: Jockey cross-episode top moments (API)...", flush=True)
-        jockey_payload = generate_jockey_top_n_segments([])
+        jockey_payload = generate_jockey_top_n_segments([], ks_id=ks_id)
         feed_clips_raw = jockey_payload.get("feed_clips", [])
         if jockey_payload.get("show_name"):
             manifest["show_name"] = jockey_payload["show_name"]
@@ -826,7 +833,8 @@ def run_jockey_step(
 
     apply_manifest_show_name(manifest["segments"], manifest.get("show_name"))
 
-    feed_clips, map_stats = resolve_jockey_feed_clips(feed_clips_raw)
+    # Pass ks_id so the lookup fetches from the correct show's KS (not the legacy TL_KS_ID)
+    feed_clips, map_stats = resolve_jockey_feed_clips(feed_clips_raw, ks_id=ks_id)
     print(f"  KS asset map: {map_stats}", flush=True)
 
     manifest["jockey_feed_clips"] = feed_clips
@@ -891,10 +899,88 @@ def run_segmentation_step(
 if __name__ == "__main__":
     import sys
 
-    if len(sys.argv) > 1 and sys.argv[1] == "jockey":
-        merge_only = "--merge-only" in sys.argv
-        run_jockey_step(refresh_api=not merge_only)
-    elif len(sys.argv) > 1 and sys.argv[1] == "segment":
-        run_segmentation_step()
+    # ── Per-show asset IDs and manifest paths ─────────────────────────────────
+    # Index IDs are in app/lib/shows.ts; asset IDs come from `list_index_assets.py`.
+    # Run `python scripts/list_index_assets.py <show>` to get updated asset IDs.
+    SHOW_ASSET_IDS: dict[str, list[str]] = {
+        "rhoslc": DEFAULT_ASSET_IDS,
+        "kn": [
+            "6a2dbc155f48616a1efccfa1",
+            "6a2dbc135f48616a1efccf9d",
+            "6a2dbc12363f9692ab3286cf",
+            "6a2dbc10f383f92c3dad9f46",
+        ],
+        "tiwbg": [
+            "6a2dbaaaf383f92c3dad9f22",
+            "6a2dbaaa4c3eea0190eb15d3",
+            "6a2dbaa95f48616a1efccf6a",
+            "6a2dba780d802ff693544740",
+            "6a2dbaa25f48616a1efccf67",
+        ],
+    }
+
+    SHOW_MANIFEST_PATHS: dict[str, Path] = {
+        "rhoslc": Path(__file__).resolve().parent / "data" / "rhoslc_feed_manifest.json",
+        "kn":     Path(__file__).resolve().parent / "data" / "kn_feed_manifest.json",
+        "tiwbg":  Path(__file__).resolve().parent / "data" / "tiwbg_feed_manifest.json",
+    }
+
+    # KS IDs read from .env per show (set by pre-processing/knowledge_store.py)
+    SHOW_KS_ENV_KEYS: dict[str, str] = {
+        "rhoslc": "TL_KS_ID_RHOSLC",
+        "kn":     "TL_KS_ID_KN",
+        "tiwbg":  "TL_KS_ID_TIWBG",
+    }
+
+    # ── Parse args: python ranking.py <command> [show] [--merge-only] ─────────
+    args = sys.argv[1:]
+    command = args[0] if args else "rank"
+
+    # Show arg can be positional second arg, e.g. `python ranking.py jockey kn`
+    show = None
+    for a in args[1:]:
+        if a in SHOW_MANIFEST_PATHS:
+            show = a
+            break
+
+    merge_only = "--merge-only" in args
+
+    if show:
+        manifest_path = SHOW_MANIFEST_PATHS[show]
+        asset_ids = SHOW_ASSET_IDS.get(show, [])
+        ks_env_key = SHOW_KS_ENV_KEYS.get(show, "TL_KS_ID")
+        ks_id = os.environ.get(ks_env_key, "").strip() or os.environ.get("TL_KS_ID", "").strip()
+        print(f"[INFO] Show: {show}", flush=True)
+        print(f"[INFO] Manifest: {manifest_path}", flush=True)
+        print(f"[INFO] KS ID ({ks_env_key}): {ks_id or '(not set)'}", flush=True)
+    else:
+        # Legacy: default to rhoslc
+        manifest_path = DEFAULT_COMBINED_MANIFEST_PATH
+        asset_ids = DEFAULT_ASSET_IDS
+        ks_id = os.environ.get("TL_KS_ID", "").strip()
+        print("[INFO] No show specified — defaulting to rhoslc", flush=True)
+
+    if command == "jockey":
+        if not ks_id:
+            print(
+                f"[ERROR] KS ID not set. Run `python pre-processing/knowledge_store.py {show or 'rhoslc'}` first.",
+                file=sys.stderr,
+                flush=True,
+            )
+            sys.exit(1)
+        run_jockey_step(manifest_path, refresh_api=not merge_only, ks_id=ks_id)
+
+    elif command == "segment":
+        if show and not asset_ids:
+            print(
+                f"[ERROR] No asset IDs configured for show '{show}'.\n"
+                f"  Run: python scripts/list_index_assets.py {show}\n"
+                f"  Then paste the IDs into SHOW_ASSET_IDS['{show}'] in ranking.py",
+                file=sys.stderr,
+                flush=True,
+            )
+            sys.exit(1)
+        run_segmentation_step(asset_ids=asset_ids or None, manifest_path=manifest_path)
+
     else:
         main()

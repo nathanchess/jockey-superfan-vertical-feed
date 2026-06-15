@@ -1,0 +1,2959 @@
+{
+  "generated_at": "2026-06-13T21:54:25.135143+00:00",
+  "asset_ids": [
+    "6a2dbc155f48616a1efccfa1",
+    "6a2dbc135f48616a1efccf9d",
+    "6a2dbc12363f9692ab3286cf",
+    "6a2dbc10f383f92c3dad9f46"
+  ],
+  "by_asset_id": {
+    "6a2dbc155f48616a1efccfa1": {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "task_id": "6a2dcdf0363f9692ab3289c0",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbc15_seg_0000",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 45,
+          "end_sec": 74,
+          "duration_sec": 29,
+          "description": "Gordon Ramsay discovers appalling hygiene issues in the restaurant's basement, including rotting vegetables and old jars. He explodes in anger, yelling at the owners Manny and Christina, and demands they close the restaurant immediately.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Gordon Ramsay's explosive reaction to discovering rotting food and unsanitary conditions in the restaurant's basement. The sheer level of disgust and the demand to shut down the business makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Ramsay Finds Rotting Food and Demands They Close!",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Manny",
+            "Christina",
+            "Evelyn"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc15_seg_0001",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 798,
+          "end_sec": 849,
+          "duration_sec": 51,
+          "description": "Gordon Ramsay tastes the restaurant's traditional Greek sausage, Loukaniko, and is horrified by the greasy, deep-fried result. He compares it to a 'dog tube' and tells the server Irene it tastes like grease, not Greece.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Gordon Ramsay's brutal critique of the restaurant's signature Greek sausage, which he finds disgusting and greasy. His vivid comparisons and the server's embarrassed reaction make for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Ramsay Calls Greek Sausage a 'Dog Tube'!",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Irene"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "food_critique",
+            "drama"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc15_seg_0002",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 1345,
+          "end_sec": 1378,
+          "duration_sec": 33,
+          "description": "Gordon Ramsay descends into the restaurant's basement and is shocked by the filth. He finds a dirty fridge, raw meat stored improperly, and jars of fake caviar that are eight years old. He yells that the place is a 'hellhole' and that they are poisoning Queens.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the most shocking discovery of the episode: eight-year-old jars of fake caviar and raw meat stored in a filthy basement. Ramsay's absolute fury and the owners' denial make for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Ramsay Finds 8-Year-Old Fake Caviar!",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Manny",
+            "Christina",
+            "Evelyn"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "kitchen_chaos",
+            "drama"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc15_seg_0003",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 1990,
+          "end_sec": 2021,
+          "duration_sec": 31,
+          "description": "Gordon Ramsay reveals the completely transformed interior of Kati Allo to the owners and their family. The drab, depressing space has been replaced with a bright, authentic Greek-themed design. The family is overcome with emotion, crying and hugging in disbelief.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional reveal of the restaurant's stunning new interior design. The owners' tearful reactions and the dramatic transformation from the original state make for a great clip for romance and drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Owners Cry Tears of Joy at New Restaurant Reveal!",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Manny",
+            "Christina",
+            "Evelyn"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "transformation",
+            "reunion"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc15_seg_0004",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 2130,
+          "end_sec": 2176,
+          "duration_sec": 46,
+          "description": "Gordon Ramsay unveils a long table filled with beautifully plated dishes from the new menu. He presents each dish, including red pepper hummus, gyro, and various kebabs, to the owners and staff, who are visibly excited and emotional.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the reveal of the new, high-quality menu designed by Gordon Ramsay. The visual feast and the owners' excitement about the new direction make for a great clip for food and drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Ramsay Unveils a Stunning New Menu!",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Manny",
+            "Christina",
+            "Evelyn"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "food_reveal",
+            "celebration"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc15_seg_0005",
+          "asset_id": "6a2dbc155f48616a1efccfa1",
+          "start_sec": 2528,
+          "end_sec": 2575,
+          "duration_sec": 47,
+          "description": "In the weeks following the intervention, the restaurant is shown thriving with happy customers. Manny and Christina are working together harmoniously in the kitchen, and Manny expresses his gratitude to Gordon Ramsay for saving their restaurant and their marriage.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the successful outcome of the intervention, showing the family reunited and the restaurant running smoothly. The emotional testimony from Manny about saving their marriage makes for a great clip for romance and drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Family Reunited and Restaurant Thriving!",
+          "key_participants": [
+            "Manny",
+            "Christina",
+            "Evelyn"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "reunion",
+            "success"
+          ]
+        }
+      ],
+      "raw_segment_count": 6,
+      "usage": {
+        "output_tokens": 1599,
+        "input_tokens": 157112
+      }
+    },
+    "6a2dbc135f48616a1efccf9d": {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "task_id": "6a2dcebb4c3eea0190eb18bb",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbc13_seg_0000",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 340,
+          "end_sec": 370,
+          "duration_sec": 30,
+          "description": "Samy, the owner of Amy's Baking Company, explodes in a rage at a customer who is waiting for his pizza. He uses profanity, tells the customer to 'fuck off,' and physically pushes him out of the restaurant while Amy watches.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the infamous moment Samy physically ejects a customer from his restaurant, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Samy Physically Throws Customer Out of Restaurant",
+          "key_participants": [
+            "Samy",
+            "Amy",
+            "Customer"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "rage",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0001",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 433,
+          "end_sec": 463,
+          "duration_sec": 30,
+          "description": "Gordon Ramsay confronts the owners about their policy of stealing tips from their staff. He learns that waitress Miranda has not received a single cent in tips, leading to a tense and shocking revelation.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the shocking revelation that the owners are stealing tips from their staff, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Gordon Ramsay Discovers Owners Stealing Staff Tips",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Amy",
+            "Samy",
+            "Miranda"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "shock",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0002",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 547,
+          "end_sec": 577,
+          "duration_sec": 30,
+          "description": "Gordon Ramsay confronts Amy in the kitchen about using store-bought frozen ravioli. Amy becomes defensive and angry, denying the quality of the food and refusing to accept any criticism.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Amy's explosive reaction to Gordon's criticism of her frozen ravioli, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Amy Explodes Over Gordon's Ravioli Criticism",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Amy"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "rage",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0003",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 623,
+          "end_sec": 653,
+          "duration_sec": 30,
+          "description": "Amy loses her temper with a young food runner named Katie, firing her on the spot for asking a question. Amy yells at Katie to stop crying and tells her to leave, while Samy tries to intervene.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights Amy firing a young employee for asking a simple question, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Amy Fires Employee for Asking a Question",
+          "key_participants": [
+            "Amy",
+            "Samy",
+            "Katie"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "rage",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0004",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 755,
+          "end_sec": 776,
+          "duration_sec": 21,
+          "description": "Gordon Ramsay makes the unprecedented decision to walk away from the restaurant, telling Amy and Samy that they are too far gone to be helped. He leaves the restaurant, marking a historic moment for the show.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the historic moment Gordon Ramsay walks away from a restaurant for the first time, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Gordon Ramsay Walks Away from Restaurant for First Time",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Amy",
+            "Samy"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "shock",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0005",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 1977,
+          "end_sec": 2007,
+          "duration_sec": 30,
+          "description": "A reporter attempts to interview Samy and Amy at their restaurant. Samy becomes hostile, demanding money from the show and accusing them of trying to 'bury him alive.'",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Samy's hostile reaction to a reporter, demanding money and accusing the show of sabotage, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Samy Demands Money from Kitchen Nightmares Reporter",
+          "key_participants": [
+            "Samy",
+            "Amy",
+            "Ana Garcia"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "rage",
+            "viral_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc13_seg_0006",
+          "asset_id": "6a2dbc135f48616a1efccf9d",
+          "start_sec": 2052,
+          "end_sec": 2082,
+          "duration_sec": 30,
+          "description": "Amy becomes enraged during an interview, yelling at Gordon Ramsay and calling him a 'pansy' and a 'eunuch.' She claims he is jealous of her and refuses to accept any criticism of her restaurant.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights Amy's explosive rant against Gordon Ramsay, calling him names and refusing to accept criticism, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+          "feed_headline": "Amy Calls Gordon Ramsay a Pansy and Eunuch",
+          "key_participants": [
+            "Amy",
+            "Samy",
+            "Ana Garcia"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "rage",
+            "viral_moments"
+          ]
+        }
+      ],
+      "raw_segment_count": 7,
+      "usage": {
+        "output_tokens": 1723,
+        "input_tokens": 149607
+      }
+    },
+    "6a2dbc12363f9692ab3286cf": {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "task_id": "6a2dcfdb0d802ff693544a50",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbc12_seg_0000",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 262,
+          "end_sec": 293,
+          "duration_sec": 31,
+          "description": "Gordon Ramsay enters the restaurant and is immediately confronted by a full-body mannequin named Fiona in the entryway. He expresses shock and disbelief, jokingly interacting with the mannequin while the owner, Randy, looks on.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights Gordon Ramsay's iconic first impression of a restaurant, which is immediately marred by a bizarre mannequin in the entryway. The awkward interaction and Ramsay's deadpan humor make it a perfect clip for fans of the show's most memorable and strange moments.",
+          "feed_headline": "Gordon Ramsay Meets 'Fiona' the Mannequin",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "awkward_encounters",
+            "quirky_decor"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0001",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 331,
+          "end_sec": 355,
+          "duration_sec": 24,
+          "description": "Gordon Ramsay attempts to move the mannequin, Fiona, out of the way, but accidentally breaks her arm. He and Randy struggle to carry the broken mannequin, leading to a moment of pure chaos and humor.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a moment of physical comedy where Gordon Ramsay accidentally breaks the restaurant's prized mannequin. The struggle to carry the broken figure is a classic Ramsay moment that fans of awkward and funny clips will love.",
+          "feed_headline": "Gordon Ramsay Breaks the Mannequin",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "physical_comedy",
+            "awkward_encounters"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0002",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 649,
+          "end_sec": 688,
+          "duration_sec": 39,
+          "description": "Gordon Ramsay is served the New Orleans Barbecue Shrimp. He is immediately repulsed by the strange cream-based barbecue sauce and the tough texture of the shrimp, delivering a scathing critique.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Gordon Ramsay's brutal food critique of a bizarre 'barbecue cream sauce.' His disgust and the server's nervous reaction create a high-intensity moment perfect for fans of the show's most dramatic food reveals.",
+          "feed_headline": "Ramsay's Reaction to Barbecue Cream Sauce",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Kristen"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "food_critique",
+            "bad_food"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0003",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1095,
+          "end_sec": 1129,
+          "duration_sec": 34,
+          "description": "Gordon Ramsay lifts the cushion of a dining room sofa and discovers a shocking amount of filth, including old candy wrappers and a used tissue. He confronts the owner, Randy, about the disgusting state of the furniture.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights one of the most shocking hygiene reveals in the series, as Gordon Ramsay finds years of accumulated trash under a sofa cushion. The owner's nonchalant reaction adds to the drama, making it a must-see for fans of the show's dirtiest moments.",
+          "feed_headline": "Gordon Finds Trash Under the Sofa",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "filthy_conditions",
+            "shocking_reveal"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0004",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1317,
+          "end_sec": 1339,
+          "duration_sec": 22,
+          "description": "Gordon Ramsay discovers a dead rat in a utility closet next to the kitchen. He holds up the carcass in disgust, confronting the owner about the severe pest problem and lack of cleanliness.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights a truly horrifying discovery as Gordon Ramsay finds a dead rat in the restaurant's back room. The visual shock and Ramsay's disgusted reaction make this a top-tier clip for fans of the show's most extreme hygiene failures.",
+          "feed_headline": "Gordon Ramsay Finds a Dead Rat",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "filthy_conditions",
+            "shocking_reveal"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0005",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1404,
+          "end_sec": 1433,
+          "duration_sec": 29,
+          "description": "Gordon Ramsay inspects the walk-in fridge and finds it filled with rotting, cross-contaminated food. He discovers raw chicken next to cooked meat and a bloody leg of lamb, leading to an explosive confrontation.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the most critical food safety violations Gordon Ramsay has ever seen, as he uncovers a walk-in fridge filled with rotting and cross-contaminated ingredients. The sheer scale of the disaster makes it a defining moment for fans of the show's most intense confrontations.",
+          "feed_headline": "Ramsay Discovers Rotting Food in Fridge",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy",
+            "Alexa"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "filthy_conditions",
+            "food_safety_violations"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0006",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1666,
+          "end_sec": 1696,
+          "duration_sec": 30,
+          "description": "After discovering the horrific state of the kitchen, Gordon Ramsay makes the executive decision to shut down the restaurant immediately. He orders the staff to stop serving food and clear the dining room.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights the ultimate consequence of the restaurant's filth: an immediate shutdown by Gordon Ramsay. The high-stakes decision and the owners' shocked reactions create a powerful and dramatic moment for fans of the show's most critical turning points.",
+          "feed_headline": "Gordon Ramsay Shuts Down the Restaurant",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy",
+            "Alexa",
+            "Wiley"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "restaurant_closure",
+            "high_stakes"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0007",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1723,
+          "end_sec": 1752,
+          "duration_sec": 29,
+          "description": "Gordon Ramsay delivers a blistering rant to the owners, Alexa and Randy, listing every single failure of their restaurant, from the filth to the mannequin. The owners are visibly devastated and begin to cry.",
+          "emotional_intensity": 10,
+          "explanation": "This segment highlights one of Gordon Ramsay's most famous and brutal rants, where he lays out every single problem with the restaurant. The emotional impact on the owners and the sheer intensity of the confrontation make it a legendary clip for fans of the show's most dramatic moments.",
+          "feed_headline": "Gordon Ramsay's Most Brutal Rant",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Alexa",
+            "Randy"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "emotional_breakdown",
+            "intense_argument"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0008",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 1993,
+          "end_sec": 2033,
+          "duration_sec": 40,
+          "description": "Gordon Ramsay forces the owner, Randy, to confront his hoarding problem by bringing a garbage truck to the restaurant. Randy is forced to throw away decades of junk, including an accordion and a vintage scalp treatment certificate.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights a pivotal moment of transformation as the owner is forced to let go of his hoarded possessions. The emotional struggle and the sheer volume of junk make it a powerful and memorable clip for fans of the show's most dramatic makeovers.",
+          "feed_headline": "Randy Forced to Throw Away His Hoard",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy",
+            "Alexa"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "transformation",
+            "letting_go"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0009",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 2116,
+          "end_sec": 2143,
+          "duration_sec": 27,
+          "description": "Gordon Ramsay brings out the mannequin, Fiona, one last time and throws her into the garbage truck. The staff and owners watch in a mix of shock and amusement as the mannequin is crushed.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights the final fate of the restaurant's most bizarre decoration, Fiona the mannequin. The dramatic and slightly humorous destruction of the mannequin provides a satisfying conclusion to one of the show's strangest storylines.",
+          "feed_headline": "Fiona the Mannequin Gets Crushed",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Randy",
+            "Alexa"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "quirky_decor",
+            "transformation"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0010",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 2159,
+          "end_sec": 2187,
+          "duration_sec": 28,
+          "description": "Gordon Ramsay reveals the completely renovated kitchen to the owners. The new, clean, and modern equipment leaves Alexa in tears of joy as she realizes the massive improvement.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional reveal of the new kitchen, a stark contrast to the filth seen earlier. The owner's tearful reaction to the transformation is a heartwarming and powerful moment for fans of the show's most successful makeovers.",
+          "feed_headline": "Owners Cry Over New Kitchen Reveal",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Alexa",
+            "Randy"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "transformation",
+            "new_equipment"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0011",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 2283,
+          "end_sec": 2318,
+          "duration_sec": 35,
+          "description": "Gordon Ramsay reveals the completely transformed dining room to the staff and owners. The new, modern decor and reupholstered booths leave everyone in awe and disbelief.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the dramatic reveal of the new dining room, showcasing the full extent of the restaurant's transformation. The staff's and owners' shocked and joyful reactions make it a perfect clip for fans of the show's most impressive makeovers.",
+          "feed_headline": "The Restaurant's Stunning New Look Revealed",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Alexa",
+            "Randy",
+            "Staff"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "transformation",
+            "new_decor"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc12_seg_0012",
+          "asset_id": "6a2dbc12363f9692ab3286cf",
+          "start_sec": 2474,
+          "end_sec": 2508,
+          "duration_sec": 34,
+          "description": "After a successful first night with the new menu and kitchen, Gordon Ramsay congratulates the team. He praises Alexa for finally taking control of the kitchen, and they share an emotional hug.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the emotional payoff of the restaurant's transformation, as the team celebrates their first successful night. The heartfelt congratulations and hug between Gordon and Alexa provide a satisfying and uplifting conclusion to the episode.",
+          "feed_headline": "Gordon Ramsay Congratulates the Team",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Alexa",
+            "Randy",
+            "Staff"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "success",
+            "gratitude"
+          ]
+        }
+      ],
+      "raw_segment_count": 13,
+      "usage": {
+        "output_tokens": 3305,
+        "input_tokens": 159170
+      }
+    },
+    "6a2dbc10f383f92c3dad9f46": {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "task_id": "6a2dd0a10d802ff693544a76",
+      "status": "ready",
+      "segments": [
+        {
+          "segment_id": "6a2dbc10_seg_0000",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 19,
+          "end_sec": 47,
+          "duration_sec": 28,
+          "description": "Gordon Ramsay confronts owner Pete at Pantaleone's, who claims his pizza is the best in Denver despite Ramsay's disgust. The segment highlights the tension between Ramsay's professional critique and Pete's stubborn denial, set against the backdrop of a cluttered kitchen and dated decor.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the explosive clash between Gordon Ramsay and a stubborn restaurant owner who refuses to accept criticism. The high-stakes confrontation and Ramsay's signature outrage make it a must-watch for drama fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay vs. Stubborn Owner: The Ultimate Kitchen Clash",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0001",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 76,
+          "end_sec": 100,
+          "duration_sec": 24,
+          "description": "Gordon Ramsay is served a massive, greasy sausage pizza at Pantaleone's. He reacts with visible disgust, covering his face and calling the food appalling. The scene captures the moment Ramsay realizes the severity of the restaurant's decline.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Gordon Ramsay's visceral reaction to a poorly made pizza, showcasing his no-nonsense approach to food quality. The dramatic reveal of the 'pizza that ate Denver' is a classic moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Disgust Over Massive Greasy Pizza",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Waitress"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "food_critique"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0002",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 725,
+          "end_sec": 748,
+          "duration_sec": 23,
+          "description": "Gordon Ramsay discovers a creepy, green-tinted clown picture hanging in the dining room. He expresses his fear and confusion, while the owner Paulette reveals it's been there for 15 years. The scene is a mix of horror and humor as Ramsay questions the decor choice.",
+          "emotional_intensity": 6,
+          "explanation": "This segment highlights the bizarre and unsettling decor of Pantaleone's, featuring a creepy clown picture that freaks out Gordon Ramsay. The awkward interaction and Ramsay's genuine fear make it a memorable moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay Freaks Out Over Creepy Clown Picture",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Paulette"
+          ],
+          "primary_category": "humor_awkward",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "awkward_moments",
+            "restaurant_decor"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0003",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 852,
+          "end_sec": 888,
+          "duration_sec": 36,
+          "description": "Gordon Ramsay is served an enormous sausage pizza that he dubs 'the pizza that ate Denver.' He pulls a slice, revealing it's dripping with grease and oil. Ramsay's disgusted reaction and the sheer size of the pizza create a dramatic and memorable moment.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the absurdity of Pantaleone's pizza portions and quality, as Gordon Ramsay is served a greasy, oversized pie. The dramatic presentation and Ramsay's critique make it a standout clip for fans of Kitchen Nightmares.",
+          "feed_headline": "The Pizza That Ate Denver: Ramsay's Greasy Nightmare",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Paulette",
+            "Waitress"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "food_critique"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0004",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 978,
+          "end_sec": 1014,
+          "duration_sec": 36,
+          "description": "Gordon Ramsay is served a meatball hero sandwich that he finds visually unappealing and soggy. He cuts into it, revealing a messy filling, and compares it to a sloppy joe. The scene captures Ramsay's frustration with the restaurant's lack of culinary standards.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Gordon Ramsay's scathing critique of a soggy meatball hero, showcasing his high standards for food presentation and taste. The dramatic reveal of the sandwich's poor quality is a classic moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Soggy Meatball Hero Disaster",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Waitress"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "food_critique"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0005",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1093,
+          "end_sec": 1138,
+          "duration_sec": 45,
+          "description": "Gordon Ramsay is served linguine with clams that he finds bland and watery. He pours the excess liquid into a glass, comparing it to urine. The scene captures Ramsay's disgust and the family's shocked reactions to his harsh critique.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Gordon Ramsay's infamous 'urine' comment about a watery pasta dish, showcasing his unfiltered and dramatic style. The shocking comparison and the family's reactions make it a must-watch for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Urine Comment: The Pasta Disaster",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Paulette",
+            "Waitress"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "food_critique"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0006",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1193,
+          "end_sec": 1228,
+          "duration_sec": 35,
+          "description": "Gordon Ramsay confronts the Pantaleone family about the dreadful quality of their food, specifically the canned clams. Pete stubbornly disagrees, leading to a heated argument. The scene captures the family's dysfunction and Ramsay's frustration.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the intense confrontation between Gordon Ramsay and the Pantaleone family over the use of canned clams. The heated argument and Ramsay's demand for honesty make it a dramatic moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay vs. Pete: The Canned Clam Showdown",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0007",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1300,
+          "end_sec": 1332,
+          "duration_sec": 32,
+          "description": "Gordon Ramsay tells Pete he is in denial and sinking the business. Pete storms out, and Ramsay follows, continuing the confrontation. The scene captures the emotional toll of the restaurant's failure on the family.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the emotional confrontation between Gordon Ramsay and Pete, as Ramsay accuses him of sinking the business. The dramatic exit and continued argument make it a powerful moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay Tells Pete He's Sinking the Business",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0008",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1374,
+          "end_sec": 1405,
+          "duration_sec": 31,
+          "description": "Pete and Josh sit outside the restaurant, smoking and discussing the day's events. Pete admits Ramsay is right about everything, and Josh expresses his frustration. The scene captures the family's realization of their problems.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the emotional moment when Pete admits Gordon Ramsay is right about the restaurant's problems. The family's vulnerability and Josh's frustration make it a poignant moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Pete Admits Ramsay Is Right: A Family Realization",
+          "key_participants": [
+            "Pete",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0009",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1424,
+          "end_sec": 1458,
+          "duration_sec": 34,
+          "description": "Paulette gives Pete an ultimatum, threatening to leave if he doesn't change. Pete remains stubborn, and the family argues outside the restaurant. The scene captures the high stakes and emotional tension within the family.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights the dramatic ultimatum given by Paulette to Pete, as she threatens to leave the family business. The intense argument and emotional stakes make it a must-watch for fans of Kitchen Nightmares.",
+          "feed_headline": "Paulette's Ultimatum: Change or I'm Leaving",
+          "key_participants": [
+            "Paulette",
+            "Pete",
+            "Josh"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "family_drama"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0010",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1508,
+          "end_sec": 1546,
+          "duration_sec": 38,
+          "description": "Gordon Ramsay confronts the Pantaleone family with the results of a pizza taste test. He reveals that their pizza was beaten by a store-bought frozen pizza. The scene captures the family's shock and Ramsay's stern delivery of the news.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the shocking results of a pizza taste test, where Pantaleone's pizza is beaten by a frozen one. The family's disbelief and Ramsay's blunt delivery make it a dramatic moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Pantaleone's Pizza Beaten by Frozen Pizza",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "food_critique"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0011",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1654,
+          "end_sec": 1686,
+          "duration_sec": 32,
+          "description": "Gordon Ramsay confronts Pete about his stubbornness and reliance on outdated reviews. He tells Pete he is miles away from serving Denver's best pizza. The scene captures the intensity of Ramsay's critique and Pete's defensive reaction.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Gordon Ramsay's intense confrontation with Pete, as he calls out his stubbornness and outdated mindset. The dramatic delivery and Pete's reaction make it a powerful moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay Calls Out Pete's Stubbornness",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0012",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1701,
+          "end_sec": 1734,
+          "duration_sec": 33,
+          "description": "Paulette and Josh express their frustration with Pete's refusal to change. Paulette threatens to leave, and Josh admits he's embarrassed to work there. The scene captures the family's desperation and the high stakes of the situation.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the emotional toll of the restaurant's failure on the Pantaleone family, as Paulette and Josh express their frustration with Pete. The family's desperation and Paulette's threat to leave make it a poignant moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Paulette and Josh's Frustration with Pete",
+          "key_participants": [
+            "Paulette",
+            "Josh",
+            "Pete"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0013",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1754,
+          "end_sec": 1789,
+          "duration_sec": 35,
+          "description": "Gordon Ramsay asks Pete if he is committed to change. Pete agrees, and the family expresses their hope for the future. The scene captures the family's tentative commitment to turning things around.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the moment when Pete finally commits to change, after pressure from Gordon Ramsay and his family. The family's hope and Pete's agreement make it a turning point for fans of Kitchen Nightmares.",
+          "feed_headline": "Pete Finally Commits to Change",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0014",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1813,
+          "end_sec": 1848,
+          "duration_sec": 35,
+          "description": "Gordon Ramsay surprises the Pantaleone family by taking them to Rao's in Las Vegas. He explains the importance of family in the restaurant business. The scene captures the family's excitement and Ramsay's gesture of goodwill.",
+          "emotional_intensity": 7,
+          "explanation": "This segment highlights Gordon Ramsay's surprise trip to Rao's in Las Vegas, as he emphasizes the importance of family in the restaurant business. The family's excitement and Ramsay's generosity make it a heartwarming moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay Takes Family to Rao's in Vegas",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0015",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 1872,
+          "end_sec": 1906,
+          "duration_sec": 34,
+          "description": "Gordon Ramsay reveals he has arranged a private jet to take the Pantaleone family to Las Vegas. The family is shocked and overjoyed, and Pete and Josh share a hug. The scene captures the family's emotional reaction to Ramsay's gesture.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the Pantaleone family's emotional reaction to Gordon Ramsay's surprise trip to Las Vegas. The shock and joy of the family, along with Pete and Josh's hug, make it a memorable moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Private Jet Surprise for the Family",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0016",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 2047,
+          "end_sec": 2078,
+          "duration_sec": 31,
+          "description": "Gordon Ramsay reveals the renovated Pantaleone's to the family. They are blindfolded and then see the modern, contemporary design. The scene captures the family's shock and delight at the transformation.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the dramatic reveal of the renovated Pantaleone's, as the family sees the modern design for the first time. The family's shock and delight make it a must-watch moment for fans of Kitchen Nightmares.",
+          "feed_headline": "The Big Reveal: Pantaleone's New Look",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "restaurant_reveal",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0017",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 2174,
+          "end_sec": 2208,
+          "duration_sec": 34,
+          "description": "Gordon Ramsay surprises the Pantaleone family with a new delivery van. The family is overjoyed, and Pete and Josh share a hug. The scene captures the family's gratitude and Ramsay's final gesture of support.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights Gordon Ramsay's final surprise for the Pantaleone family: a new delivery van. The family's joy and gratitude, along with Pete and Josh's hug, make it a heartwarming moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Final Surprise: A New Delivery Van",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "restaurant_reveal",
+            "emotional_moments"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0018",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 2272,
+          "end_sec": 2304,
+          "duration_sec": 32,
+          "description": "The Pantaleone family prepares for relaunch night. The kitchen is busy, and the family works together to serve customers. The scene captures the family's determination to succeed and the high stakes of the relaunch.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the Pantaleone family's preparation for relaunch night, as they work together in the kitchen. The family's determination and the high stakes of the relaunch make it a tense moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Relaunch Night: The Family's Big Moment",
+          "key_participants": [
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0019",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 2375,
+          "end_sec": 2402,
+          "duration_sec": 27,
+          "description": "Gordon Ramsay intervenes during relaunch night, as the kitchen becomes chaotic. He pulls Pete and Josh outside for a pep talk, urging them to focus and work together. The scene captures the high pressure and Ramsay's leadership.",
+          "emotional_intensity": 9,
+          "explanation": "This segment highlights Gordon Ramsay's intervention during a chaotic relaunch night, as he pulls Pete and Josh outside for a pep talk. The high pressure and Ramsay's leadership make it a dramatic moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Pep Talk: Focus and Work Together",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Josh"
+          ],
+          "primary_category": "fights_confrontation",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "drama",
+            "kitchen_chaos"
+          ]
+        },
+        {
+          "segment_id": "6a2dbc10_seg_0020",
+          "asset_id": "6a2dbc10f383f92c3dad9f46",
+          "start_sec": 2466,
+          "end_sec": 2507,
+          "duration_sec": 41,
+          "description": "Gordon Ramsay says goodbye to the Pantaleone family, expressing his hope for their future. The family thanks him, and Pete and Ramsay share a hug. The scene captures the family's gratitude and Ramsay's final words of encouragement.",
+          "emotional_intensity": 8,
+          "explanation": "This segment highlights the emotional goodbye between Gordon Ramsay and the Pantaleone family, as they express their gratitude and hope for the future. The family's thanks and Pete and Ramsay's hug make it a poignant moment for fans of Kitchen Nightmares.",
+          "feed_headline": "Ramsay's Emotional Goodbye to the Family",
+          "key_participants": [
+            "Gordon Ramsay",
+            "Pete",
+            "Paulette",
+            "Josh"
+          ],
+          "primary_category": "emotional_moments",
+          "show_name": "Kitchen Nightmares",
+          "subtags": [
+            "family_drama",
+            "emotional_moments"
+          ]
+        }
+      ],
+      "raw_segment_count": 21,
+      "usage": {
+        "output_tokens": 5463,
+        "input_tokens": 158026
+      }
+    }
+  },
+  "segments": [
+    {
+      "segment_id": "6a2dbc15_seg_0000",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 45,
+      "end_sec": 74,
+      "duration_sec": 29,
+      "description": "Gordon Ramsay discovers appalling hygiene issues in the restaurant's basement, including rotting vegetables and old jars. He explodes in anger, yelling at the owners Manny and Christina, and demands they close the restaurant immediately.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Gordon Ramsay's explosive reaction to discovering rotting food and unsanitary conditions in the restaurant's basement. The sheer level of disgust and the demand to shut down the business makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Ramsay Finds Rotting Food and Demands They Close!",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Manny",
+        "Christina",
+        "Evelyn"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares is full of bad kitchens, but Kati Allo\u2019s spoiled-meat reveal becomes more important because it lands inside a family story already on the brink. In the larger Kitchen Nightmares run, it fuses the two franchise pillars\u2014filth and family damage\u2014into one defining confrontation.",
+      "jockey_reasoning": "This clip shows Gordon confronting Evelyn with evidence of decay she can literally smell, making the denial impossible to maintain. It\u2019s great for viewers who love visceral inspection reveals with immediate emotional fallout. Jockey elevated it because in this Kitchen Nightmares corpus, it\u2019s one of the strongest bridges between unsanitary horror and family heartbreak."
+    },
+    {
+      "segment_id": "6a2dbc15_seg_0001",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 798,
+      "end_sec": 849,
+      "duration_sec": 51,
+      "description": "Gordon Ramsay tastes the restaurant's traditional Greek sausage, Loukaniko, and is horrified by the greasy, deep-fried result. He compares it to a 'dog tube' and tells the server Irene it tastes like grease, not Greece.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Gordon Ramsay's brutal critique of the restaurant's signature Greek sausage, which he finds disgusting and greasy. His vivid comparisons and the server's embarrassed reaction make for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Ramsay Calls Greek Sausage a 'Dog Tube'!",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Irene"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "food_critique",
+        "drama"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc15_seg_0002",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 1345,
+      "end_sec": 1378,
+      "duration_sec": 33,
+      "description": "Gordon Ramsay descends into the restaurant's basement and is shocked by the filth. He finds a dirty fridge, raw meat stored improperly, and jars of fake caviar that are eight years old. He yells that the place is a 'hellhole' and that they are poisoning Queens.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the most shocking discovery of the episode: eight-year-old jars of fake caviar and raw meat stored in a filthy basement. Ramsay's absolute fury and the owners' denial make for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Ramsay Finds 8-Year-Old Fake Caviar!",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Manny",
+        "Christina",
+        "Evelyn"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "kitchen_chaos",
+        "drama"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc15_seg_0003",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 1990,
+      "end_sec": 2021,
+      "duration_sec": 31,
+      "description": "Gordon Ramsay reveals the completely transformed interior of Kati Allo to the owners and their family. The drab, depressing space has been replaced with a bright, authentic Greek-themed design. The family is overcome with emotion, crying and hugging in disbelief.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional reveal of the restaurant's stunning new interior design. The owners' tearful reactions and the dramatic transformation from the original state make for a great clip for romance and drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Owners Cry Tears of Joy at New Restaurant Reveal!",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Manny",
+        "Christina",
+        "Evelyn"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "transformation",
+        "reunion"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc15_seg_0004",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 2130,
+      "end_sec": 2176,
+      "duration_sec": 46,
+      "description": "Gordon Ramsay unveils a long table filled with beautifully plated dishes from the new menu. He presents each dish, including red pepper hummus, gyro, and various kebabs, to the owners and staff, who are visibly excited and emotional.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the reveal of the new, high-quality menu designed by Gordon Ramsay. The visual feast and the owners' excitement about the new direction make for a great clip for food and drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Ramsay Unveils a Stunning New Menu!",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Manny",
+        "Christina",
+        "Evelyn"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "food_reveal",
+        "celebration"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc15_seg_0005",
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "start_sec": 2528,
+      "end_sec": 2575,
+      "duration_sec": 47,
+      "description": "In the weeks following the intervention, the restaurant is shown thriving with happy customers. Manny and Christina are working together harmoniously in the kitchen, and Manny expresses his gratitude to Gordon Ramsay for saving their restaurant and their marriage.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the successful outcome of the intervention, showing the family reunited and the restaurant running smoothly. The emotional testimony from Manny about saving their marriage makes for a great clip for romance and drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Family Reunited and Restaurant Thriving!",
+      "key_participants": [
+        "Manny",
+        "Christina",
+        "Evelyn"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "reunion",
+        "success"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0000",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 340,
+      "end_sec": 370,
+      "duration_sec": 30,
+      "description": "Samy, the owner of Amy's Baking Company, explodes in a rage at a customer who is waiting for his pizza. He uses profanity, tells the customer to 'fuck off,' and physically pushes him out of the restaurant while Amy watches.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the infamous moment Samy physically ejects a customer from his restaurant, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Samy Physically Throws Customer Out of Restaurant",
+      "key_participants": [
+        "Samy",
+        "Amy",
+        "Customer"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "rage",
+        "viral_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0001",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 433,
+      "end_sec": 463,
+      "duration_sec": 30,
+      "description": "Gordon Ramsay confronts the owners about their policy of stealing tips from their staff. He learns that waitress Miranda has not received a single cent in tips, leading to a tense and shocking revelation.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the shocking revelation that the owners are stealing tips from their staff, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Gordon Ramsay Discovers Owners Stealing Staff Tips",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy",
+        "Samy",
+        "Miranda"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "shock",
+        "viral_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares regularly shows staff confiding in Gordon, but the tip revelation at Amy\u2019s Baking Company is one of the biggest trust-bomb moments in this corpus because it immediately recasts the owners as exploitative, not merely incompetent. For Kitchen Nightmares viewers, it\u2019s a lore-level reveal that helps explain why the episode exploded culturally.",
+      "jockey_reasoning": "This segment captures the whisper-to-explosion structure the franchise does so well: one quiet confession detonates the whole room. It\u2019s perfect for viewers who love secrets, receipts, and the moment the real scandal comes into focus. Jockey elevated it because across Kitchen Nightmares here, no hidden workplace fact shifts an episode\u2019s moral center faster."
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0002",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 547,
+      "end_sec": 577,
+      "duration_sec": 30,
+      "description": "Gordon Ramsay confronts Amy in the kitchen about using store-bought frozen ravioli. Amy becomes defensive and angry, denying the quality of the food and refusing to accept any criticism.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Amy's explosive reaction to Gordon's criticism of her frozen ravioli, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Amy Explodes Over Gordon's Ravioli Criticism",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "rage",
+        "viral_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares thrives on owners refusing criticism, and Amy\u2019s frozen-ravioli defense is one of the franchise\u2019s purest examples of that trait calcifying into delusion. For Kitchen Nightmares superfans, this beat connects directly to the show\u2019s recurring question: can Ramsay fix a restaurant if the owner rejects obvious reality?",
+      "jockey_reasoning": "This clip captures Gordon calling out store-bought ravioli and Amy instantly digging in harder. It plays perfectly for quote-moment fans and viewers who love the show\u2019s savage denial-versus-truth battles. Jockey elevated it because across this Kitchen Nightmares collection, it\u2019s one of the sharpest illustrations of an owner making reform impossible."
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0003",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 623,
+      "end_sec": 653,
+      "duration_sec": 30,
+      "description": "Amy loses her temper with a young food runner named Katie, firing her on the spot for asking a question. Amy yells at Katie to stop crying and tells her to leave, while Samy tries to intervene.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights Amy firing a young employee for asking a simple question, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Amy Fires Employee for Asking a Question",
+      "key_participants": [
+        "Amy",
+        "Samy",
+        "Katie"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "rage",
+        "viral_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0004",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 755,
+      "end_sec": 776,
+      "duration_sec": 21,
+      "description": "Gordon Ramsay makes the unprecedented decision to walk away from the restaurant, telling Amy and Samy that they are too far gone to be helped. He leaves the restaurant, marking a historic moment for the show.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the historic moment Gordon Ramsay walks away from a restaurant for the first time, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Gordon Ramsay Walks Away from Restaurant for First Time",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy",
+        "Samy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "shock",
+        "viral_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "In Kitchen Nightmares, Gordon Ramsay almost always pushes through resistance to finish a rescue. This Amy\u2019s Baking Company walkout is the exception superfans remember because it marks the show\u2019s most famous failed intervention in this corpus, turning a standard turnaround episode into a franchise legend about owners who reject help entirely.",
+      "jockey_reasoning": "This segment captures the point where Gordon finally gives up on Amy and Samy after exhausting every normal Kitchen Nightmares playbook. Drama addicts and franchise-lore fans love it because it\u2019s the rare clip where the show\u2019s central promise of redemption fully collapses. Jockey elevated it because across all Kitchen Nightmares episodes in this knowledge store, nothing has bigger series-level significance than the intervention Gordon cannot finish."
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0005",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 1977,
+      "end_sec": 2007,
+      "duration_sec": 30,
+      "description": "A reporter attempts to interview Samy and Amy at their restaurant. Samy becomes hostile, demanding money from the show and accusing them of trying to 'bury him alive.'",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Samy's hostile reaction to a reporter, demanding money and accusing the show of sabotage, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Samy Demands Money from Kitchen Nightmares Reporter",
+      "key_participants": [
+        "Samy",
+        "Amy",
+        "Ana Garcia"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "rage",
+        "viral_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc13_seg_0006",
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "start_sec": 2052,
+      "end_sec": 2082,
+      "duration_sec": 30,
+      "description": "Amy becomes enraged during an interview, yelling at Gordon Ramsay and calling him a 'pansy' and a 'eunuch.' She claims he is jealous of her and refuses to accept any criticism of her restaurant.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights Amy's explosive rant against Gordon Ramsay, calling him names and refusing to accept criticism, which is why it makes for a great clip for drama fans watching Kitchen Nightmares.",
+      "feed_headline": "Amy Calls Gordon Ramsay a Pansy and Eunuch",
+      "key_participants": [
+        "Amy",
+        "Samy",
+        "Ana Garcia"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "rage",
+        "viral_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0000",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 262,
+      "end_sec": 293,
+      "duration_sec": 31,
+      "description": "Gordon Ramsay enters the restaurant and is immediately confronted by a full-body mannequin named Fiona in the entryway. He expresses shock and disbelief, jokingly interacting with the mannequin while the owner, Randy, looks on.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights Gordon Ramsay's iconic first impression of a restaurant, which is immediately marred by a bizarre mannequin in the entryway. The awkward interaction and Ramsay's deadpan humor make it a perfect clip for fans of the show's most memorable and strange moments.",
+      "feed_headline": "Gordon Ramsay Meets 'Fiona' the Mannequin",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "awkward_encounters",
+        "quirky_decor"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0001",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 331,
+      "end_sec": 355,
+      "duration_sec": 24,
+      "description": "Gordon Ramsay attempts to move the mannequin, Fiona, out of the way, but accidentally breaks her arm. He and Randy struggle to carry the broken mannequin, leading to a moment of pure chaos and humor.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a moment of physical comedy where Gordon Ramsay accidentally breaks the restaurant's prized mannequin. The struggle to carry the broken figure is a classic Ramsay moment that fans of awkward and funny clips will love.",
+      "feed_headline": "Gordon Ramsay Breaks the Mannequin",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "physical_comedy",
+        "awkward_encounters"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares thrives on disgust comedy, and Fiona falling apart is a rare moment where the decrepit state of a restaurant becomes visual slapstick. For Kitchen Nightmares fans, it matters because The Old Neighborhood\u2019s decay isn\u2019t just grim\u2014it becomes absurdly, memorably emblematic of a business held together by nothing.",
+      "jockey_reasoning": "This clip highlights the mannequin literally disintegrating in Gordon\u2019s hands, which is both hilarious and damning. It\u2019s ideal for humor-forward superfans who love when the franchise\u2019s disaster aesthetic tips into pure absurdity. Jockey included it because within this Kitchen Nightmares corpus, it\u2019s one of the most shareable visual metaphors for a restaurant collapsing under neglect."
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0002",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 649,
+      "end_sec": 688,
+      "duration_sec": 39,
+      "description": "Gordon Ramsay is served the New Orleans Barbecue Shrimp. He is immediately repulsed by the strange cream-based barbecue sauce and the tough texture of the shrimp, delivering a scathing critique.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Gordon Ramsay's brutal food critique of a bizarre 'barbecue cream sauce.' His disgust and the server's nervous reaction create a high-intensity moment perfect for fans of the show's most dramatic food reveals.",
+      "feed_headline": "Ramsay's Reaction to Barbecue Cream Sauce",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Kristen"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "food_critique",
+        "bad_food"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0003",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1095,
+      "end_sec": 1129,
+      "duration_sec": 34,
+      "description": "Gordon Ramsay lifts the cushion of a dining room sofa and discovers a shocking amount of filth, including old candy wrappers and a used tissue. He confronts the owner, Randy, about the disgusting state of the furniture.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights one of the most shocking hygiene reveals in the series, as Gordon Ramsay finds years of accumulated trash under a sofa cushion. The owner's nonchalant reaction adds to the drama, making it a must-see for fans of the show's dirtiest moments.",
+      "feed_headline": "Gordon Finds Trash Under the Sofa",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "filthy_conditions",
+        "shocking_reveal"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0004",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1317,
+      "end_sec": 1339,
+      "duration_sec": 22,
+      "description": "Gordon Ramsay discovers a dead rat in a utility closet next to the kitchen. He holds up the carcass in disgust, confronting the owner about the severe pest problem and lack of cleanliness.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights a truly horrifying discovery as Gordon Ramsay finds a dead rat in the restaurant's back room. The visual shock and Ramsay's disgusted reaction make this a top-tier clip for fans of the show's most extreme hygiene failures.",
+      "feed_headline": "Gordon Ramsay Finds a Dead Rat",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "filthy_conditions",
+        "shocking_reveal"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares regularly exposes dirt, but Gordon finding a dead mouse at The Old Neighborhood is the kind of contamination reveal that defines an episode in franchise memory. For Kitchen Nightmares viewers, it connects to the show\u2019s recurring sanitation-horror arc while standing out as one of the most extreme proofs that neglect has gone beyond cosmetic dysfunction.",
+      "jockey_reasoning": "This segment highlights the instant the inspection crosses from gross to truly shocking. It\u2019s perfect for gross-out watchers and high-stakes disaster fans because the health risk becomes undeniable on camera. Jockey elevated it because among the Kitchen Nightmares episodes in this corpus, this is one of the strongest single-image symbols of total operational collapse."
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0005",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1404,
+      "end_sec": 1433,
+      "duration_sec": 29,
+      "description": "Gordon Ramsay inspects the walk-in fridge and finds it filled with rotting, cross-contaminated food. He discovers raw chicken next to cooked meat and a bloody leg of lamb, leading to an explosive confrontation.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the most critical food safety violations Gordon Ramsay has ever seen, as he uncovers a walk-in fridge filled with rotting and cross-contaminated ingredients. The sheer scale of the disaster makes it a defining moment for fans of the show's most intense confrontations.",
+      "feed_headline": "Ramsay Discovers Rotting Food in Fridge",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy",
+        "Alexa"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "filthy_conditions",
+        "food_safety_violations"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares loves a rotting-food reveal because it instantly collapses any last pretense of professionalism. In The Old Neighborhood\u2019s case, the rotten meat discovery matters in the larger Kitchen Nightmares run because it confirms this isn\u2019t just about clutter or style\u2014it\u2019s active endangerment.",
+      "jockey_reasoning": "This clip delivers one of the inspection\u2019s hardest hits: the smell alone tells the story before the owners can spin it. It\u2019s irresistible for disgust-horror fans who watch Kitchen Nightmares for its most extreme fridge reveals. Jockey pushed it up because within this corpus, it completes the episode\u2019s pattern of sanitation failures turning from embarrassing to indefensible."
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0006",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1666,
+      "end_sec": 1696,
+      "duration_sec": 30,
+      "description": "After discovering the horrific state of the kitchen, Gordon Ramsay makes the executive decision to shut down the restaurant immediately. He orders the staff to stop serving food and clear the dining room.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights the ultimate consequence of the restaurant's filth: an immediate shutdown by Gordon Ramsay. The high-stakes decision and the owners' shocked reactions create a powerful and dramatic moment for fans of the show's most critical turning points.",
+      "feed_headline": "Gordon Ramsay Shuts Down the Restaurant",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy",
+        "Alexa",
+        "Wiley"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "restaurant_closure",
+        "high_stakes"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0007",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1723,
+      "end_sec": 1752,
+      "duration_sec": 29,
+      "description": "Gordon Ramsay delivers a blistering rant to the owners, Alexa and Randy, listing every single failure of their restaurant, from the filth to the mannequin. The owners are visibly devastated and begin to cry.",
+      "emotional_intensity": 10,
+      "explanation": "This segment highlights one of Gordon Ramsay's most famous and brutal rants, where he lays out every single problem with the restaurant. The emotional impact on the owners and the sheer intensity of the confrontation make it a legendary clip for fans of the show's most dramatic moments.",
+      "feed_headline": "Gordon Ramsay's Most Brutal Rant",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Alexa",
+        "Randy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "emotional_breakdown",
+        "intense_argument"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0008",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 1993,
+      "end_sec": 2033,
+      "duration_sec": 40,
+      "description": "Gordon Ramsay forces the owner, Randy, to confront his hoarding problem by bringing a garbage truck to the restaurant. Randy is forced to throw away decades of junk, including an accordion and a vintage scalp treatment certificate.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights a pivotal moment of transformation as the owner is forced to let go of his hoarded possessions. The emotional struggle and the sheer volume of junk make it a powerful and memorable clip for fans of the show's most dramatic makeovers.",
+      "feed_headline": "Randy Forced to Throw Away His Hoard",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy",
+        "Alexa"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "transformation",
+        "letting_go"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0009",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 2116,
+      "end_sec": 2143,
+      "duration_sec": 27,
+      "description": "Gordon Ramsay brings out the mannequin, Fiona, one last time and throws her into the garbage truck. The staff and owners watch in a mix of shock and amusement as the mannequin is crushed.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights the final fate of the restaurant's most bizarre decoration, Fiona the mannequin. The dramatic and slightly humorous destruction of the mannequin provides a satisfying conclusion to one of the show's strangest storylines.",
+      "feed_headline": "Fiona the Mannequin Gets Crushed",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy",
+        "Alexa"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "quirky_decor",
+        "transformation"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0010",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 2159,
+      "end_sec": 2187,
+      "duration_sec": 28,
+      "description": "Gordon Ramsay reveals the completely renovated kitchen to the owners. The new, clean, and modern equipment leaves Alexa in tears of joy as she realizes the massive improvement.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional reveal of the new kitchen, a stark contrast to the filth seen earlier. The owner's tearful reaction to the transformation is a heartwarming and powerful moment for fans of the show's most successful makeovers.",
+      "feed_headline": "Owners Cry Over New Kitchen Reveal",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Alexa",
+        "Randy"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "transformation",
+        "new_equipment"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0011",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 2283,
+      "end_sec": 2318,
+      "duration_sec": 35,
+      "description": "Gordon Ramsay reveals the completely transformed dining room to the staff and owners. The new, modern decor and reupholstered booths leave everyone in awe and disbelief.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the dramatic reveal of the new dining room, showcasing the full extent of the restaurant's transformation. The staff's and owners' shocked and joyful reactions make it a perfect clip for fans of the show's most impressive makeovers.",
+      "feed_headline": "The Restaurant's Stunning New Look Revealed",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Alexa",
+        "Randy",
+        "Staff"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "transformation",
+        "new_decor"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc12_seg_0012",
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "start_sec": 2474,
+      "end_sec": 2508,
+      "duration_sec": 34,
+      "description": "After a successful first night with the new menu and kitchen, Gordon Ramsay congratulates the team. He praises Alexa for finally taking control of the kitchen, and they share an emotional hug.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the emotional payoff of the restaurant's transformation, as the team celebrates their first successful night. The heartfelt congratulations and hug between Gordon and Alexa provide a satisfying and uplifting conclusion to the episode.",
+      "feed_headline": "Gordon Ramsay Congratulates the Team",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Alexa",
+        "Randy",
+        "Staff"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "success",
+        "gratitude"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0000",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 19,
+      "end_sec": 47,
+      "duration_sec": 28,
+      "description": "Gordon Ramsay confronts owner Pete at Pantaleone's, who claims his pizza is the best in Denver despite Ramsay's disgust. The segment highlights the tension between Ramsay's professional critique and Pete's stubborn denial, set against the backdrop of a cluttered kitchen and dated decor.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the explosive clash between Gordon Ramsay and a stubborn restaurant owner who refuses to accept criticism. The high-stakes confrontation and Ramsay's signature outrage make it a must-watch for drama fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay vs. Stubborn Owner: The Ultimate Kitchen Clash",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0001",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 76,
+      "end_sec": 100,
+      "duration_sec": 24,
+      "description": "Gordon Ramsay is served a massive, greasy sausage pizza at Pantaleone's. He reacts with visible disgust, covering his face and calling the food appalling. The scene captures the moment Ramsay realizes the severity of the restaurant's decline.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Gordon Ramsay's visceral reaction to a poorly made pizza, showcasing his no-nonsense approach to food quality. The dramatic reveal of the 'pizza that ate Denver' is a classic moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Disgust Over Massive Greasy Pizza",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Waitress"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "food_critique"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0002",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 725,
+      "end_sec": 748,
+      "duration_sec": 23,
+      "description": "Gordon Ramsay discovers a creepy, green-tinted clown picture hanging in the dining room. He expresses his fear and confusion, while the owner Paulette reveals it's been there for 15 years. The scene is a mix of horror and humor as Ramsay questions the decor choice.",
+      "emotional_intensity": 6,
+      "explanation": "This segment highlights the bizarre and unsettling decor of Pantaleone's, featuring a creepy clown picture that freaks out Gordon Ramsay. The awkward interaction and Ramsay's genuine fear make it a memorable moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay Freaks Out Over Creepy Clown Picture",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Paulette"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "awkward_moments",
+        "restaurant_decor"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares often uses customer feedback to puncture owner mythology, and the 'cat food' comparison does exactly that at Pantaleone\u2019s. For Kitchen Nightmares fans, it matters because it proves Gordon isn\u2019t the only one rejecting Pete\u2019s standards; the public already has.",
+      "jockey_reasoning": "This clip focuses on a customer saying the sandwich tastes worse than cat food while Gordon visibly registers the damage. It\u2019s a great pick for viewers who love outside validation moments that leave owners nowhere to hide. Jockey elevated it because across this Kitchen Nightmares corpus, third-party feedback often seals the case, and few lines do it this memorably."
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0003",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 852,
+      "end_sec": 888,
+      "duration_sec": 36,
+      "description": "Gordon Ramsay is served an enormous sausage pizza that he dubs 'the pizza that ate Denver.' He pulls a slice, revealing it's dripping with grease and oil. Ramsay's disgusted reaction and the sheer size of the pizza create a dramatic and memorable moment.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the absurdity of Pantaleone's pizza portions and quality, as Gordon Ramsay is served a greasy, oversized pie. The dramatic presentation and Ramsay's critique make it a standout clip for fans of Kitchen Nightmares.",
+      "feed_headline": "The Pizza That Ate Denver: Ramsay's Greasy Nightmare",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Paulette",
+        "Waitress"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "food_critique"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares loves a visual food reveal that instantly becomes the episode\u2019s icon, and Pantaleone\u2019s gigantic greasy pizza is exactly that. For Kitchen Nightmares viewers, this beat matters because it turns Pete\u2019s boast about being the best in Denver into one of the franchise\u2019s most memorable visual own-goals.",
+      "jockey_reasoning": "This clip highlights the ludicrously greasy slice stretching and dripping while Gordon stares in disbelief. It\u2019s made for reaction-shot lovers and fans who want a single image that explains an entire episode\u2019s problem. Jockey elevated it because across this Kitchen Nightmares collection, very few food reveals are as instantly legible and iconic as this pizza."
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0004",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 978,
+      "end_sec": 1014,
+      "duration_sec": 36,
+      "description": "Gordon Ramsay is served a meatball hero sandwich that he finds visually unappealing and soggy. He cuts into it, revealing a messy filling, and compares it to a sloppy joe. The scene captures Ramsay's frustration with the restaurant's lack of culinary standards.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Gordon Ramsay's scathing critique of a soggy meatball hero, showcasing his high standards for food presentation and taste. The dramatic reveal of the sandwich's poor quality is a classic moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Soggy Meatball Hero Disaster",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Waitress"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "food_critique"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares often features owners defending bad food, but Pete literally eating the rejected pizza to prove a point is an extreme expression of that franchise habit. In Kitchen Nightmares terms, it\u2019s a defining denial image because the owner physically performs the delusion Ramsay has been diagnosing all episode.",
+      "jockey_reasoning": "This segment shows Pete doubling down so hard that he takes a bite of the very pizza everyone else knows is a problem. It\u2019s perfect for viewers who love surreal denial, cringe comedy, and owner meltdowns that become instantly memeable. Jockey pushed it up because among these Kitchen Nightmares episodes, this is one of the funniest and saddest visuals of a boss refusing reality."
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0005",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1093,
+      "end_sec": 1138,
+      "duration_sec": 45,
+      "description": "Gordon Ramsay is served linguine with clams that he finds bland and watery. He pours the excess liquid into a glass, comparing it to urine. The scene captures Ramsay's disgust and the family's shocked reactions to his harsh critique.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Gordon Ramsay's infamous 'urine' comment about a watery pasta dish, showcasing his unfiltered and dramatic style. The shocking comparison and the family's reactions make it a must-watch for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Urine Comment: The Pasta Disaster",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Paulette",
+        "Waitress"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "food_critique"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0006",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1193,
+      "end_sec": 1228,
+      "duration_sec": 35,
+      "description": "Gordon Ramsay confronts the Pantaleone family about the dreadful quality of their food, specifically the canned clams. Pete stubbornly disagrees, leading to a heated argument. The scene captures the family's dysfunction and Ramsay's frustration.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the intense confrontation between Gordon Ramsay and the Pantaleone family over the use of canned clams. The heated argument and Ramsay's demand for honesty make it a dramatic moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay vs. Pete: The Canned Clam Showdown",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0007",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1300,
+      "end_sec": 1332,
+      "duration_sec": 32,
+      "description": "Gordon Ramsay tells Pete he is in denial and sinking the business. Pete storms out, and Ramsay follows, continuing the confrontation. The scene captures the emotional toll of the restaurant's failure on the family.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the emotional confrontation between Gordon Ramsay and Pete, as Ramsay accuses him of sinking the business. The dramatic exit and continued argument make it a powerful moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay Tells Pete He's Sinking the Business",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0008",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1374,
+      "end_sec": 1405,
+      "duration_sec": 31,
+      "description": "Pete and Josh sit outside the restaurant, smoking and discussing the day's events. Pete admits Ramsay is right about everything, and Josh expresses his frustration. The scene captures the family's realization of their problems.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the emotional moment when Pete admits Gordon Ramsay is right about the restaurant's problems. The family's vulnerability and Josh's frustration make it a poignant moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Pete Admits Ramsay Is Right: A Family Realization",
+      "key_participants": [
+        "Pete",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ],
+      "jockey_boost": true,
+      "cross_episode_significance": "Kitchen Nightmares episodes often show the family silently agreeing with Ramsay before the owner does, and Josh telling Pete that Gordon is right about everything is exactly that bridge moment. For Kitchen Nightmares viewers, it connects Pantaleone\u2019s to the show\u2019s recurring pattern of children and spouses becoming truth-tellers when the patriarch won\u2019t listen.",
+      "jockey_reasoning": "This clip highlights the son finally siding openly with Ramsay against the family\u2019s old operating myth. It\u2019s compelling for viewers who track generational tension and love when the secondary family members become the episode\u2019s conscience. Jockey elevated it because in this Kitchen Nightmares corpus, these insider truth-teller moments often mark the real turning point more than the shouting does."
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0009",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1424,
+      "end_sec": 1458,
+      "duration_sec": 34,
+      "description": "Paulette gives Pete an ultimatum, threatening to leave if he doesn't change. Pete remains stubborn, and the family argues outside the restaurant. The scene captures the high stakes and emotional tension within the family.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights the dramatic ultimatum given by Paulette to Pete, as she threatens to leave the family business. The intense argument and emotional stakes make it a must-watch for fans of Kitchen Nightmares.",
+      "feed_headline": "Paulette's Ultimatum: Change or I'm Leaving",
+      "key_participants": [
+        "Paulette",
+        "Pete",
+        "Josh"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "family_drama"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0010",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1508,
+      "end_sec": 1546,
+      "duration_sec": 38,
+      "description": "Gordon Ramsay confronts the Pantaleone family with the results of a pizza taste test. He reveals that their pizza was beaten by a store-bought frozen pizza. The scene captures the family's shock and Ramsay's stern delivery of the news.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the shocking results of a pizza taste test, where Pantaleone's pizza is beaten by a frozen one. The family's disbelief and Ramsay's blunt delivery make it a dramatic moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Pantaleone's Pizza Beaten by Frozen Pizza",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "food_critique"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0011",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1654,
+      "end_sec": 1686,
+      "duration_sec": 32,
+      "description": "Gordon Ramsay confronts Pete about his stubbornness and reliance on outdated reviews. He tells Pete he is miles away from serving Denver's best pizza. The scene captures the intensity of Ramsay's critique and Pete's defensive reaction.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Gordon Ramsay's intense confrontation with Pete, as he calls out his stubbornness and outdated mindset. The dramatic delivery and Pete's reaction make it a powerful moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay Calls Out Pete's Stubbornness",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0012",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1701,
+      "end_sec": 1734,
+      "duration_sec": 33,
+      "description": "Paulette and Josh express their frustration with Pete's refusal to change. Paulette threatens to leave, and Josh admits he's embarrassed to work there. The scene captures the family's desperation and the high stakes of the situation.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the emotional toll of the restaurant's failure on the Pantaleone family, as Paulette and Josh express their frustration with Pete. The family's desperation and Paulette's threat to leave make it a poignant moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Paulette and Josh's Frustration with Pete",
+      "key_participants": [
+        "Paulette",
+        "Josh",
+        "Pete"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0013",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1754,
+      "end_sec": 1789,
+      "duration_sec": 35,
+      "description": "Gordon Ramsay asks Pete if he is committed to change. Pete agrees, and the family expresses their hope for the future. The scene captures the family's tentative commitment to turning things around.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the moment when Pete finally commits to change, after pressure from Gordon Ramsay and his family. The family's hope and Pete's agreement make it a turning point for fans of Kitchen Nightmares.",
+      "feed_headline": "Pete Finally Commits to Change",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0014",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1813,
+      "end_sec": 1848,
+      "duration_sec": 35,
+      "description": "Gordon Ramsay surprises the Pantaleone family by taking them to Rao's in Las Vegas. He explains the importance of family in the restaurant business. The scene captures the family's excitement and Ramsay's gesture of goodwill.",
+      "emotional_intensity": 7,
+      "explanation": "This segment highlights Gordon Ramsay's surprise trip to Rao's in Las Vegas, as he emphasizes the importance of family in the restaurant business. The family's excitement and Ramsay's generosity make it a heartwarming moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay Takes Family to Rao's in Vegas",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0015",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 1872,
+      "end_sec": 1906,
+      "duration_sec": 34,
+      "description": "Gordon Ramsay reveals he has arranged a private jet to take the Pantaleone family to Las Vegas. The family is shocked and overjoyed, and Pete and Josh share a hug. The scene captures the family's emotional reaction to Ramsay's gesture.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the Pantaleone family's emotional reaction to Gordon Ramsay's surprise trip to Las Vegas. The shock and joy of the family, along with Pete and Josh's hug, make it a memorable moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Private Jet Surprise for the Family",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0016",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 2047,
+      "end_sec": 2078,
+      "duration_sec": 31,
+      "description": "Gordon Ramsay reveals the renovated Pantaleone's to the family. They are blindfolded and then see the modern, contemporary design. The scene captures the family's shock and delight at the transformation.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the dramatic reveal of the renovated Pantaleone's, as the family sees the modern design for the first time. The family's shock and delight make it a must-watch moment for fans of Kitchen Nightmares.",
+      "feed_headline": "The Big Reveal: Pantaleone's New Look",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "restaurant_reveal",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0017",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 2174,
+      "end_sec": 2208,
+      "duration_sec": 34,
+      "description": "Gordon Ramsay surprises the Pantaleone family with a new delivery van. The family is overjoyed, and Pete and Josh share a hug. The scene captures the family's gratitude and Ramsay's final gesture of support.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights Gordon Ramsay's final surprise for the Pantaleone family: a new delivery van. The family's joy and gratitude, along with Pete and Josh's hug, make it a heartwarming moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Final Surprise: A New Delivery Van",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "restaurant_reveal",
+        "emotional_moments"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0018",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 2272,
+      "end_sec": 2304,
+      "duration_sec": 32,
+      "description": "The Pantaleone family prepares for relaunch night. The kitchen is busy, and the family works together to serve customers. The scene captures the family's determination to succeed and the high stakes of the relaunch.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the Pantaleone family's preparation for relaunch night, as they work together in the kitchen. The family's determination and the high stakes of the relaunch make it a tense moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Relaunch Night: The Family's Big Moment",
+      "key_participants": [
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0019",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 2375,
+      "end_sec": 2402,
+      "duration_sec": 27,
+      "description": "Gordon Ramsay intervenes during relaunch night, as the kitchen becomes chaotic. He pulls Pete and Josh outside for a pep talk, urging them to focus and work together. The scene captures the high pressure and Ramsay's leadership.",
+      "emotional_intensity": 9,
+      "explanation": "This segment highlights Gordon Ramsay's intervention during a chaotic relaunch night, as he pulls Pete and Josh outside for a pep talk. The high pressure and Ramsay's leadership make it a dramatic moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Pep Talk: Focus and Work Together",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Josh"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "drama",
+        "kitchen_chaos"
+      ]
+    },
+    {
+      "segment_id": "6a2dbc10_seg_0020",
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "start_sec": 2466,
+      "end_sec": 2507,
+      "duration_sec": 41,
+      "description": "Gordon Ramsay says goodbye to the Pantaleone family, expressing his hope for their future. The family thanks him, and Pete and Ramsay share a hug. The scene captures the family's gratitude and Ramsay's final words of encouragement.",
+      "emotional_intensity": 8,
+      "explanation": "This segment highlights the emotional goodbye between Gordon Ramsay and the Pantaleone family, as they express their gratitude and hope for the future. The family's thanks and Pete and Ramsay's hug make it a poignant moment for fans of Kitchen Nightmares.",
+      "feed_headline": "Ramsay's Emotional Goodbye to the Family",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete",
+        "Paulette",
+        "Josh"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "subtags": [
+        "family_drama",
+        "emotional_moments"
+      ]
+    }
+  ],
+  "total_segments": 47,
+  "show_name": "Kitchen Nightmares",
+  "season_context": "Corpus appears to span multiple Kitchen Nightmares rescue episodes and at least one Amy\u2019s Baking Company follow-up/retrospective, centering on family-run restaurant collapses, owner denial, sanitation horror, and the rare failed intervention.",
+  "jockey_feed_clips": [
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "In Kitchen Nightmares, Gordon Ramsay almost always pushes through resistance to finish a rescue. This Amy\u2019s Baking Company walkout is the exception superfans remember because it marks the show\u2019s most famous failed intervention in this corpus, turning a standard turnaround episode into a franchise legend about owners who reject help entirely.",
+      "emotional_intensity": 10,
+      "end_sec": 769,
+      "feed_headline": "Ramsay Walks Away",
+      "jockey_reasoning": "This segment captures the point where Gordon finally gives up on Amy and Samy after exhausting every normal Kitchen Nightmares playbook. Drama addicts and franchise-lore fans love it because it\u2019s the rare clip where the show\u2019s central promise of redemption fully collapses. Jockey elevated it because across all Kitchen Nightmares episodes in this knowledge store, nothing has bigger series-level significance than the intervention Gordon cannot finish.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy Bouzaglo",
+        "Samy Bouzaglo"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 755,
+      "subtags": [
+        "walkout",
+        "screaming",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares regularly features owners in denial, but Amy\u2019s Baking Company turns that franchise theme into outright warfare. For Kitchen Nightmares viewers, this tips argument is one of the defining moral flashpoints because it widens the story from bad food to labor abuse, helping explain why this episode became infamous beyond the dining room.",
+      "emotional_intensity": 10,
+      "end_sec": 605,
+      "feed_headline": "Heated Argument Over Tips",
+      "jockey_reasoning": "This clip highlights Gordon and Samy exploding over the revelation that servers\u2019 tips are being kept by the owners. It\u2019s catnip for confrontation fans and chaos-watchers because the stakes jump from bad service to a values-level showdown. Jockey pushed it high because, within this Kitchen Nightmares corpus, it\u2019s one of the clearest moments where the episode stops being a rescue and becomes a franchise scandal.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Samy Bouzaglo"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 600,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "revealing_secret"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares is full of customer complaints, but very few escalate into owners physically driving patrons out. In Kitchen Nightmares terms, this is a benchmark meltdown because it shows Amy\u2019s Baking Company violating the basic restaurant-customer contract that other episodes are still trying to repair.",
+      "emotional_intensity": 10,
+      "end_sec": 377,
+      "feed_headline": "Physical Confrontation",
+      "jockey_reasoning": "This segment spotlights the door-side blowup where Samy gets physical as Amy yells and the customer threatens police. It\u2019s ideal for pure drama addicts who want the franchise at its most unhinged and combustible. Jockey elevated it because across Kitchen Nightmares in this store, few moments better capture the Amy\u2019s Baking Company episode becoming bigger than a normal service disaster.",
+      "key_participants": [
+        "Samy Bouzaglo",
+        "Amy Bouzaglo",
+        "male diner in red plaid shirt"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 371,
+      "subtags": [
+        "physical_altercation",
+        "screaming",
+        "walkout"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares often shows staff caught in the blast radius of bad ownership, but Katie quitting makes that pattern painfully personal. For long-time Kitchen Nightmares viewers, this clip matters because it proves the Amy\u2019s Baking Company chaos isn\u2019t just performative arguing with Gordon\u2014it\u2019s actively breaking the workplace in real time.",
+      "emotional_intensity": 9,
+      "end_sec": 653,
+      "feed_headline": "Katie Quits",
+      "jockey_reasoning": "This moment highlights an employee finally cracking under Amy and Samy\u2019s pressure and walking away. It\u2019s a great clip for viewers who track power dynamics, employee mistreatment, and the human fallout behind the shouting. Jockey ranked it highly because in this Kitchen Nightmares corpus, few scenes so cleanly show how toxic ownership burns through everyone around it.",
+      "key_participants": [
+        "Amy Bouzaglo",
+        "Samy Bouzaglo",
+        "Katie",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 642,
+      "subtags": [
+        "crying",
+        "walkout",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares thrives on owners refusing criticism, and Amy\u2019s frozen-ravioli defense is one of the franchise\u2019s purest examples of that trait calcifying into delusion. For Kitchen Nightmares superfans, this beat connects directly to the show\u2019s recurring question: can Ramsay fix a restaurant if the owner rejects obvious reality?",
+      "emotional_intensity": 9,
+      "end_sec": 554,
+      "feed_headline": "Frozen Ravioli Confrontation",
+      "jockey_reasoning": "This clip captures Gordon calling out store-bought ravioli and Amy instantly digging in harder. It plays perfectly for quote-moment fans and viewers who love the show\u2019s savage denial-versus-truth battles. Jockey elevated it because across this Kitchen Nightmares collection, it\u2019s one of the sharpest illustrations of an owner making reform impossible.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy Bouzaglo"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 550,
+      "subtags": [
+        "brand_callout",
+        "shade_throwing",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares has plenty of owner-chef clashes, but Amy touching Gordon\u2019s face during an argument is such a boundary-crossing oddity that it lives in franchise memory. In the larger Kitchen Nightmares run, it symbolizes how Amy\u2019s Baking Company repeatedly breaks the normal rules of engagement between Ramsay and struggling owners.",
+      "emotional_intensity": 9,
+      "end_sec": 1285,
+      "feed_headline": "Amy Touches Gordon's Face",
+      "jockey_reasoning": "This segment highlights the surreal escalation where a verbal kitchen fight suddenly turns uncomfortably physical. It\u2019s gold for chaos connoisseurs who love the weird, memeable moments as much as the screaming. Jockey raised it because in this Kitchen Nightmares corpus, it\u2019s one of the clearest signs that Amy\u2019s episode operates by its own deranged logic.",
+      "key_participants": [
+        "Amy Bouzaglo",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1283,
+      "subtags": [
+        "screaming",
+        "physical_altercation",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares repeatedly asks whether owners can hear uncomfortable truth; Gordon calling Amy and Samy delusional is the show\u2019s thesis stated bluntly. In this corpus, the moment matters because it crystallizes why Amy\u2019s Baking Company becomes the outlier episode where the classic redemption engine completely stalls.",
+      "emotional_intensity": 9,
+      "end_sec": 755,
+      "feed_headline": "Ramsay Calls Them Delusional",
+      "jockey_reasoning": "This clip is the clean, quotable core of Gordon\u2019s diagnosis: the crisis is their refusal to accept reality. It\u2019s ideal for superfan viewers who love big summation speeches and franchise-defining readdowns. Jockey featured it because, across all Kitchen Nightmares entries here, few lines better explain an episode\u2019s entire collapse.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Amy Bouzaglo",
+        "Samy Bouzaglo"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 748,
+      "subtags": [
+        "shade_throwing",
+        "side_eye",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares regularly exposes dirt, but Gordon finding a dead mouse at The Old Neighborhood is the kind of contamination reveal that defines an episode in franchise memory. For Kitchen Nightmares viewers, it connects to the show\u2019s recurring sanitation-horror arc while standing out as one of the most extreme proofs that neglect has gone beyond cosmetic dysfunction.",
+      "emotional_intensity": 10,
+      "end_sec": 1322,
+      "feed_headline": "Gordon finds a dead mouse!",
+      "jockey_reasoning": "This segment highlights the instant the inspection crosses from gross to truly shocking. It\u2019s perfect for gross-out watchers and high-stakes disaster fans because the health risk becomes undeniable on camera. Jockey elevated it because among the Kitchen Nightmares episodes in this corpus, this is one of the strongest single-image symbols of total operational collapse.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1316,
+      "subtags": [
+        "revealing_secret",
+        "reaction_shot",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares often uses filth discoveries to force denial into the open, and the rat-droppings booth search is classic Ramsay escalation. What makes it significant in Kitchen Nightmares is how it ties the dining room\u2019s dated fa\u00e7ade to the same deeper neglect poisoning the kitchen and the whole rescue narrative.",
+      "emotional_intensity": 9,
+      "end_sec": 1192,
+      "feed_headline": "Shoes under the booth?!",
+      "jockey_reasoning": "This clip showcases Gordon peeling back the restaurant\u2019s front-of-house image and finding full-on hidden rot underneath. It\u2019s a great pick for viewers who love investigative reveals and the show\u2019s slow-build humiliation of owners who can\u2019t hide behind decor anymore. Jockey boosted it because this Kitchen Nightmares corpus keeps returning to hidden neglect, and this is one of the cleanest reveal sequences.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1178,
+      "subtags": [
+        "revealing_secret",
+        "awkward_silence",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares episodes often hinge on whether the real problem is service, food, or ownership. Gordon calling out hoarding at The Old Neighborhood matters in Kitchen Nightmares because it reframes the restaurant crisis as a personal behavioral issue driving the business failure, not just a bad menu or tired room.",
+      "emotional_intensity": 9,
+      "end_sec": 1301,
+      "feed_headline": "Gordon calls out the hoarding",
+      "jockey_reasoning": "This segment puts the restaurant\u2019s clutter in psychological terms and turns storage junk into storyline. It\u2019s strong for viewers who love deeper owner-diagnosis moments, not just surface shouting. Jockey elevated it because across Kitchen Nightmares in this knowledge store, this is one of the clearest examples of Ramsay identifying the personal pathology behind the mess.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1294,
+      "subtags": [
+        "revealing_secret",
+        "shade_throwing",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares thrives on disgust comedy, and Fiona falling apart is a rare moment where the decrepit state of a restaurant becomes visual slapstick. For Kitchen Nightmares fans, it matters because The Old Neighborhood\u2019s decay isn\u2019t just grim\u2014it becomes absurdly, memorably emblematic of a business held together by nothing.",
+      "emotional_intensity": 7,
+      "end_sec": 335,
+      "feed_headline": "Fiona Falls Apart!",
+      "jockey_reasoning": "This clip highlights the mannequin literally disintegrating in Gordon\u2019s hands, which is both hilarious and damning. It\u2019s ideal for humor-forward superfans who love when the franchise\u2019s disaster aesthetic tips into pure absurdity. Jockey included it because within this Kitchen Nightmares corpus, it\u2019s one of the most shareable visual metaphors for a restaurant collapsing under neglect.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Randy",
+        "Fiona"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 333,
+      "subtags": [
+        "physical_comedy",
+        "reaction_shot",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares often builds credibility for Ramsay\u2019s intervention by proving the food is literally inedible. Gordon spitting the food out at The Old Neighborhood plugs directly into that broader series pattern, but in this corpus it lands harder because it sits alongside some of the filthiest environmental evidence.",
+      "emotional_intensity": 8,
+      "end_sec": 685,
+      "feed_headline": "Gordon spits it out",
+      "jockey_reasoning": "This segment delivers the cleanest possible verdict on the food: Gordon physically rejects it. It\u2019s perfect for reaction-shot fans and viewers who love the show\u2019s blunt tasting payoffs. Jockey ranked it because across this Kitchen Nightmares set, it helps make The Old Neighborhood feel like a total-system failure, not a one-note cleanliness story.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 683,
+      "subtags": [
+        "reaction_shot",
+        "verbal_slip",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares loves the moment when owners\u2019 excuses crumble under a simple question, and Alexa admitting she didn\u2019t taste the food is one of those franchise staples. For Kitchen Nightmares viewers, it matters because it exposes autopilot cooking\u2014the same complacency Ramsay battles across many episodes in this corpus.",
+      "emotional_intensity": 8,
+      "end_sec": 997,
+      "feed_headline": "'I Didn't Taste Your Food'",
+      "jockey_reasoning": "This clip spotlights a devastating confession that instantly explains how the kitchen got this bad. It\u2019s a strong shareable for viewers who love accountability gotchas more than screaming matches. Jockey elevated it because across Kitchen Nightmares here, that admission neatly crystallizes the series\u2019 larger war on complacent ownership and cooking by habit.",
+      "key_participants": [
+        "Alexa",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 995,
+      "subtags": [
+        "revealing_secret",
+        "verbal_slip",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares repeatedly turns hidden kitchen habits into symbolic proof of broken standards, and the thermometer-in-the-wall reveal is exactly that kind of unforgettable visual. In the broader Kitchen Nightmares run, it\u2019s the sort of bizarre hygiene breach superfans cite when ranking the most shocking inspection moments.",
+      "emotional_intensity": 8,
+      "end_sec": 1234,
+      "feed_headline": "Thermometer in the wall?!",
+      "jockey_reasoning": "This segment highlights a tiny but wildly telling sanitation violation that says everything about the restaurant\u2019s standards. It\u2019s a great clip for detail-oriented disaster fans who love the inspection phase more than the makeover. Jockey chose it because in this Kitchen Nightmares corpus, the weird specificity makes it one of the most memorable hygiene reveals.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1226,
+      "subtags": [
+        "revealing_secret",
+        "reaction_shot",
+        "awkward_silence"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares episodes often turn on the divide between the enabler and the main problem, and Gordon telling Alexa she is enabling a hoarder directly names that split. For Kitchen Nightmares followers, this matters because it shows the rescue moving from symptom-spotting to family-system diagnosis, a classic late-stage Ramsay pivot.",
+      "emotional_intensity": 8,
+      "end_sec": 1360,
+      "feed_headline": "Gordon on 'enabling a hoarder'",
+      "jockey_reasoning": "This clip focuses on Gordon shifting from gross discoveries to the relationship dynamics that keep them going. It\u2019s especially compelling for fans who follow the therapy-through-restaurant-repair side of Kitchen Nightmares. Jockey elevated it because across these episodes, the show works best when Ramsay identifies not just the mess but who keeps reproducing it.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Alexa"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1348,
+      "subtags": [
+        "heartfelt_confession",
+        "confrontation_buildup",
+        "support_scene"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares loves a rotting-food reveal because it instantly collapses any last pretense of professionalism. In The Old Neighborhood\u2019s case, the rotten meat discovery matters in the larger Kitchen Nightmares run because it confirms this isn\u2019t just about clutter or style\u2014it\u2019s active endangerment.",
+      "emotional_intensity": 9,
+      "end_sec": 1411,
+      "feed_headline": "Gordon finds rotten meat!",
+      "jockey_reasoning": "This clip delivers one of the inspection\u2019s hardest hits: the smell alone tells the story before the owners can spin it. It\u2019s irresistible for disgust-horror fans who watch Kitchen Nightmares for its most extreme fridge reveals. Jockey pushed it up because within this corpus, it completes the episode\u2019s pattern of sanitation failures turning from embarrassing to indefensible.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1404,
+      "subtags": [
+        "revealing_secret",
+        "reaction_shot",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares often shows family members buckling under restaurant pressure, but Evelyn quitting Kati Allo is one of the clearest examples in this corpus of a child refusing to be collateral damage. For Kitchen Nightmares viewers, it matters because it turns a troubled service into a larger family-crisis beat the show repeatedly returns to across rescue stories.",
+      "emotional_intensity": 10,
+      "end_sec": 230,
+      "feed_headline": "I'm Out",
+      "jockey_reasoning": "This moment highlights Evelyn hitting her limit and choosing self-preservation over more chaos. It\u2019s a great clip for emotional-storyline fans who care about the family cost behind the business drama. Jockey elevated it because across Kitchen Nightmares in this store, few beats more clearly show the next generation refusing to inherit the dysfunction.",
+      "key_participants": [
+        "Evelyn"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 222,
+      "subtags": [
+        "crying",
+        "walkout",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares frequently uncovers marriages strained by debt and overwork, but the divorce-papers reveal at Kati Allo pushes that theme to a franchise-level breaking point. In the larger Kitchen Nightmares run, this is the sort of beat that reminds superfans the restaurant is often just the stage where much deeper domestic collapse becomes visible.",
+      "emotional_intensity": 10,
+      "end_sec": 243,
+      "feed_headline": "Divorce Papers",
+      "jockey_reasoning": "This clip spotlights the moment the family conflict becomes unmistakably legal and irreversible-looking. It\u2019s perfect for viewers who follow relationship implosions as closely as the food disasters. Jockey ranked it highly because, across this Kitchen Nightmares corpus, it\u2019s one of the starkest visual proofs that the restaurant crisis has consumed the marriage itself.",
+      "key_participants": [
+        "Christine",
+        "Manny"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 240,
+      "subtags": [
+        "breakup_moment",
+        "family_moment",
+        "crying"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares regularly frames financial desperation as the ticking clock behind every rescue, and selling the family home is one of the most extreme versions of that sacrifice in this corpus. For Kitchen Nightmares devotees, this beat matters because it shows the business consuming not just savings but the family\u2019s literal foundation.",
+      "emotional_intensity": 9,
+      "end_sec": 603,
+      "feed_headline": "Selling the Family Home",
+      "jockey_reasoning": "This segment reveals the brutal financial cost of keeping Kati Allo alive, and Gordon\u2019s stunned reaction does the rest. It\u2019s a strong clip for high-stakes viewers who care about the money pressure beneath the shouting. Jockey elevated it because in this Kitchen Nightmares knowledge store, very few confessions so clearly capture the all-in desperation of failing family restaurants.",
+      "key_participants": [
+        "Manny",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 590,
+      "subtags": [
+        "heartfelt_confession",
+        "family_moment",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares often uses a blunt one-line relationship diagnosis to cut through years of resentment, and Christina saying the marriage is destroyed is that moment for Kati Allo. In the broader Kitchen Nightmares run, it\u2019s a key example of the show exposing how the restaurant problem is actually a relationship problem first.",
+      "emotional_intensity": 9,
+      "end_sec": 558,
+      "feed_headline": "'It's Destroyed'",
+      "jockey_reasoning": "This clip highlights Christina giving the most devastatingly clear status update possible on the marriage. It lands for emotional-investment fans who want the gut-punch confession, not just the argument around it. Jockey elevated it because across these Kitchen Nightmares episodes, this is one of the bluntest statements of personal ruin caused by a business rescue case.",
+      "key_participants": [
+        "Christina",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 555,
+      "subtags": [
+        "heartfelt_confession",
+        "breakup_moment",
+        "vulnerability"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares repeatedly finds kids trapped in adult dysfunction, and Evelyn crying while Christine comforts her is one of the corpus\u2019s most painful examples. For Kitchen Nightmares followers, this moment matters because it externalizes the generational damage that Ramsay often argues should be the real reason owners change.",
+      "emotional_intensity": 9,
+      "end_sec": 235,
+      "feed_headline": "A Mother's Comfort",
+      "jockey_reasoning": "This segment centers on mother-daughter grief rather than restaurant mechanics, which gives the episode its emotional core. It\u2019s ideal for viewers who are pulled in by family pain and vulnerability over straight-up yelling. Jockey raised it because across Kitchen Nightmares here, the strongest emotional arcs are the ones where the children of the business finally break down on camera.",
+      "key_participants": [
+        "Evelyn",
+        "Christine"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 231,
+      "subtags": [
+        "crying",
+        "support_scene",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares often uses service meltdowns to expose marriage fractures, and this kitchen argument does exactly that in compressed form. In Kitchen Nightmares terms, it\u2019s significant because Kati Allo\u2019s central drama isn\u2019t one bad dish\u2014it\u2019s a husband-wife team whose conflict poisons every layer of the operation.",
+      "emotional_intensity": 10,
+      "end_sec": 174,
+      "feed_headline": "A Heated Argument",
+      "jockey_reasoning": "This clip puts Manny and Christine\u2019s war right in the middle of service, with Evelyn caught in the orbit. It\u2019s built for confrontation fans who love when the restaurant and the marriage implode at the same time. Jockey elevated it because, across this Kitchen Nightmares corpus, few scenes so efficiently explain how family dysfunction wrecks daily operations.",
+      "key_participants": [
+        "Manny",
+        "Christine"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 172,
+      "subtags": [
+        "screaming",
+        "family_moment",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares often gives Ramsay a literal closure move when conditions become too dangerous, and 'Lock the fucking door!' is one of the strongest in this corpus. For Kitchen Nightmares fans, this is the decisive health-and-safety turning point where disgust becomes immediate action.",
+      "emotional_intensity": 10,
+      "end_sec": 73,
+      "feed_headline": "Lock the Door!",
+      "jockey_reasoning": "This segment highlights Gordon\u2019s emergency-level shutdown instinct after seeing rotten food and dangerous conditions. It\u2019s prime viewing for fans who love command moments, explosive language, and franchise-grade authority plays. Jockey elevated it because across these Kitchen Nightmares episodes, this is one of the clearest moments where Ramsay moves from critique to crisis management.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 72,
+      "subtags": [
+        "screaming",
+        "walkout",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares is full of bad kitchens, but Kati Allo\u2019s spoiled-meat reveal becomes more important because it lands inside a family story already on the brink. In the larger Kitchen Nightmares run, it fuses the two franchise pillars\u2014filth and family damage\u2014into one defining confrontation.",
+      "emotional_intensity": 9,
+      "end_sec": 57,
+      "feed_headline": "The Smell of Decay",
+      "jockey_reasoning": "This clip shows Gordon confronting Evelyn with evidence of decay she can literally smell, making the denial impossible to maintain. It\u2019s great for viewers who love visceral inspection reveals with immediate emotional fallout. Jockey elevated it because in this Kitchen Nightmares corpus, it\u2019s one of the strongest bridges between unsanitary horror and family heartbreak.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Evelyn"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 51,
+      "subtags": [
+        "revealing_secret",
+        "reaction_shot",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares repeatedly asks spouses whether the restaurant is worth sacrificing their lives for, and Christina saying she feels like a prisoner answers that question with devastating clarity. For Kitchen Nightmares viewers, this is a core emotional beat because it translates years of labor and resentment into a single unforgettable phrase.",
+      "emotional_intensity": 8,
+      "end_sec": 410,
+      "feed_headline": "Feeling Like a Prisoner",
+      "jockey_reasoning": "This segment highlights Christina articulating the personal captivity behind the business struggle. It\u2019s a strong clip for emotional-arc superfans who value confessionals that suddenly make an entire episode click. Jockey chose it because across this Kitchen Nightmares store, the most resonant relationship stories hinge on one line that redefines the whole marriage.",
+      "key_participants": [
+        "Christina"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 406,
+      "subtags": [
+        "heartfelt_confession",
+        "vulnerability",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares is built on owners in denial, and Pete\u2019s refusal to accept Gordon\u2019s pizza critique is one of the cleanest versions of that franchise archetype in this corpus. For Kitchen Nightmares fans, this scene matters because Pantaleone\u2019s turns the familiar denial beat into a family-wide standoff over legacy, ego, and whether the business can modernize.",
+      "emotional_intensity": 10,
+      "end_sec": 1283,
+      "feed_headline": "Gordon's final verdict",
+      "jockey_reasoning": "This clip highlights Gordon delivering the brutal truth about the pizza while Pete still refuses to hear it. It\u2019s perfect for confrontation fans and longtime viewers who love the show\u2019s old-school-owner-versus-reality battles. Jockey elevated it because across Kitchen Nightmares in this knowledge store, Pantaleone\u2019s is one of the strongest denial arcs, and this is its decisive centerpiece.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Pete"
+      ],
+      "primary_category": "fights_confrontation",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1278,
+      "subtags": [
+        "screaming",
+        "shade_throwing",
+        "confrontation_buildup"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares repeatedly uses family truth-telling to puncture owner ego, and Josh admitting his father no longer serves the best pizza in Denver is that moment here. In the larger Kitchen Nightmares run, it matters because the rescue finally stops being Gordon versus Pete and becomes Pete versus the people closest to him.",
+      "emotional_intensity": 9,
+      "end_sec": 1271,
+      "feed_headline": "Josh: 'Not anymore'",
+      "jockey_reasoning": "This segment captures the emotional betrayal beat where the next generation refuses to back the family myth. It\u2019s a great clip for viewers who love painful honesty and family-business reckonings more than pure insult comedy. Jockey elevated it because within this Kitchen Nightmares corpus, it\u2019s one of the sharpest examples of loved ones forcing a stubborn owner to face decline.",
+      "key_participants": [
+        "Josh",
+        "Paulette",
+        "Pete",
+        "Gordon Ramsay"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1261,
+      "subtags": [
+        "heartfelt_confession",
+        "family_moment",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares loves a visual food reveal that instantly becomes the episode\u2019s icon, and Pantaleone\u2019s gigantic greasy pizza is exactly that. For Kitchen Nightmares viewers, this beat matters because it turns Pete\u2019s boast about being the best in Denver into one of the franchise\u2019s most memorable visual own-goals.",
+      "emotional_intensity": 8,
+      "end_sec": 876,
+      "feed_headline": "Gordon Ramsay vs. Greasy Pizza",
+      "jockey_reasoning": "This clip highlights the ludicrously greasy slice stretching and dripping while Gordon stares in disbelief. It\u2019s made for reaction-shot lovers and fans who want a single image that explains an entire episode\u2019s problem. Jockey elevated it because across this Kitchen Nightmares collection, very few food reveals are as instantly legible and iconic as this pizza.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 865,
+      "subtags": [
+        "reaction_shot",
+        "awkward_silence",
+        "shade_throwing"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares often features owners defending bad food, but Pete literally eating the rejected pizza to prove a point is an extreme expression of that franchise habit. In Kitchen Nightmares terms, it\u2019s a defining denial image because the owner physically performs the delusion Ramsay has been diagnosing all episode.",
+      "emotional_intensity": 9,
+      "end_sec": 974,
+      "feed_headline": "Pete Eats the Evidence",
+      "jockey_reasoning": "This segment shows Pete doubling down so hard that he takes a bite of the very pizza everyone else knows is a problem. It\u2019s perfect for viewers who love surreal denial, cringe comedy, and owner meltdowns that become instantly memeable. Jockey pushed it up because among these Kitchen Nightmares episodes, this is one of the funniest and saddest visuals of a boss refusing reality.",
+      "key_participants": [
+        "Pete"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 965,
+      "subtags": [
+        "awkward_silence",
+        "physical_comedy",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares frequently pairs bad food with a memorable Gordon metaphor, and the 'giant diaper' line is one of the corpus\u2019s sharper put-downs. For Kitchen Nightmares followers, it matters because savage tasting commentary is part of the show\u2019s DNA, and this is a classic Ramsay line that distills ridicule and diagnosis together.",
+      "emotional_intensity": 8,
+      "end_sec": 613,
+      "feed_headline": "Tastes like a giant diaper",
+      "jockey_reasoning": "This clip centers on Gordon turning a miserable meatball hero into a quote-ready insult. It\u2019s a natural pick for fans who watch Kitchen Nightmares as much for the one-liners as for the rescues. Jockey elevated it because across this corpus, Pantaleone\u2019s delivers some of the clearest vintage Ramsay verbal savagery.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 607,
+      "subtags": [
+        "shade_throwing",
+        "verbal_slip",
+        "reaction_shot"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares often hinges on whether Ramsay can force an owner to admit the truth, and Pete saying 'The food is shit' is the breakthrough he spends the episode chasing. In the larger Kitchen Nightmares run, that confession matters because it signals the exact moment denial cracks and rescue becomes possible.",
+      "emotional_intensity": 10,
+      "end_sec": 1401,
+      "feed_headline": "Pete: 'The food is shit'",
+      "jockey_reasoning": "This segment captures the emotional payoff of the whole Pantaleone\u2019s arc: Pete finally saying the unsayable. It\u2019s ideal for transformation-arc fans who love the moment stubbornness gives way to truth. Jockey elevated it because across Kitchen Nightmares in this store, few confessions feel more earned or more central to an episode\u2019s turnaround potential.",
+      "key_participants": [
+        "Pete"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1400,
+      "subtags": [
+        "heartfelt_confession",
+        "crying",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares episodes often show the family silently agreeing with Ramsay before the owner does, and Josh telling Pete that Gordon is right about everything is exactly that bridge moment. For Kitchen Nightmares viewers, it connects Pantaleone\u2019s to the show\u2019s recurring pattern of children and spouses becoming truth-tellers when the patriarch won\u2019t listen.",
+      "emotional_intensity": 8,
+      "end_sec": 1386,
+      "feed_headline": "Josh: 'He's right about everything'",
+      "jockey_reasoning": "This clip highlights the son finally siding openly with Ramsay against the family\u2019s old operating myth. It\u2019s compelling for viewers who track generational tension and love when the secondary family members become the episode\u2019s conscience. Jockey elevated it because in this Kitchen Nightmares corpus, these insider truth-teller moments often mark the real turning point more than the shouting does.",
+      "key_participants": [
+        "Josh",
+        "Pete"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1380,
+      "subtags": [
+        "heartfelt_confession",
+        "family_moment",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares loves a disgusting visual demo, and Gordon pouring greasy plate liquid into a glass is a classic forensic-Ramsay move. In the larger Kitchen Nightmares run, the moment matters because it converts a subjective taste complaint into undeniable physical evidence\u2014something the show often needs with resistant owners.",
+      "emotional_intensity": 9,
+      "end_sec": 1144,
+      "feed_headline": "Urine Sample Comparison",
+      "jockey_reasoning": "This segment highlights Gordon making the hidden grease problem impossible to ignore with a gross, theatrical demonstration. It\u2019s prime content for reaction fans and viewers who love the show\u2019s most outrageous evidence exhibits. Jockey elevated it because across these Kitchen Nightmares episodes, few demonstrations are as instantly shareable and brutally effective.",
+      "key_participants": [
+        "Gordon Ramsay"
+      ],
+      "primary_category": "humor_awkward",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 1124,
+      "subtags": [
+        "reaction_shot",
+        "awkward_silence",
+        "shade_throwing"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc10f383f92c3dad9f46",
+      "cross_episode_significance": "Kitchen Nightmares often uses customer feedback to puncture owner mythology, and the 'cat food' comparison does exactly that at Pantaleone\u2019s. For Kitchen Nightmares fans, it matters because it proves Gordon isn\u2019t the only one rejecting Pete\u2019s standards; the public already has.",
+      "emotional_intensity": 8,
+      "end_sec": 724,
+      "feed_headline": "Tastes like cat food",
+      "jockey_reasoning": "This clip focuses on a customer saying the sandwich tastes worse than cat food while Gordon visibly registers the damage. It\u2019s a great pick for viewers who love outside validation moments that leave owners nowhere to hide. Jockey elevated it because across this Kitchen Nightmares corpus, third-party feedback often seals the case, and few lines do it this memorably.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "male customers"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 710,
+      "subtags": [
+        "shade_throwing",
+        "reaction_shot",
+        "side_eye"
+      ],
+      "jockey_asset_id_raw": "019ec2de-a6de-70c0-9c21-0928078f5928"
+    },
+    {
+      "asset_id": "6a2dbc155f48616a1efccfa1",
+      "cross_episode_significance": "Kitchen Nightmares often reaches its emotional center when the most exhausted spouse finally says she is done, and Christine\u2019s decision belongs squarely in that tradition. In Kitchen Nightmares terms, it matters because Kati Allo\u2019s crisis is inseparable from whether the marriage survives the business.",
+      "emotional_intensity": 9,
+      "end_sec": 248,
+      "feed_headline": "Christine's Final Decision",
+      "jockey_reasoning": "This clip highlights Christine formally choosing herself over the endless cycle of restaurant and marriage turmoil. It\u2019s especially strong for emotional-investment superfans who follow the spouse\u2019s arc as the real heartbeat of the episode. Jockey elevated it because across Kitchen Nightmares in this store, the spouse finally saying 'enough' is one of the show\u2019s most resonant recurring beats.",
+      "key_participants": [
+        "Christine"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 246,
+      "subtags": [
+        "breakup_moment",
+        "heartfelt_confession",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2be-7503-75d1-984c-8f6d4d70e411"
+    },
+    {
+      "asset_id": "6a2dbc135f48616a1efccf9d",
+      "cross_episode_significance": "Kitchen Nightmares regularly shows staff confiding in Gordon, but the tip revelation at Amy\u2019s Baking Company is one of the biggest trust-bomb moments in this corpus because it immediately recasts the owners as exploitative, not merely incompetent. For Kitchen Nightmares viewers, it\u2019s a lore-level reveal that helps explain why the episode exploded culturally.",
+      "emotional_intensity": 9,
+      "end_sec": 447,
+      "feed_headline": "The Tip Revelation",
+      "jockey_reasoning": "This segment captures the whisper-to-explosion structure the franchise does so well: one quiet confession detonates the whole room. It\u2019s perfect for viewers who love secrets, receipts, and the moment the real scandal comes into focus. Jockey elevated it because across Kitchen Nightmares here, no hidden workplace fact shifts an episode\u2019s moral center faster.",
+      "key_participants": [
+        "Gordon Ramsay",
+        "Miranda"
+      ],
+      "primary_category": "shade_gossip",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 439,
+      "subtags": [
+        "revealing_secret",
+        "talking_behind_back",
+        "betrayal"
+      ],
+      "jockey_asset_id_raw": "019ec2c7-299e-7581-82c3-27d090e93cc6"
+    },
+    {
+      "asset_id": "6a2dbc12363f9692ab3286cf",
+      "cross_episode_significance": "Kitchen Nightmares often uses a single owner confession to set the financial stakes, and Randy\u2019s debt revelation is that anchor for The Old Neighborhood. In the larger Kitchen Nightmares run, it matters because crushing debt is the pressure cooker that turns every cleanliness and hoarding problem into an existential threat.",
+      "emotional_intensity": 8,
+      "end_sec": 232,
+      "feed_headline": "Randy's Debt Revelation",
+      "jockey_reasoning": "This clip highlights the money reality underneath the clutter and filth. It\u2019s a strong pick for viewers who follow the numbers and love knowing exactly how deep the hole is before Ramsay starts digging the place out. Jockey elevated it because across this Kitchen Nightmares corpus, the best rescue arcs are driven by debt revelations that make every later discovery hit harder.",
+      "key_participants": [
+        "Randy"
+      ],
+      "primary_category": "emotional_moments",
+      "show_name": "Kitchen Nightmares",
+      "start_sec": 229,
+      "subtags": [
+        "heartfelt_confession",
+        "vulnerability",
+        "family_moment"
+      ],
+      "jockey_asset_id_raw": "019ec2d3-cf22-7a63-a39e-1452140bd26b"
+    }
+  ],
+  "jockey_generated_at": "2026-06-13T22:01:16.903475+00:00"
+}
