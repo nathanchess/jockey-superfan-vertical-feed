@@ -22,7 +22,7 @@ import { StrandIcon } from "@/components/StrandIcon";
 import { CATEGORY_LABELS, formatCategoryLabel } from "@/lib/categoryLabels";
 import { clipGridKey } from "@/lib/clipKey";
 import { dedupeClips } from "@/lib/dedupeClips";
-import { SUGGESTED_QUERIES } from "@/lib/exploreSuggestions";
+import { similarSearchQuery, SUGGESTED_QUERIES, categoryMomentsSearchQuery } from "@/lib/exploreSuggestions";
 import type { GridClip } from "@/lib/exploreRawData";
 import { formatLabel } from "@/lib/formatLabel";
 import { formatTimestampRange } from "@/lib/format";
@@ -348,12 +348,14 @@ function ClipModal({
   showId,
   showName,
   onClose,
+  onSearchSimilar,
 }: {
   clip: GridClip | null;
   profile: ProfileId;
   showId: string;
   showName: string | null;
   onClose: () => void;
+  onSearchSimilar: (query: string) => void;
 }) {
   const [playback, setPlayback] = useState<AssetPlaybackResponse | null>(null);
   const [loading, setLoading] = useState(false);
@@ -416,10 +418,17 @@ function ClipModal({
 
   useEffect(() => {
     if (!clip) return;
-    const onKey = (e: globalThis.KeyboardEvent) => { if (e.key === "Escape") onClose(); };
+    const onKey = (e: globalThis.KeyboardEvent) => {
+      if (e.key !== "Escape") return;
+      if (reasoningOpen) {
+        setReasoningOpen(false);
+      } else {
+        onClose();
+      }
+    };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [clip, onClose]);
+  }, [clip, onClose, reasoningOpen]);
 
   if (!clip) return null;
 
@@ -432,6 +441,10 @@ function ClipModal({
   const tierColors =
     normalized !== null ? MATCH_SCORE_TIER_COLORS[matchScoreTier(normalized)] : null;
   const shortsHref = `/?segment=${encodeURIComponent(clip.segment_id)}`;
+  const similarQuery = similarSearchQuery({
+    primary_category: clip.primary_category,
+    feed_headline: clip.feed_headline,
+  });
 
   return (
     <>
@@ -477,13 +490,17 @@ function ClipModal({
                 <StrandIcon name="play-boxed" className="h-4 w-4" />
                 Open in Shorts
               </Link>
-              <Link
-                href="/explore"
-                className="inline-flex items-center gap-2 rounded-xl border border-border bg-surface px-4 py-2 text-sm font-medium text-text-primary transition-colors hover:bg-card"
+              <button
+                type="button"
+                onClick={() => {
+                  onClose();
+                  onSearchSimilar(similarQuery);
+                }}
+                className="inline-flex cursor-pointer items-center gap-2 rounded-xl border border-border bg-surface px-4 py-2 text-sm font-medium text-text-primary transition-colors hover:bg-card"
               >
-                <StrandIcon name="grid" className="h-4 w-4" />
-                Explore similar
-              </Link>
+                <StrandIcon name="search" className="h-4 w-4" />
+                Search for more moments
+              </button>
               {rankedClip && (
                 <button
                   type="button"
@@ -505,6 +522,7 @@ function ClipModal({
         manifestShowName={showName}
         open={reasoningOpen}
         onClose={() => setReasoningOpen(false)}
+        elevated
       />
     </>
   );
@@ -757,7 +775,7 @@ export function ExploreGrid() {
                     </div>
                     <button
                       type="button"
-                      onClick={() => applySearch(`more ${formatLabel(category)} moments`)}
+                      onClick={() => applySearch(categoryMomentsSearchQuery(category))}
                       className="inline-flex shrink-0 cursor-pointer items-center gap-1.5 rounded-lg border border-border-light bg-surface px-2.5 py-1.5 text-xs font-medium text-text-secondary transition-colors hover:border-border hover:bg-card hover:text-text-primary"
                     >
                       <StrandIcon name="search" className="h-3.5 w-3.5" />
@@ -845,6 +863,7 @@ export function ExploreGrid() {
         showId={showId}
         showName={showName}
         onClose={() => setSelectedClip(null)}
+        onSearchSimilar={applySearch}
       />
     </div>
   );

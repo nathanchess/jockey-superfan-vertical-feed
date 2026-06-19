@@ -20,6 +20,8 @@ type ReasoningPanelProps = {
   manifestShowName?: string | null;
   open: boolean;
   onClose: () => void;
+  /** Raise above explore/spotlight modals (z-100). */
+  elevated?: boolean;
 };
 
 const TIER_LABELS = {
@@ -35,6 +37,7 @@ export function ReasoningPanel({
   manifestShowName,
   open,
   onClose,
+  elevated = false,
 }: ReasoningPanelProps) {
   const [showRawData, setShowRawData] = useState(false);
   if (!open || !clip) return null;
@@ -44,16 +47,19 @@ export function ReasoningPanel({
   const tierColors = MATCH_SCORE_TIER_COLORS[tier];
   const showName = resolveShowName(clip, manifestShowName);
 
+  const backdropZ = elevated ? "z-[110]" : "z-50";
+  const panelZ = elevated ? "z-[111]" : "z-[51]";
+
   return (
     <>
       <button
         type="button"
-        className="fixed inset-0 z-50 bg-brand-charcoal/25 backdrop-blur-[1px]"
+        className={`fixed inset-0 ${backdropZ} bg-brand-charcoal/25 backdrop-blur-[1px]`}
         aria-label="Close reasoning panel"
         onClick={onClose}
       />
       <aside
-        className="fixed right-0 top-0 z-[51] flex h-screen w-full max-w-md flex-col border-l border-border-light bg-surface shadow-xl"
+        className={`fixed right-0 top-0 ${panelZ} flex h-screen w-full max-w-md flex-col border-l border-border-light bg-surface shadow-xl`}
         aria-label="Match reasoning"
       >
         <header className="flex items-center justify-between gap-3 border-b border-border-light px-5 py-4">

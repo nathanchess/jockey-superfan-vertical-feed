@@ -1,40 +1,52 @@
+import { formatCategoryLabel } from "@/lib/categoryLabels";
 import type { ProfileId } from "@/lib/types";
 
 export const SUGGESTED_QUERIES: Record<ProfileId, readonly string[]> = {
   drama_addict: [
-    "heated argument at the dinner table",
-    "someone walks out crying",
-    "physical fight or table flip",
-    "shade thrown behind someone's back",
+    "Heated argument at the dinner table",
+    "Someone walks out crying",
+    "Physical fight or table flip",
+    "Shade thrown behind someone's back",
   ],
   fashion_obsessed: [
-    "designer outfit reveal",
-    "luxury shopping spree",
-    "jewelry and glam moment",
-    "mansion tour or fancy cars",
+    "Designer outfit reveal",
+    "Luxury shopping spree",
+    "Jewelry and glam moment",
+    "Mansion tour or fancy cars",
   ],
   romance_fan: [
-    "romantic date night",
-    "heartfelt confession or apology",
-    "kiss or proposal moment",
-    "breakup or reconciliation scene",
+    "Romantic date night",
+    "Heartfelt confession or apology",
+    "Kiss or proposal moment",
+    "Breakup or reconciliation scene",
   ],
 };
 
-/** Build a semantic search query from clip metadata for “explore similar”. */
+function capitalizeSearchQuery(query: string): string {
+  const trimmed = query.trim();
+  if (!trimmed) return trimmed;
+  return trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
+}
+
+/** Semantic search query for “search for more” actions from clip/category context. */
+export function categoryMomentsSearchQuery(category: string): string {
+  const label = formatCategoryLabel(category).toLowerCase();
+  if (label.endsWith(" moments") || label.endsWith(" moment")) {
+    return capitalizeSearchQuery(`more ${label}`);
+  }
+  return capitalizeSearchQuery(`more ${label} moments`);
+}
+
+/** Build a semantic search query from clip metadata for “search for more”. */
 export function similarSearchQuery(opts: {
   primary_category?: string;
   feed_headline?: string;
 }): string {
   if (opts.primary_category) {
-    return `more ${formatCategoryQuery(opts.primary_category)} moments`;
+    return categoryMomentsSearchQuery(opts.primary_category);
   }
   if (opts.feed_headline?.trim()) {
-    return opts.feed_headline.trim().slice(0, 80);
+    return capitalizeSearchQuery(opts.feed_headline.trim().slice(0, 80));
   }
-  return "similar dramatic moments";
-}
-
-function formatCategoryQuery(category: string): string {
-  return category.replace(/_/g, " ");
+  return "Similar dramatic moments";
 }
