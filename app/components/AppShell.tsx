@@ -6,7 +6,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
     <ShowProvider>
       <Sidebar />
       <main
-        className="h-dvh min-h-0 overflow-hidden bg-background transition-[margin-left] duration-200 ease-out"
+        className="h-dvh min-h-0 min-w-0 overflow-hidden bg-background transition-[margin-left] duration-200 ease-out"
         style={{ marginLeft: "var(--sidebar-width, 240px)" }}
       >
         {children}

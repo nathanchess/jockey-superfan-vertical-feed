@@ -20,6 +20,8 @@ type SegmentPlayerProps = {
   className?: string;
   /** Hide the large center play icon (grid preview). */
   hideCenterPlay?: boolean;
+  /** Timestamp range shown above the progress bar. */
+  durationLabel?: string | null;
   /** Stop click from bubbling (grid cards open modal on article click). */
   stopClickPropagation?: boolean;
 };
@@ -37,6 +39,7 @@ export function SegmentPlayer({
   objectFit = "contain",
   className = "",
   hideCenterPlay = false,
+  durationLabel,
   stopClickPropagation = false,
 }: SegmentPlayerProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -275,6 +278,11 @@ export function SegmentPlayer({
       )}
 
       <div className="pointer-events-none absolute inset-x-0 bottom-0 px-4 pb-3 pt-10">
+        {durationLabel && (
+          <p className="mb-2 text-right text-[11px] font-medium tabular-nums text-white/85 drop-shadow-sm">
+            {durationLabel}
+          </p>
+        )}
         <div
           ref={progressRef}
           role="slider"

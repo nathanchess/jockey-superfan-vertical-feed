@@ -57,7 +57,7 @@ export function Sidebar() {
 
   return (
     <aside
-      className={`fixed inset-y-0 left-0 z-50 flex h-dvh flex-col border-r border-border bg-surface transition-[width] duration-200 ease-out ${widthClass}`}
+      className={`fixed inset-y-0 left-0 z-30 flex h-dvh flex-col border-r border-border bg-surface transition-[width] duration-200 ease-out ${widthClass}`}
       aria-label="Main navigation"
     >
       <div

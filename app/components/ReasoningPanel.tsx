@@ -48,12 +48,12 @@ export function ReasoningPanel({
     <>
       <button
         type="button"
-        className="fixed inset-0 z-40 bg-brand-charcoal/20"
+        className="fixed inset-0 z-50 bg-brand-charcoal/25 backdrop-blur-[1px]"
         aria-label="Close reasoning panel"
         onClick={onClose}
       />
       <aside
-        className="fixed right-0 top-0 z-50 flex h-screen w-full max-w-md flex-col border-l border-border-light bg-surface shadow-xl"
+        className="fixed right-0 top-0 z-[51] flex h-screen w-full max-w-md flex-col border-l border-border-light bg-surface shadow-xl"
         aria-label="Match reasoning"
       >
         <header className="flex items-center justify-between gap-3 border-b border-border-light px-5 py-4">

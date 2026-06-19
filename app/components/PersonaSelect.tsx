@@ -55,7 +55,7 @@ export function PersonaSelect({ profiles, value, onChange }: PersonaSelectProps)
       {open && (
         <ul
           role="listbox"
-          className="absolute right-0 z-50 mt-2 min-w-[200px] overflow-hidden rounded-lg border border-border-light bg-surface py-1 shadow-lg"
+          className="absolute right-0 z-[100] mt-2 min-w-[200px] overflow-hidden rounded-lg border border-border-light bg-surface py-1 shadow-lg"
         >
           {profiles.map((p) => (
             <li key={p.id} role="option" aria-selected={p.id === value}>
