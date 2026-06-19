@@ -102,6 +102,11 @@ export function Sidebar() {
       </nav>
 
       <div className="mt-auto shrink-0 space-y-1 border-t border-border-light p-2">
+        {!collapsed && (
+          <p className="px-3 pb-0.5 text-[10px] font-medium uppercase tracking-wider text-text-tertiary">
+            Demo app
+          </p>
+        )}
         {showReady && shows.length > 0 && (
           <ShowSelect
             shows={shows}
