@@ -103,9 +103,11 @@ export function Sidebar() {
 
       <div className="mt-auto shrink-0 space-y-1 border-t border-border-light p-2">
         {!collapsed && (
-          <p className="px-3 pb-0.5 text-[10px] font-medium uppercase tracking-wider text-text-tertiary">
-            Demo app
-          </p>
+          <div className="flex justify-center px-2 pb-1.5">
+            <span className="inline-block rounded-sm border border-border bg-card px-2 py-1 font-system text-[10px] font-medium uppercase tracking-wider text-text-secondary">
+              Demo app
+            </span>
+          </div>
         )}
         {showReady && shows.length > 0 && (
           <ShowSelect
