@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { loadManifest } from "@/lib/manifest";
+import { manifestHitsForCategory } from "@/lib/manifestSearch";
 import { isProfileId } from "@/lib/ranking";
 import { scoreSegment } from "@/lib/scoring";
 import { PREFERENCE_PROFILES } from "@/lib/profiles";
 import { getShowIndexId, resolveShowId } from "@/lib/shows";
+import { isPrimaryCategory } from "@/lib/taxonomy";
 import { searchIndex } from "@/lib/twelvelabs";
 import { logServerTelemetry } from "@/lib/telemetry";
 import type { SearchHit, SearchResponse, Segment } from "@/lib/types";
@@ -49,6 +51,7 @@ export async function GET(request: NextRequest) {
   const startedAt = Date.now();
   const { searchParams } = request.nextUrl;
   const query = searchParams.get("q")?.trim() ?? "";
+  const categoryParam = searchParams.get("category")?.trim() ?? "";
   const profileParam = searchParams.get("profile") ?? "drama_addict";
   const showParam = resolveShowId(searchParams.get("show"));
 
@@ -109,6 +112,16 @@ export async function GET(request: NextRequest) {
       if (Math.abs(rankDiff) > 0.001) return rankDiff;
       return (b.match_score ?? 0) - (a.match_score ?? 0);
     });
+
+    if (results.length === 0 && categoryParam && isPrimaryCategory(categoryParam)) {
+      const fallback = manifestHitsForCategory(
+        manifest.segments,
+        categoryParam,
+        preference,
+        24,
+      );
+      results.push(...fallback);
+    }
 
     const body: SearchResponse = {
       show: showParam,

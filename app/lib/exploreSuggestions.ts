@@ -1,4 +1,6 @@
 import { formatCategoryLabel } from "@/lib/categoryLabels";
+import { marengoQueryForCategory } from "@/lib/manifestSearch";
+import { isPrimaryCategory } from "@/lib/taxonomy";
 import type { ProfileId } from "@/lib/types";
 
 export const SUGGESTED_QUERIES: Record<ProfileId, readonly string[]> = {
@@ -28,13 +30,16 @@ function capitalizeSearchQuery(query: string): string {
   return trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
 }
 
-/** Semantic search query for “search for more” actions from clip/category context. */
+/** Semantic Marengo query for “search for more” from a browse category. */
 export function categoryMomentsSearchQuery(category: string): string {
-  const label = formatCategoryLabel(category).toLowerCase();
-  if (label.endsWith(" moments") || label.endsWith(" moment")) {
-    return capitalizeSearchQuery(`more ${label}`);
-  }
-  return capitalizeSearchQuery(`more ${label} moments`);
+  const marengo = marengoQueryForCategory(category);
+  if (marengo) return capitalizeSearchQuery(marengo);
+  return capitalizeSearchQuery(formatCategoryLabel(category));
+}
+
+export function categoryFromSearchContext(category?: string | null): string | null {
+  if (!category || !isPrimaryCategory(category)) return null;
+  return category;
 }
 
 /** Build a semantic search query from clip metadata for “search for more”. */

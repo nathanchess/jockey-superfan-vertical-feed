@@ -300,25 +300,28 @@ export function ShortsFeed({ initialSegmentId }: ShortsFeedProps) {
   const hasRelatedClips = relatedClips.length > 0;
   const feedEmpty = !loadingFeed && !feedError && clips.length === 0;
 
+  const playbackReady =
+    Boolean(clip && playback?.asset_id === clip.asset_id && playback.hls_url);
+
   const videoPanel = clip ? (
-    <div className="relative mx-auto aspect-video h-full max-h-full w-auto max-w-4xl overflow-hidden rounded-2xl bg-brand-charcoal shadow-md ring-1 ring-border">
-      {loadingPlayback && (
-        <div className="flex h-full min-h-[200px] w-full items-center justify-center bg-card">
-          <StrandIcon name="spinner" className="h-8 w-8 animate-pulse text-text-tertiary" />
-        </div>
-      )}
-      {!loadingPlayback && playback?.hls_url && clip && (
+    <div className="relative mx-auto aspect-video h-full max-h-full w-full max-w-4xl overflow-hidden rounded-2xl bg-brand-charcoal shadow-md ring-1 ring-border">
+      {playbackReady && playback && (
         <SegmentPlayer
           key={clipGridKey(clip)}
-          hlsUrl={playback.hls_url}
+          hlsUrl={playback.hls_url!}
           startSec={clip.start_sec}
           endSec={clip.end_sec}
           poster={playback.thumbnail_url}
           durationLabel={formatTimestampRange(clip.start_sec, clip.end_sec)}
         />
       )}
-      {!loadingPlayback && playbackError && (
-        <div className="flex h-full min-h-[200px] w-full items-center justify-center p-6 text-center text-sm text-error">
+      {(!playbackReady || loadingPlayback) && (
+        <div className="absolute inset-0 flex items-center justify-center bg-brand-charcoal">
+          <StrandIcon name="spinner" className="h-8 w-8 animate-pulse text-text-tertiary" />
+        </div>
+      )}
+      {!loadingPlayback && playbackError && !playbackReady && (
+        <div className="absolute inset-0 flex items-center justify-center p-6 text-center text-sm text-error">
           {playbackError}
         </div>
       )}
@@ -387,7 +390,7 @@ export function ShortsFeed({ initialSegmentId }: ShortsFeedProps) {
           <div className="flex h-full min-h-0 min-w-0 max-w-[calc(56rem+4.5rem)] items-center justify-center gap-4 md:gap-6">
             <div className="flex h-full min-h-0 min-w-0 flex-1 items-center justify-center">
               {clip && (
-                <ClipTransition clipKey={clipKey} direction={slideDirection}>
+                <ClipTransition clipKey={clipKey} direction={slideDirection} fill>
                   {videoPanel}
                 </ClipTransition>
               )}

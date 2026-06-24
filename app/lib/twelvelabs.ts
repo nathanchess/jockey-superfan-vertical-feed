@@ -120,7 +120,31 @@ export async function searchIndex(
   }
 
   const body = (await res.json()) as TlSearchResponse;
-  const hits = flattenSearchItems(body.data ?? []);
+  let hits = flattenSearchItems(body.data ?? []);
+
+  // Marengo 3 indexes often need transcription in search_options to return hits.
+  if (hits.length === 0) {
+    const retryForm = new FormData();
+    retryForm.append("index_id", indexId);
+    retryForm.append("query_text", query.trim());
+    retryForm.append("search_options", "transcription");
+    retryForm.append("group_by", "clip");
+    retryForm.append("operator", "or");
+    retryForm.append("page_limit", String(pageLimit));
+
+    const retryRes = await fetch(`${config.baseUrl}/search`, {
+      method: "POST",
+      headers: { "x-api-key": config.apiKey },
+      body: retryForm,
+      cache: "no-store",
+    });
+
+    if (retryRes.ok) {
+      const retryBody = (await retryRes.json()) as TlSearchResponse;
+      hits = flattenSearchItems(retryBody.data ?? []);
+    }
+  }
+
   const maps = await loadIndexedAssetMaps(config, indexId);
   return hits.map((hit) => ({
     ...hit,

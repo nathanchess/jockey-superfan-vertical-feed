@@ -355,7 +355,7 @@ function ClipModal({
   showId: string;
   showName: string | null;
   onClose: () => void;
-  onSearchSimilar: (query: string) => void;
+  onSearchSimilar: (query: string, category?: string) => void;
 }) {
   const [playback, setPlayback] = useState<AssetPlaybackResponse | null>(null);
   const [loading, setLoading] = useState(false);
@@ -494,7 +494,7 @@ function ClipModal({
                 type="button"
                 onClick={() => {
                   onClose();
-                  onSearchSimilar(similarQuery);
+                  onSearchSimilar(similarQuery, clip.primary_category);
                 }}
                 className="inline-flex cursor-pointer items-center gap-2 rounded-xl border border-border bg-surface px-4 py-2 text-sm font-medium text-text-primary transition-colors hover:bg-card"
               >
@@ -537,6 +537,7 @@ export function ExploreGrid() {
   const [profile, setProfile] = useState<ProfileId>("drama_addict");
   const [searchQuery, setSearchQuery] = useState("");
   const [activeQuery, setActiveQuery] = useState<string | null>(null);
+  const [searchCategory, setSearchCategory] = useState<string | null>(null);
   const [searchFocused, setSearchFocused] = useState(false);
   const [selectedClip, setSelectedClip] = useState<GridClip | null>(null);
 
@@ -591,8 +592,9 @@ export function ExploreGrid() {
     setShowRawData(false);
 
     const showQ = `show=${showId}`;
+    const categoryQ = searchCategory ? `&category=${encodeURIComponent(searchCategory)}` : "";
     const url = activeQuery
-      ? `/api/search?${showQ}&q=${encodeURIComponent(activeQuery)}&profile=${profile}`
+      ? `/api/search?${showQ}&q=${encodeURIComponent(activeQuery)}&profile=${profile}${categoryQ}`
       : `/api/feed?${showQ}&profile=${profile}&offset=0&limit=${EXPLORE_BROWSE_LIMIT}`;
 
     console.log(`[ExploreGrid] reqId=${reqId} fetching ${url}`);
@@ -629,20 +631,22 @@ export function ExploreGrid() {
       });
 
     return () => { stale = true; };
-  }, [profile, activeQuery, showId, showReady]);
+  }, [profile, activeQuery, searchCategory, showId, showReady]);
 
   const handleProfileChange = useCallback((p: ProfileId) => {
     setProfile(p);
   }, []);
 
-  const applySearch = useCallback((query: string) => {
+  const applySearch = useCallback((query: string, category?: string) => {
     const trimmed = query.trim();
     setSearchQuery(trimmed);
     setActiveQuery(trimmed || null);
+    setSearchCategory(category?.trim() || null);
   }, []);
 
   const onSubmit = (e: FormEvent) => {
     e.preventDefault();
+    setSearchCategory(null);
     applySearch(searchQuery);
   };
 
@@ -651,6 +655,7 @@ export function ExploreGrid() {
       setSearchQuery("");
       setSearchFocused(false);
       setActiveQuery(null);
+      setSearchCategory(null);
     }
   };
 
@@ -722,7 +727,7 @@ export function ExploreGrid() {
                     aria-label="Search show moments"
                   />
                   {searchQuery && (
-                    <button type="button" onClick={() => { setSearchQuery(""); setActiveQuery(null); }} className="shrink-0 rounded-md p-1 text-text-tertiary hover:text-text-primary" aria-label="Clear">
+                    <button type="button" onClick={() => { setSearchQuery(""); setActiveQuery(null); setSearchCategory(null); }} className="shrink-0 rounded-md p-1 text-text-tertiary hover:text-text-primary" aria-label="Clear">
                       <StrandIcon name="close" className="h-4 w-4" />
                     </button>
                   )}
@@ -775,7 +780,7 @@ export function ExploreGrid() {
                     </div>
                     <button
                       type="button"
-                      onClick={() => applySearch(categoryMomentsSearchQuery(category))}
+                      onClick={() => applySearch(categoryMomentsSearchQuery(category), category)}
                       className="inline-flex shrink-0 cursor-pointer items-center gap-1.5 rounded-lg border border-border-light bg-surface px-2.5 py-1.5 text-xs font-medium text-text-secondary transition-colors hover:border-border hover:bg-card hover:text-text-primary"
                     >
                       <StrandIcon name="search" className="h-3.5 w-3.5" />

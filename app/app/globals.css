@@ -55,34 +55,18 @@ body {
   font-family: var(--strand-font-system);
 }
 
-@keyframes clip-enter-from-below {
+@keyframes clip-enter-fade {
   from {
     opacity: 0;
-    transform: translateY(2rem);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
   }
 }
 
-@keyframes clip-enter-from-above {
-  from {
-    opacity: 0;
-    transform: translateY(-2rem);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.clip-enter-from-below {
-  animation: clip-enter-from-below 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
-}
-
+.clip-enter-from-below,
 .clip-enter-from-above {
-  animation: clip-enter-from-above 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation: clip-enter-fade 0.32s ease-out both;
 }
 
 /* Custom player — hide any native control overlays (PiP, enhance, etc.) */

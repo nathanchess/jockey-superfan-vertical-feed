@@ -9,6 +9,8 @@ type ClipTransitionProps = {
   direction: SlideDirection;
   children: ReactNode;
   className?: string;
+  /** Fill parent height (video panel). */
+  fill?: boolean;
 };
 
 export function ClipTransition({
@@ -16,12 +18,16 @@ export function ClipTransition({
   direction,
   children,
   className = "",
+  fill = false,
 }: ClipTransitionProps) {
   const animClass =
     direction === "down" ? "clip-enter-from-below" : "clip-enter-from-above";
 
   return (
-    <div key={clipKey} className={`${animClass} ${className}`.trim()}>
+    <div
+      key={clipKey}
+      className={`${animClass} ${fill ? "h-full w-full" : ""} ${className}`.trim()}
+    >
       {children}
     </div>
   );
